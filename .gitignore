@@ -28,6 +28,7 @@ models/
 !example-model.bat
 !assemble-catalog.bat
 !generate-catalog-md.bat
+!publish.bat
 
 # ─── Personal project notes ───────────────────────────────────────────────────
 # Local knowledge files, not meant for public consumption.
