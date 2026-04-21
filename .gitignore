@@ -1,0 +1,50 @@
+# ─── Local configuration ──────────────────────────────────────────────────────
+# Your own server host:name map. Copy servers.example.json to servers.json and
+# edit for your infrastructure.
+servers.json
+
+# ─── Runtime state ────────────────────────────────────────────────────────────
+# Per-test completion tracking — specific to each user's test history.
+test-state/
+
+# Rate-limit / consecutive-failure counter for --backoff mode.
+.backoff-state.json
+
+# Atomic-write temp files (should never be committed).
+*.tmp.*
+models-catalog.json.tmp.*
+models/*.tmp.*
+
+# ─── Test output ──────────────────────────────────────────────────────────────
+# The assembled catalog is shared publicly (used as a reference benchmark).
+# The per-model source files under models/ stay local — assemble-catalog.js
+# rebuilds the shared catalog from those on demand.
+models/
+
+# ─── Per-model batch files (user-specific) ────────────────────────────────────
+# Every user has a different model list and different servers. Generate your own
+# from example-model.bat (copy, rename, change MODEL variable).
+*.bat
+!example-model.bat
+!assemble-catalog.bat
+!generate-catalog-md.bat
+
+# ─── Personal project notes ───────────────────────────────────────────────────
+# Local knowledge files, not meant for public consumption.
+BRAINDUMP.md
+brainstart.md
+agents_export.md
+
+# ─── Editor / tooling / OS ────────────────────────────────────────────────────
+node_modules/
+.claude/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# ─── Cloud-sync conflict copies ───────────────────────────────────────────────
+# OneDrive / Dropbox occasionally drops these when multiple machines sync.
+*(conflicted copy*).json
+*.CORRUPT-backup.json

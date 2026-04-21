@@ -1,0 +1,25 @@
+{
+  "name": "typecast",
+  "version": "1.0.0",
+  "description": "Role-fit benchmark for local LLMs. Each model auditions for 17 agent roles (router, coder, reviewer, planner, ...); per-role scoring reveals which role the model is typecast for — and which it shouldn't play. Works with Ollama and llama.cpp.",
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "assemble": "node assemble-catalog.js",
+    "render": "node generate-catalog-md.js",
+    "test-role": "node test-role.js",
+    "test-server": "node test-server.js"
+  },
+  "keywords": [
+    "llm",
+    "benchmark",
+    "ollama",
+    "llama.cpp",
+    "agent",
+    "evaluation",
+    "local-llm"
+  ]
+}

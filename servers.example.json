@@ -1,0 +1,7 @@
+{
+  "_comment": "Rename this file to servers.json and customize for your infrastructure. Keys are host:port, values are the human-friendly name that gets stored in catalog.servers[] and per-test results. If servers.json does not exist, the host:port itself is used as the server name.",
+  "localhost:11434": "ollama-local",
+  "127.0.0.1:11434": "ollama-local",
+  "192.168.1.100:11434": "ollama-desktop",
+  "example.tailnet.ts.net:8080": "llamacpp-remote"
+}
