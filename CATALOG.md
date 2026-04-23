@@ -6,10 +6,10 @@ Benchmark results for local LLMs evaluated against 17 agent roles. Each role has
 
 > *Which role is each model typecast for? The top of each section answers it.*
 
-> Last generated: 2026-04-22T10:39:09.171Z  
-> Catalog generated: 2026-04-22T10:39:09.066Z  
+> Last generated: 2026-04-23T01:15:47.419Z  
+> Catalog generated: 2026-04-23T01:15:47.301Z  
 > Total models in catalog: **301**  
-> Tested (has role scores): **71**
+> Tested (has role scores): **72**
 
 ## Jump to
 
@@ -28,15 +28,15 @@ Top **25** tested models ranked by total score across all tested roles.
 | 2 | `kamekichi128/qwen3-4b-instruct-2507:latest` | **+1160** | 68.2 | 143/170 | 47/62 | 4.0B | 2.7 GB | 83 | 17/17 |
 | 3 | `ministral-3:14b` | **+1140** | 67.1 | 142/170 | 50/62 | 13.9B | 8.1 GB | 36 | 17/17 |
 | 4 | `Qwen3-Next-80B-A3B-Instruct-REAP.Q5_K_M.gguf` | **+1080** | 67.5 | 134/160 | 62/80 | 60.3B | — | 23 | 16/17 |
-| 5 | `qwen3:4b-instruct` | **+1020** | 60.0 | 136/170 | 44/62 | 4.0B | 2.7 GB | 83 | 17/17 |
-| 6 | `translategemma:12b` | **+960** | 56.5 | 133/170 | 45/62 | 12.2B | 7.2 GB | 36 | 17/17 |
-| 7 | `Qwen3-Coder-30B-A3B-Instruct-UD-Q4_K_XL.gguf` | **+940** | 58.8 | 127/160 | 54/80 | 30.5B | — | 17 | 16/17 |
-| 8 | `krith/qwen2.5-14b-instruct:IQ3_M` | **+920** | 54.1 | 131/170 | 40/62 | 14.8B | 8.2 GB | 33 | 17/17 |
-| 9 | `qwen2.5-coder:32b` | **+920** | 57.5 | 126/160 | 56/80 | 32.8B | 18.6 GB | 4 | 16/17 |
-| 10 | `qwen3:8b` | **+840** | 49.4 | 127/170 | 38/62 | 8.2B | 5 GB | 102 | 17/17 |
-| 11 | `qwen2.5:14b` | **+830** | 51.9 | 117/151 | 43/67 | 14.8B | 8.7 GB | 8 | 16/17 |
-| 12 | `gemma4:e2b` | **+820** | 48.2 | 126/170 | 42/62 | 5.1B | 3.3 GB | 44 | 17/17 |
-| 13 | `gemma4:e4b` | **+820** | 51.3 | 121/160 | 53/80 | 8.0B | 4.9 GB | 127 | 16/17 |
+| 5 | `qwen2.5:14b` | **+1060** | 62.4 | 138/170 | 44/62 | 14.8B | 8.7 GB | 8 | 17/17 |
+| 6 | `qwen3:4b-instruct` | **+1020** | 60.0 | 136/170 | 44/62 | 4.0B | 2.7 GB | 83 | 17/17 |
+| 7 | `translategemma:12b` | **+960** | 56.5 | 133/170 | 45/62 | 12.2B | 7.2 GB | 36 | 17/17 |
+| 8 | `Qwen3-Coder-30B-A3B-Instruct-UD-Q4_K_XL.gguf` | **+940** | 58.8 | 127/160 | 54/80 | 30.5B | — | 17 | 16/17 |
+| 9 | `krith/qwen2.5-14b-instruct:IQ3_M` | **+920** | 54.1 | 131/170 | 40/62 | 14.8B | 8.2 GB | 33 | 17/17 |
+| 10 | `qwen2.5-coder:32b` | **+920** | 57.5 | 126/160 | 56/80 | 32.8B | 18.6 GB | 4 | 16/17 |
+| 11 | `gemma4:e4b` | **+900** | 52.9 | 130/170 | 41/62 | 8.0B | 4.9 GB | 31 | 17/17 |
+| 12 | `qwen3:8b` | **+840** | 49.4 | 127/170 | 38/62 | 8.2B | 5 GB | 102 | 17/17 |
+| 13 | `gemma4:e2b` | **+820** | 48.2 | 126/170 | 42/62 | 5.1B | 3.3 GB | 44 | 17/17 |
 | 14 | `nemotron-3-nano:4b` | **+780** | 45.9 | 124/170 | 41/62 | 4.0B | 2.7 GB | 166 | 17/17 |
 | 15 | `qwen3:14b` | **+780** | 45.9 | 124/170 | 37/62 | 14.8B | 8.7 GB | 32 | 17/17 |
 | 16 | `cogito:8b` | **+740** | 43.5 | 122/170 | 44/62 | 8.0B | 4.9 GB | 27 | 17/17 |
@@ -46,9 +46,9 @@ Top **25** tested models ranked by total score across all tested roles.
 | 20 | `qwen2.5-coder:7b` | **+720** | 42.4 | 121/170 | 38/62 | 7.6B | 4.7 GB | 37 | 17/17 |
 | 21 | `Llama-4-Scout-17B-16E-Instruct-UD-Q4_K_XL-00001-of-00002.gguf` | **+700** | 41.2 | 120/170 | 40/62 | 107.8B | — | 6 | 17/17 |
 | 22 | `gemma3:4b` | **+680** | 40.0 | 119/170 | 31/62 | 4.3B | 0.6 GB | 160 | 17/17 |
-| 23 | `deepseek-r1:14b` | **+640** | 37.6 | 117/170 | 35/62 | 14.8B | 8.7 GB | 33 | 17/17 |
-| 24 | `phi4-mini:3.8b` | **+620** | 36.5 | 116/170 | 36/62 | 3.8B | 2.6 GB | 193 | 17/17 |
-| 25 | `granite3.3:2b` | **+560** | 32.9 | 113/170 | 33/62 | 2.5B | 1.9 GB | 135 | 17/17 |
+| 23 | `codestral:22b` | **+640** | 42.7 | 104/144 | 35/57 | 22.2B | 5.73 GB | 5 | 15/17 |
+| 24 | `deepseek-r1:14b` | **+640** | 37.6 | 117/170 | 35/62 | 14.8B | 8.7 GB | 33 | 17/17 |
+| 25 | `phi4-mini:3.8b` | **+620** | 36.5 | 116/170 | 36/62 | 3.8B | 2.6 GB | 193 | 17/17 |
 
 ## By VRAM Tier
 
@@ -73,20 +73,20 @@ Best models at each hardware size.
 
 ### Small (4–8 GB)
 
-25 models in this tier. Top 10 shown.
+26 models in this tier. Top 10 shown.
 
 | Rank | Model | Score | Passed | WOW | Params | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|------:|
 | 1 | `translategemma:12b` | **+960** | 133/170 | 45/62 | 12.2B | 36 |
-| 2 | `qwen3:8b` | **+840** | 127/170 | 38/62 | 8.2B | 102 |
-| 3 | `gemma4:e4b` | **+820** | 121/160 | 53/80 | 8.0B | 127 |
+| 2 | `gemma4:e4b` | **+900** | 130/170 | 41/62 | 8.0B | 31 |
+| 3 | `qwen3:8b` | **+840** | 127/170 | 38/62 | 8.2B | 102 |
 | 4 | `cogito:8b` | **+740** | 122/170 | 44/62 | 8.0B | 27 |
 | 5 | `granite3.3:8b` | **+740** | 122/170 | 37/62 | 8.2B | 20 |
 | 6 | `falcon3:10b` | **+720** | 121/170 | 38/62 | 10.3B | 46 |
 | 7 | `qwen2.5-coder:7b` | **+720** | 121/170 | 38/62 | 7.6B | 37 |
-| 8 | `mistral-nemo:latest` | **+540** | 112/170 | 34/62 | 12.2B | 15 |
-| 9 | `dolphin3:8b` | **+520** | 111/170 | 35/62 | 8.0B | 32 |
-| 10 | `phi3:3.8b` | **+500** | 110/170 | 35/62 | 3.8B | 70 |
+| 8 | `codestral:22b` | **+640** | 104/144 | 35/57 | 22.2B | 5 |
+| 9 | `mistral-nemo:latest` | **+540** | 112/170 | 34/62 | 12.2B | 15 |
+| 10 | `dolphin3:8b` | **+520** | 111/170 | 35/62 | 8.0B | 32 |
 
 ### Medium (8–16 GB)
 
@@ -95,8 +95,8 @@ Best models at each hardware size.
 | Rank | Model | Score | Passed | WOW | Params | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|------:|
 | 1 | `ministral-3:14b` | **+1140** | 142/170 | 50/62 | 13.9B | 36 |
-| 2 | `krith/qwen2.5-14b-instruct:IQ3_M` | **+920** | 131/170 | 40/62 | 14.8B | 33 |
-| 3 | `qwen2.5:14b` | **+830** | 117/151 | 43/67 | 14.8B | 8 |
+| 2 | `qwen2.5:14b` | **+1060** | 138/170 | 44/62 | 14.8B | 8 |
+| 3 | `krith/qwen2.5-14b-instruct:IQ3_M` | **+920** | 131/170 | 40/62 | 14.8B | 33 |
 | 4 | `qwen3:14b` | **+780** | 124/170 | 37/62 | 14.8B | 32 |
 | 5 | `gemma2:27b` | **+740** | 117/160 | 54/80 | 27.2B | 6 |
 | 6 | `deepseek-r1:14b` | **+640** | 117/170 | 35/62 | 14.8B | 33 |
@@ -130,7 +130,7 @@ Best models at each hardware size.
 Best performers for each agent role. Click a role to expand.
 
 <details>
-<summary><b>router</b> — 71 tested, 44 passing (score > 0)</summary>
+<summary><b>router</b> — 72 tested, 45 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
@@ -138,23 +138,23 @@ Best performers for each agent role. Click a role to expand.
 | 2 | `minicpm-v:8b` | **+80** | 9/10 | 5/5 | 7.6B | 4.74 GB | 70 |
 | 3 | `ministral-3:14b` | **+80** | 9/10 | 4/5 | 13.9B | 8.1 GB | 38 |
 | 4 | `olmo2:13b` | **+80** | 9/10 | 4/5 | 13.7B | 9.33 GB | 35 |
-| 5 | `cogito:8b` | **+60** | 8/10 | 4/5 | 8.0B | 4.9 GB | 34 |
-| 6 | `command-r7b:7b` | **+60** | 8/10 | 4/5 | 8.0B | 4.9 GB | 95 |
-| 7 | `deepseek-coder-v2:16b` | **+60** | 8/10 | 4/5 | 15.7B | 9.1 GB | 125 |
-| 8 | `falcon3:10b` | **+60** | 8/10 | 3/5 | 10.3B | 6.2 GB | 48 |
-| 9 | `gemma2:2b` | **+60** | 8/10 | 4/5 | 2.6B | 2.82 GB | 130 |
-| 10 | `gemma3:4b` | **+60** | 8/10 | 4/5 | 4.3B | 0.6 GB | 168 |
+| 5 | `codestral:22b` | **+60** | 8/10 | 3/5 | 22.2B | 5.73 GB | 6 |
+| 6 | `cogito:8b` | **+60** | 8/10 | 4/5 | 8.0B | 4.9 GB | 34 |
+| 7 | `command-r7b:7b` | **+60** | 8/10 | 4/5 | 8.0B | 4.9 GB | 95 |
+| 8 | `deepseek-coder-v2:16b` | **+60** | 8/10 | 4/5 | 15.7B | 9.1 GB | 125 |
+| 9 | `falcon3:10b` | **+60** | 8/10 | 3/5 | 10.3B | 6.2 GB | 48 |
+| 10 | `gemma2:2b` | **+60** | 8/10 | 4/5 | 2.6B | 2.82 GB | 130 |
 
 </details>
 
 <details>
-<summary><b>orchestrator</b> — 71 tested, 39 passing (score > 0)</summary>
+<summary><b>orchestrator</b> — 72 tested, 39 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
 | 1 | `deepseek-r1:latest` | **+80** | 9/10 | 3/4 | 8.2B | 5 GB | 44 |
 | 2 | `falcon3:10b` | **+80** | 9/10 | 3/4 | 10.3B | 6.2 GB | 39 |
-| 3 | `gemma4:e4b` | **+80** | 9/10 | 4/5 | 8.0B | 4.9 GB | 124 |
+| 3 | `gemma4:e4b` | **+80** | 9/10 | 3/4 | 8.0B | 4.9 GB | 32 |
 | 4 | `kamekichi128/qwen3-4b-instruct-2507:latest` | **+80** | 9/10 | 3/4 | 4.0B | 2.7 GB | 62 |
 | 5 | `krith/qwen2.5-14b-instruct:IQ3_M` | **+80** | 9/10 | 3/4 | 14.8B | 8.2 GB | 3 |
 | 6 | `qwen2.5-coder:32b` | **+80** | 9/10 | 4/5 | 32.8B | 18.6 GB | 2 |
@@ -166,7 +166,7 @@ Best performers for each agent role. Click a role to expand.
 </details>
 
 <details>
-<summary><b>planner</b> — 71 tested, 41 passing (score > 0)</summary>
+<summary><b>planner</b> — 72 tested, 42 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
@@ -175,16 +175,16 @@ Best performers for each agent role. Click a role to expand.
 | 3 | `Qwen3-Next-80B-A3B-Instruct-REAP.Q5_K_M.gguf` | **+80** | 9/10 | 4/5 | 60.3B | — | 12 |
 | 4 | `qwen3:14b` | **+80** | 9/10 | 3/4 | 14.8B | 8.7 GB | 32 |
 | 5 | `codellama:7b` | **+60** | 8/10 | 2/4 | 7B | 5.05 GB | 33 |
-| 6 | `falcon3:10b` | **+60** | 8/10 | 2/4 | 10.3B | 6.2 GB | 46 |
-| 7 | `gemma4:e2b` | **+60** | 8/10 | 4/4 | 5.1B | 3.3 GB | 48 |
-| 8 | `granite3.3:8b` | **+60** | 8/10 | 2/4 | 8.2B | 5 GB | 21 |
-| 9 | `kamekichi128/qwen3-4b-instruct-2507:latest` | **+60** | 8/10 | 3/4 | 4.0B | 2.7 GB | 84 |
-| 10 | `krith/qwen2.5-14b-instruct:IQ3_M` | **+60** | 8/10 | 2/4 | 14.8B | 8.2 GB | 34 |
+| 6 | `codestral:22b` | **+60** | 8/10 | 2/4 | 22.2B | 5.73 GB | 5 |
+| 7 | `falcon3:10b` | **+60** | 8/10 | 2/4 | 10.3B | 6.2 GB | 46 |
+| 8 | `gemma4:e2b` | **+60** | 8/10 | 4/4 | 5.1B | 3.3 GB | 48 |
+| 9 | `gemma4:e4b` | **+60** | 8/10 | 3/4 | 8.0B | 4.9 GB | 30 |
+| 10 | `granite3.3:8b` | **+60** | 8/10 | 2/4 | 8.2B | 5 GB | 21 |
 
 </details>
 
 <details>
-<summary><b>coder</b> — 71 tested, 59 passing (score > 0)</summary>
+<summary><b>coder</b> — 72 tested, 60 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
@@ -195,14 +195,14 @@ Best performers for each agent role. Click a role to expand.
 | 5 | `ministral-3:14b` | **+100** | 10/10 | 5/5 | 13.9B | 8.1 GB | 35 |
 | 6 | `qwen2.5-coder:32b` | **+100** | 10/10 | 5/5 | 32.8B | 18.6 GB | 4 |
 | 7 | `Qwen3-Next-80B-A3B-Instruct-REAP.Q5_K_M.gguf` | **+100** | 10/10 | 5/5 | 60.3B | — | 10 |
-| 8 | `deepseek-coder-v2:16b` | **+80** | 9/10 | 4/5 | 15.7B | 9.1 GB | 113 |
-| 9 | `deepseek-coder:6.7b` | **+80** | 9/10 | 4/5 | 7B | 4.4 GB | 12 |
-| 10 | `dolphin3:8b` | **+80** | 9/10 | 4/5 | 8.0B | 5.24 GB | 28 |
+| 8 | `codestral:22b` | **+80** | 9/10 | 4/5 | 22.2B | 5.73 GB | 5 |
+| 9 | `deepseek-coder-v2:16b` | **+80** | 9/10 | 4/5 | 15.7B | 9.1 GB | 113 |
+| 10 | `deepseek-coder:6.7b` | **+80** | 9/10 | 4/5 | 7B | 4.4 GB | 12 |
 
 </details>
 
 <details>
-<summary><b>reviewer</b> — 71 tested, 28 passing (score > 0)</summary>
+<summary><b>reviewer</b> — 72 tested, 28 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
@@ -220,7 +220,7 @@ Best performers for each agent role. Click a role to expand.
 </details>
 
 <details>
-<summary><b>summarizer</b> — 70 tested, 61 passing (score > 0)</summary>
+<summary><b>summarizer</b> — 71 tested, 62 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
@@ -238,7 +238,7 @@ Best performers for each agent role. Click a role to expand.
 </details>
 
 <details>
-<summary><b>architect</b> — 70 tested, 31 passing (score > 0)</summary>
+<summary><b>architect</b> — 71 tested, 31 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
@@ -251,12 +251,12 @@ Best performers for each agent role. Click a role to expand.
 | 7 | `Qwen3-Next-80B-A3B-Instruct-REAP.Q5_K_M.gguf` | **+60** | 8/10 | 3/5 | 60.3B | — | 15 |
 | 8 | `qwen3:8b` | **+60** | 8/10 | 3/5 | 8.2B | 5 GB | 101 |
 | 9 | `deepseek-coder-v2:16b` | **+40** | 7/10 | 3/5 | 15.7B | 9.1 GB | 121 |
-| 10 | `gemma4:e4b` | **+40** | 7/10 | 3/5 | 8.0B | 4.9 GB | 127 |
+| 10 | `gemma4:e4b` | **+40** | 7/10 | 2/5 | 8.0B | 4.9 GB | 29 |
 
 </details>
 
 <details>
-<summary><b>critic</b> — 70 tested, 46 passing (score > 0)</summary>
+<summary><b>critic</b> — 71 tested, 46 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
@@ -267,14 +267,14 @@ Best performers for each agent role. Click a role to expand.
 | 5 | `Qwen3-Next-80B-A3B-Instruct-Q4_K_M.gguf` | **+80** | 9/10 | 0/0 | 79.7B | — | 27 |
 | 6 | `qwen3:14b` | **+80** | 9/10 | 0/0 | 14.8B | 8.7 GB | 32 |
 | 7 | `gemma3:4b` | **+60** | 8/10 | 0/0 | 4.3B | 0.6 GB | 162 |
-| 8 | `gemma4:e4b` | **+60** | 8/10 | 4/5 | 8.0B | 4.9 GB | 129 |
-| 9 | `granite3.3:2b` | **+60** | 8/10 | 0/0 | 2.5B | 1.9 GB | 139 |
-| 10 | `granite3.3:8b` | **+60** | 8/10 | 0/0 | 8.2B | 5 GB | 23 |
+| 8 | `granite3.3:2b` | **+60** | 8/10 | 0/0 | 2.5B | 1.9 GB | 139 |
+| 9 | `granite3.3:8b` | **+60** | 8/10 | 0/0 | 8.2B | 5 GB | 23 |
+| 10 | `krith/qwen2.5-14b-instruct:IQ3_M` | **+60** | 8/10 | 0/0 | 14.8B | 8.2 GB | 34 |
 
 </details>
 
 <details>
-<summary><b>tester</b> — 70 tested, 52 passing (score > 0)</summary>
+<summary><b>tester</b> — 71 tested, 53 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
@@ -286,40 +286,40 @@ Best performers for each agent role. Click a role to expand.
 | 6 | `qwen2.5-coder:32b` | **+100** | 10/10 | 5/5 | 32.8B | 18.6 GB | 4 |
 | 7 | `command-r7b:7b` | **+80** | 9/10 | 4/5 | 8.0B | 4.9 GB | 33 |
 | 8 | `gemma2:27b` | **+80** | 9/10 | 5/5 | 27.2B | 15.5 GB | 5 |
-| 9 | `gemma4:e4b` | **+80** | 9/10 | 5/5 | 8.0B | 4.9 GB | 128 |
-| 10 | `ministral-3:14b` | **+80** | 9/10 | 5/5 | 13.9B | 8.1 GB | 35 |
+| 9 | `ministral-3:14b` | **+80** | 9/10 | 5/5 | 13.9B | 8.1 GB | 35 |
+| 10 | `olmo2:13b` | **+80** | 9/10 | 4/5 | 13.7B | 9.33 GB | 35 |
 
 </details>
 
 <details>
-<summary><b>debugger</b> — 69 tested, 48 passing (score > 0)</summary>
+<summary><b>debugger</b> — 70 tested, 49 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
-| 1 | `cogito:8b` | **+100** | 10/10 | 5/5 | 8.0B | 4.9 GB | 28 |
-| 2 | `deepseek-r1:14b` | **+100** | 10/10 | 5/5 | 14.8B | 8.7 GB | 33 |
-| 3 | `falcon3:10b` | **+100** | 10/10 | 5/5 | 10.3B | 6.2 GB | 46 |
-| 4 | `gemma2:27b` | **+100** | 10/10 | 5/5 | 27.2B | 15.5 GB | 6 |
-| 5 | `gemma4:e4b` | **+100** | 10/10 | 5/5 | 8.0B | 4.9 GB | 128 |
-| 6 | `kamekichi128/qwen3-4b-instruct-2507:latest` | **+100** | 10/10 | 5/5 | 4.0B | 2.7 GB | 85 |
-| 7 | `Llama-4-Scout-17B-16E-Instruct-UD-Q4_K_XL-00001-of-00002.gguf` | **+100** | 10/10 | 5/5 | 107.8B | — | 9 |
-| 8 | `llama3.1:8b` | **+100** | 10/10 | 5/5 | 8.0B | 4.9 GB | 28 |
-| 9 | `llama3.2-vision:11b` | **+100** | 10/10 | 5/5 | 10.7B | 6.4 GB | 31 |
-| 10 | `llama3.2:latest` | **+100** | 10/10 | 5/5 | 3.2B | 2.3 GB | 121 |
+| 1 | `codestral:22b` | **+100** | 10/10 | 5/5 | 22.2B | 5.73 GB | 5 |
+| 2 | `cogito:8b` | **+100** | 10/10 | 5/5 | 8.0B | 4.9 GB | 28 |
+| 3 | `deepseek-r1:14b` | **+100** | 10/10 | 5/5 | 14.8B | 8.7 GB | 33 |
+| 4 | `falcon3:10b` | **+100** | 10/10 | 5/5 | 10.3B | 6.2 GB | 46 |
+| 5 | `gemma2:27b` | **+100** | 10/10 | 5/5 | 27.2B | 15.5 GB | 6 |
+| 6 | `gemma4:e4b` | **+100** | 10/10 | 5/5 | 8.0B | 4.9 GB | 31 |
+| 7 | `kamekichi128/qwen3-4b-instruct-2507:latest` | **+100** | 10/10 | 5/5 | 4.0B | 2.7 GB | 85 |
+| 8 | `Llama-4-Scout-17B-16E-Instruct-UD-Q4_K_XL-00001-of-00002.gguf` | **+100** | 10/10 | 5/5 | 107.8B | — | 9 |
+| 9 | `llama3.1:8b` | **+100** | 10/10 | 5/5 | 8.0B | 4.9 GB | 28 |
+| 10 | `llama3.2-vision:11b` | **+100** | 10/10 | 5/5 | 10.7B | 6.4 GB | 31 |
 
 </details>
 
 <details>
-<summary><b>researcher</b> — 69 tested, 54 passing (score > 0)</summary>
+<summary><b>researcher</b> — 70 tested, 55 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
 | 1 | `phi4-reasoning:14b-plus-q4_K_M` | **+100** | 10/10 | 5/5 | 14.7B | 8.6 GB | 12 |
 | 2 | `cogito:8b` | **+80** | 9/10 | 4/5 | 8.0B | 4.9 GB | 26 |
 | 3 | `deepseek-r1:latest` | **+80** | 9/10 | 4/5 | 8.2B | 5 GB | 54 |
-| 4 | `gemma4:e4b` | **+80** | 9/10 | 4/5 | 8.0B | 4.9 GB | 128 |
-| 5 | `kamekichi128/qwen3-4b-instruct-2507:latest` | **+80** | 9/10 | 4/5 | 4.0B | 2.7 GB | 84 |
-| 6 | `ministral-3:14b` | **+80** | 9/10 | 4/5 | 13.9B | 8.1 GB | 35 |
+| 4 | `kamekichi128/qwen3-4b-instruct-2507:latest` | **+80** | 9/10 | 4/5 | 4.0B | 2.7 GB | 84 |
+| 5 | `ministral-3:14b` | **+80** | 9/10 | 4/5 | 13.9B | 8.1 GB | 35 |
+| 6 | `qwen2.5:14b` | **+80** | 9/10 | 4/5 | 14.8B | 8.7 GB | 8 |
 | 7 | `Qwen3-Coder-30B-A3B-Instruct-UD-Q4_K_XL.gguf` | **+80** | 9/10 | 4/5 | 30.5B | — | 20 |
 | 8 | `qwen3:8b` | **+80** | 9/10 | 4/5 | 8.2B | 5 GB | 103 |
 | 9 | `translategemma:12b` | **+80** | 9/10 | 4/5 | 12.2B | 7.2 GB | 36 |
@@ -328,7 +328,7 @@ Best performers for each agent role. Click a role to expand.
 </details>
 
 <details>
-<summary><b>refactorer</b> — 68 tested, 46 passing (score > 0)</summary>
+<summary><b>refactorer</b> — 69 tested, 47 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
@@ -336,63 +336,63 @@ Best performers for each agent role. Click a role to expand.
 | 2 | `dolphin3:8b` | **+100** | 10/10 | 5/5 | 8.0B | 5.24 GB | 29 |
 | 3 | `gemma2:27b` | **+100** | 10/10 | 5/5 | 27.2B | 15.5 GB | 5 |
 | 4 | `llama3:8b` | **+100** | 10/10 | 5/5 | 8.0B | 5.17 GB | 32 |
-| 5 | `deepseek-r1:14b` | **+80** | 9/10 | 4/5 | 14.8B | 8.7 GB | 32 |
-| 6 | `falcon3:10b` | **+80** | 9/10 | 5/5 | 10.3B | 6.2 GB | 46 |
-| 7 | `gemma4:e2b` | **+80** | 9/10 | 5/5 | 5.1B | 3.3 GB | 42 |
-| 8 | `gemma4:e4b` | **+80** | 9/10 | 5/5 | 8.0B | 4.9 GB | 128 |
+| 5 | `codestral:22b` | **+80** | 9/10 | 4/5 | 22.2B | 5.73 GB | 5 |
+| 6 | `deepseek-r1:14b` | **+80** | 9/10 | 4/5 | 14.8B | 8.7 GB | 32 |
+| 7 | `falcon3:10b` | **+80** | 9/10 | 5/5 | 10.3B | 6.2 GB | 46 |
+| 8 | `gemma4:e2b` | **+80** | 9/10 | 5/5 | 5.1B | 3.3 GB | 42 |
 | 9 | `gpt-oss:20b` | **+80** | 9/10 | 5/5 | 20.9B | 11.4 GB | 130 |
 | 10 | `krith/qwen2.5-14b-instruct:IQ3_M` | **+80** | 9/10 | 5/5 | 14.8B | 8.2 GB | 34 |
 
 </details>
 
 <details>
-<summary><b>translator</b> — 69 tested, 47 passing (score > 0)</summary>
+<summary><b>translator</b> — 70 tested, 48 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
 | 1 | `gemma4:e2b` | **+100** | 10/10 | 5/5 | 5.1B | 3.3 GB | 45 |
-| 2 | `gpt-oss:20b` | **+80** | 9/10 | 4/5 | 20.9B | 11.4 GB | 131 |
-| 3 | `nemotron-3-nano:4b` | **+80** | 9/10 | 4/5 | 4.0B | 2.7 GB | 167 |
-| 4 | `falcon3:10b` | **+60** | 8/10 | 3/5 | 10.3B | 6.2 GB | 50 |
-| 5 | `gemma4:e4b` | **+60** | 8/10 | 3/5 | 8.0B | 4.9 GB | 131 |
-| 6 | `ministral-3:14b` | **+60** | 8/10 | 3/5 | 13.9B | 8.1 GB | 38 |
-| 7 | `phi4-mini:3.8b` | **+60** | 8/10 | 3/5 | 3.8B | 2.6 GB | 203 |
-| 8 | `phi4-reasoning:14b-plus-q4_K_M` | **+60** | 8/10 | 3/5 | 14.7B | 8.6 GB | 12 |
-| 9 | `qwen2.5:14b` | **+60** | 8/10 | 3/5 | 14.8B | 8.7 GB | 67 |
+| 2 | `gemma4:e4b` | **+80** | 9/10 | 4/5 | 8.0B | 4.9 GB | 34 |
+| 3 | `gpt-oss:20b` | **+80** | 9/10 | 4/5 | 20.9B | 11.4 GB | 131 |
+| 4 | `nemotron-3-nano:4b` | **+80** | 9/10 | 4/5 | 4.0B | 2.7 GB | 167 |
+| 5 | `codestral:22b` | **+60** | 8/10 | 4/5 | 22.2B | 5.73 GB | 6 |
+| 6 | `falcon3:10b` | **+60** | 8/10 | 3/5 | 10.3B | 6.2 GB | 50 |
+| 7 | `ministral-3:14b` | **+60** | 8/10 | 3/5 | 13.9B | 8.1 GB | 38 |
+| 8 | `phi4-mini:3.8b` | **+60** | 8/10 | 3/5 | 3.8B | 2.6 GB | 203 |
+| 9 | `phi4-reasoning:14b-plus-q4_K_M` | **+60** | 8/10 | 3/5 | 14.7B | 8.6 GB | 12 |
 | 10 | `Qwen3-Coder-30B-A3B-Instruct-UD-Q4_K_XL.gguf` | **+60** | 8/10 | 3/5 | 30.5B | — | 14 |
 
 </details>
 
 <details>
-<summary><b>data_analyst</b> — 69 tested, 49 passing (score > 0)</summary>
+<summary><b>data_analyst</b> — 70 tested, 50 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
-| 1 | `gemma4:e4b` | **+100** | 10/10 | 5/5 | 8.0B | 4.9 GB | 128 |
-| 2 | `kamekichi128/qwen3-4b-instruct-2507:latest` | **+100** | 10/10 | 0/0 | 4.0B | 2.7 GB | 83 |
-| 3 | `Llama-4-Scout-17B-16E-Instruct-UD-Q4_K_XL-00001-of-00002.gguf` | **+100** | 10/10 | 0/0 | 107.8B | — | 11 |
-| 4 | `ministral-3:14b` | **+100** | 10/10 | 0/0 | 13.9B | 8.1 GB | 36 |
-| 5 | `phi4-reasoning:14b-plus-q4_K_M` | **+100** | 10/10 | 0/0 | 14.7B | 8.6 GB | 11 |
-| 6 | `Qwen3-Next-80B-A3B-Instruct-Q4_K_M.gguf` | **+100** | 10/10 | 0/0 | 79.7B | — | 27 |
-| 7 | `Qwen3-Next-80B-A3B-Instruct-REAP.Q5_K_M.gguf` | **+100** | 10/10 | 5/5 | 60.3B | — | 28 |
-| 8 | `qwen3.5:4b` | **+100** | 10/10 | 0/0 | 4.7B | 3.1 GB | 47 |
-| 9 | `qwen3:8b` | **+100** | 10/10 | 0/0 | 8.2B | 5 GB | 103 |
-| 10 | `deepseek-r1:latest` | **+80** | 9/10 | 0/0 | 8.2B | 5 GB | 53 |
+| 1 | `kamekichi128/qwen3-4b-instruct-2507:latest` | **+100** | 10/10 | 0/0 | 4.0B | 2.7 GB | 83 |
+| 2 | `Llama-4-Scout-17B-16E-Instruct-UD-Q4_K_XL-00001-of-00002.gguf` | **+100** | 10/10 | 0/0 | 107.8B | — | 11 |
+| 3 | `ministral-3:14b` | **+100** | 10/10 | 0/0 | 13.9B | 8.1 GB | 36 |
+| 4 | `phi4-reasoning:14b-plus-q4_K_M` | **+100** | 10/10 | 0/0 | 14.7B | 8.6 GB | 11 |
+| 5 | `Qwen3-Next-80B-A3B-Instruct-Q4_K_M.gguf` | **+100** | 10/10 | 0/0 | 79.7B | — | 27 |
+| 6 | `Qwen3-Next-80B-A3B-Instruct-REAP.Q5_K_M.gguf` | **+100** | 10/10 | 5/5 | 60.3B | — | 28 |
+| 7 | `qwen3.5:4b` | **+100** | 10/10 | 0/0 | 4.7B | 3.1 GB | 47 |
+| 8 | `qwen3:8b` | **+100** | 10/10 | 0/0 | 8.2B | 5 GB | 103 |
+| 9 | `deepseek-r1:latest` | **+80** | 9/10 | 0/0 | 8.2B | 5 GB | 53 |
+| 10 | `gemma4:e4b` | **+80** | 9/10 | 0/0 | 8.0B | 4.9 GB | 30 |
 
 </details>
 
 <details>
-<summary><b>preflight</b> — 69 tested, 22 passing (score > 0)</summary>
+<summary><b>preflight</b> — 70 tested, 23 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
 | 1 | `gemma3:4b` | **+80** | 9/10 | 0/0 | 4.3B | 0.6 GB | 166 |
-| 2 | `qwen2.5-coder:32b` | **+60** | 8/10 | 3/5 | 32.8B | 18.6 GB | 5 |
-| 3 | `Qwen3-Next-80B-A3B-Instruct-REAP.Q5_K_M.gguf` | **+60** | 8/10 | 3/5 | 60.3B | — | 11 |
-| 4 | `translategemma:12b` | **+60** | 8/10 | 0/0 | 12.2B | 7.2 GB | 38 |
-| 5 | `deepseek-r1:14b` | **+40** | 7/10 | 0/0 | 14.8B | 8.7 GB | 33 |
-| 6 | `gemma2:27b` | **+40** | 7/10 | 2/5 | 27.2B | 15.5 GB | 8 |
-| 7 | `gemma4:e4b` | **+40** | 7/10 | 2/5 | 8.0B | 4.9 GB | 129 |
+| 2 | `gemma4:e4b` | **+60** | 8/10 | 0/0 | 8.0B | 4.9 GB | 32 |
+| 3 | `qwen2.5-coder:32b` | **+60** | 8/10 | 3/5 | 32.8B | 18.6 GB | 5 |
+| 4 | `Qwen3-Next-80B-A3B-Instruct-REAP.Q5_K_M.gguf` | **+60** | 8/10 | 3/5 | 60.3B | — | 11 |
+| 5 | `translategemma:12b` | **+60** | 8/10 | 0/0 | 12.2B | 7.2 GB | 38 |
+| 6 | `deepseek-r1:14b` | **+40** | 7/10 | 0/0 | 14.8B | 8.7 GB | 33 |
+| 7 | `gemma2:27b` | **+40** | 7/10 | 2/5 | 27.2B | 15.5 GB | 8 |
 | 8 | `gpt-oss:20b` | **+40** | 7/10 | 2/5 | 20.9B | 11.4 GB | 130 |
 | 9 | `krith/qwen2.5-14b-instruct:IQ3_M` | **+40** | 7/10 | 0/0 | 14.8B | 8.2 GB | 35 |
 | 10 | `nemotron-3-nano:4b` | **+40** | 7/10 | 0/0 | 4.0B | 2.7 GB | 168 |
@@ -400,20 +400,20 @@ Best performers for each agent role. Click a role to expand.
 </details>
 
 <details>
-<summary><b>postcheck</b> — 54 tested, 34 passing (score > 0)</summary>
+<summary><b>postcheck</b> — 56 tested, 36 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
-| 1 | `Qwen3-Next-80B-A3B-Instruct-Q4_K_M.gguf` | **+100** | 10/10 | 0/0 | 79.7B | — | 11 |
-| 2 | `krith/qwen2.5-14b-instruct:IQ3_M` | **+80** | 9/10 | 0/0 | 14.8B | 8.2 GB | 35 |
-| 3 | `ministral-3:14b` | **+80** | 9/10 | 0/0 | 13.9B | 8.1 GB | 36 |
-| 4 | `nemotron-3-nano:4b` | **+80** | 9/10 | 0/0 | 4.0B | 2.7 GB | 167 |
-| 5 | `translategemma:12b` | **+80** | 9/10 | 0/0 | 12.2B | 7.2 GB | 37 |
-| 6 | `cogito:8b` | **+60** | 8/10 | 0/0 | 8.0B | 4.9 GB | 33 |
-| 7 | `deepseek-r1:14b` | **+60** | 8/10 | 0/0 | 14.8B | 8.7 GB | 33 |
-| 8 | `dolphin3:8b` | **+60** | 8/10 | 0/0 | 8.0B | 5.24 GB | 37 |
-| 9 | `falcon3:10b` | **+60** | 8/10 | 0/0 | 10.3B | 6.2 GB | 47 |
-| 10 | `gemma3:4b` | **+60** | 8/10 | 0/0 | 4.3B | 0.6 GB | 165 |
+| 1 | `gemma4:e4b` | **+100** | 10/10 | 0/0 | 8.0B | 4.9 GB | 34 |
+| 2 | `Qwen3-Next-80B-A3B-Instruct-Q4_K_M.gguf` | **+100** | 10/10 | 0/0 | 79.7B | — | 11 |
+| 3 | `krith/qwen2.5-14b-instruct:IQ3_M` | **+80** | 9/10 | 0/0 | 14.8B | 8.2 GB | 35 |
+| 4 | `ministral-3:14b` | **+80** | 9/10 | 0/0 | 13.9B | 8.1 GB | 36 |
+| 5 | `nemotron-3-nano:4b` | **+80** | 9/10 | 0/0 | 4.0B | 2.7 GB | 167 |
+| 6 | `qwen2.5:14b` | **+80** | 9/10 | 0/0 | 14.8B | 8.7 GB | 11 |
+| 7 | `translategemma:12b` | **+80** | 9/10 | 0/0 | 12.2B | 7.2 GB | 37 |
+| 8 | `cogito:8b` | **+60** | 8/10 | 0/0 | 8.0B | 4.9 GB | 33 |
+| 9 | `deepseek-r1:14b` | **+60** | 8/10 | 0/0 | 14.8B | 8.7 GB | 33 |
+| 10 | `dolphin3:8b` | **+60** | 8/10 | 0/0 | 8.0B | 5.24 GB | 37 |
 
 </details>
 
@@ -426,7 +426,7 @@ Best performers for each agent role. Click a role to expand.
 | 2 | `qwen3:4b-instruct` | **+60** | 8/10 | 4/5 | 4.0B | 2.7 GB | 83 |
 | 3 | `deepseek-r1:latest` | **+40** | 7/10 | 4/5 | 8.2B | 5 GB | 52 |
 | 4 | `ministral-3:14b` | **+40** | 7/10 | 3/5 | 13.9B | 8.1 GB | 36 |
-| 5 | `qwen2.5:14b` | **+40** | 7/10 | 2/5 | 14.8B | 8.7 GB | 62 |
+| 5 | `qwen2.5:14b` | **+40** | 7/10 | 2/5 | 14.8B | 8.7 GB | 8 |
 | 6 | `Qwen3-Coder-30B-A3B-Instruct-UD-Q4_K_XL.gguf` | **+40** | 7/10 | 3/5 | 30.5B | — | 17 |
 | 7 | `Qwen3-Next-80B-A3B-Instruct-Q4_K_M.gguf` | **+40** | 7/10 | 3/5 | 79.7B | — | 21 |
 | 8 | `deepseek-coder-v2:16b` | **+20** | 6/10 | 3/5 | 15.7B | 9.1 GB | 119 |
@@ -446,15 +446,15 @@ Best performers for each agent role. Click a role to expand.
 | `kamekichi128/qwen3-4b-instruct-2507:latest` | **+1160** | +80 | +80 | +60 | +80 | +40 | +80 | +60 | +80 | +100 | +100 | +80 | +60 | +40 | +100 | +20 | +40 | +60 |
 | `ministral-3:14b` | **+1140** | +80 | +40 | +80 | +100 | +40 | +80 | +40 | +60 | +80 | +100 | +80 | +80 | +60 | +100 | 0 | +80 | +40 |
 | `Qwen3-Next-80B-A3B-Instruct-REAP.Q5_K_M.gguf` | **+1080** | +60 | +80 | +80 | +100 | +40 | +100 | +60 | +60 | +80 | +100 | +60 | +80 | 0 | +100 | +60 | — | +20 |
+| `qwen2.5:14b` | **+1060** | +40 | +80 | +80 | +60 | +20 | +80 | 0 | +80 | +80 | +100 | +80 | +80 | +40 | +80 | +40 | +80 | +40 |
 | `qwen3:4b-instruct` | **+1020** | +60 | +80 | +60 | +80 | +40 | +100 | +40 | +40 | +80 | +100 | +40 | +80 | +20 | +80 | +20 | +40 | +60 |
 | `translategemma:12b` | **+960** | +40 | +40 | +60 | +80 | +60 | +80 | +40 | +20 | +80 | +100 | +80 | +60 | +40 | +20 | +60 | +80 | +20 |
 | `Qwen3-Coder-30B-A3B-Instruct-UD-Q4_K_XL.gguf` | **+940** | +60 | +60 | +60 | +60 | +40 | +60 | +40 | +60 | +80 | +80 | +80 | +60 | +60 | +80 | +20 | — | +40 |
 | `krith/qwen2.5-14b-instruct:IQ3_M` | **+920** | +20 | +80 | +60 | +80 | +20 | +100 | 0 | +60 | +40 | +80 | +60 | +80 | +40 | +60 | +40 | +80 | +20 |
 | `qwen2.5-coder:32b` | **+920** | +60 | +80 | -20 | +100 | +20 | +100 | 0 | +60 | +100 | +100 | +60 | +80 | +40 | +80 | +60 | — | 0 |
+| `gemma4:e4b` | **+900** | -40 | +80 | +60 | +60 | 0 | +80 | +40 | 0 | +60 | +100 | +60 | +60 | +80 | +80 | +60 | +100 | +20 |
 | `qwen3:8b` | **+840** | 0 | +80 | +40 | +40 | +40 | +80 | +60 | +20 | +60 | +60 | +80 | +60 | +40 | +100 | +20 | +60 | 0 |
-| `qwen2.5:14b` | **+830** | +40 | +80 | +80 | +60 | +20 | +80 | 0 | +80 | +10 | +80 | +60 | +80 | +60 | +40 | +20 | — | +40 |
 | `gemma4:e2b` | **+820** | -60 | +40 | +60 | +80 | +40 | +100 | +20 | +40 | +100 | +60 | +60 | +80 | +100 | +40 | +20 | +40 | 0 |
-| `gemma4:e4b` | **+820** | -40 | +80 | +20 | +80 | -40 | +60 | +40 | +60 | +80 | +100 | +80 | +80 | +60 | +100 | +40 | — | +20 |
 | `nemotron-3-nano:4b` | **+780** | +60 | +20 | -60 | +60 | +20 | +80 | +60 | +40 | +60 | +80 | +40 | +80 | +80 | +60 | +40 | +80 | -20 |
 | `qwen3:14b` | **+780** | -20 | +60 | +80 | +40 | -20 | +100 | +40 | +80 | +20 | +80 | +60 | +80 | +20 | +80 | 0 | +60 | +20 |
 | `cogito:8b` | **+740** | +60 | -20 | 0 | +60 | +20 | +80 | +20 | +80 | +100 | +100 | +80 | +60 | +40 | +20 | -20 | +60 | 0 |
@@ -464,6 +464,7 @@ Best performers for each agent role. Click a role to expand.
 | `qwen2.5-coder:7b` | **+720** | +40 | +60 | +40 | +80 | 0 | +60 | 0 | +20 | +80 | +100 | +40 | +80 | +40 | +20 | +20 | +40 | 0 |
 | `Llama-4-Scout-17B-16E-Instruct-UD-Q4_K_XL-00001-of-00002.gguf` | **+700** | +40 | +40 | 0 | +80 | +20 | +80 | +20 | +60 | +60 | +100 | +40 | +80 | +40 | +100 | -100 | +40 | 0 |
 | `gemma3:4b` | **+680** | +60 | +20 | +20 | +40 | 0 | +60 | +20 | +60 | +40 | +60 | +40 | 0 | +40 | +60 | +80 | +60 | +20 |
+| `codestral:22b` | **+640** | +60 | -20 | +60 | +80 | 0 | +60 | 0 | +20 | +40 | +100 | +40 | +80 | +60 | +40 | +20 | — | — |
 | `deepseek-r1:14b` | **+640** | -60 | -60 | +40 | +60 | 0 | +60 | +60 | +20 | +60 | +100 | +60 | +80 | +40 | +60 | +40 | +60 | +20 |
 | `phi4-mini:3.8b` | **+620** | +60 | +20 | +20 | +80 | -40 | +80 | -20 | +40 | +60 | +80 | +40 | +60 | +60 | +20 | +20 | +60 | -20 |
 | `granite3.3:2b` | **+560** | +60 | -20 | +40 | +40 | +20 | +80 | 0 | +60 | +20 | +40 | +60 | +40 | +40 | +40 | 0 | +40 | 0 |
