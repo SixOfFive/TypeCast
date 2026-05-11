@@ -1,7 +1,7 @@
 {
   "_meta": {
     "description": "Model catalog with per-role benchmark scores. Assembled from models/*.json.",
-    "generatedAt": "2026-05-11T01:58:16.511Z",
+    "generatedAt": "2026-05-11T18:15:30.443Z",
     "registrySource": "ollama.com/library (scraped)",
     "voteIncrement": 1,
     "voteMax": 1000000,
@@ -20,7 +20,7 @@
         "gpu": "RTX 3060M 6GB"
       }
     ],
-    "modelCount": 368
+    "modelCount": 369
   },
   "0xIbra/supergemma4-26b-uncensored-gguf-v2:Q4_K_M": {
     "preferred_for": [
@@ -9099,7 +9099,7 @@
         "avgTotalMs": 15177,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:49.281Z",
+        "testedAt": "2026-05-11T15:35:52.861Z",
         "tests": [
           {
             "id": "router-1",
@@ -9266,7 +9266,7 @@
         "avgTotalMs": 13193,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:49.406Z",
+        "testedAt": "2026-05-11T15:35:52.986Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -9433,7 +9433,7 @@
         "avgTotalMs": 10351,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:49.525Z",
+        "testedAt": "2026-05-11T15:35:53.114Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -9600,7 +9600,7 @@
         "avgTotalMs": 2920,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:49.664Z",
+        "testedAt": "2026-05-11T15:35:53.245Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -9767,7 +9767,7 @@
         "avgTotalMs": 2795,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:49.792Z",
+        "testedAt": "2026-05-11T15:35:53.359Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -9934,7 +9934,7 @@
         "avgTotalMs": 10154,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:49.922Z",
+        "testedAt": "2026-05-11T15:35:53.470Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -10101,7 +10101,7 @@
         "avgTotalMs": 587,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:50.055Z",
+        "testedAt": "2026-05-11T15:35:53.593Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -10268,7 +10268,7 @@
         "avgTotalMs": 1081,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:50.184Z",
+        "testedAt": "2026-05-11T15:35:53.714Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -10435,7 +10435,7 @@
         "avgTotalMs": 2398,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:50.305Z",
+        "testedAt": "2026-05-11T15:35:53.834Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -10602,7 +10602,7 @@
         "avgTotalMs": 2652,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:50.430Z",
+        "testedAt": "2026-05-11T15:35:53.949Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -10769,7 +10769,7 @@
         "avgTotalMs": 1853,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:50.556Z",
+        "testedAt": "2026-05-11T15:35:54.066Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -10936,7 +10936,7 @@
         "avgTotalMs": 3638,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:50.680Z",
+        "testedAt": "2026-05-11T15:35:54.189Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -11103,7 +11103,7 @@
         "avgTotalMs": 3779,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:50.796Z",
+        "testedAt": "2026-05-11T15:35:54.303Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -11270,7 +11270,7 @@
         "avgTotalMs": 7029,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:50.922Z",
+        "testedAt": "2026-05-11T15:35:54.417Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -11437,7 +11437,7 @@
         "avgTotalMs": 539,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:51.040Z",
+        "testedAt": "2026-05-11T15:35:54.540Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -11604,7 +11604,7 @@
         "avgTotalMs": 556,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:51.165Z",
+        "testedAt": "2026-05-11T15:35:54.659Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -11771,7 +11771,7 @@
         "avgTotalMs": 4292,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:51.295Z",
+        "testedAt": "2026-05-11T15:35:54.780Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -26046,7 +26046,7 @@
         "avgTotalMs": 21274,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:02.125Z",
+        "testedAt": "2026-05-11T15:36:06.106Z",
         "tests": [
           {
             "id": "router-1",
@@ -26213,7 +26213,7 @@
         "avgTotalMs": 8385,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:02.245Z",
+        "testedAt": "2026-05-11T15:36:06.226Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -26380,7 +26380,7 @@
         "avgTotalMs": 8630,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:02.370Z",
+        "testedAt": "2026-05-11T15:36:06.342Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -26547,7 +26547,7 @@
         "avgTotalMs": 7837,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:02.489Z",
+        "testedAt": "2026-05-11T15:36:06.465Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -26714,7 +26714,7 @@
         "avgTotalMs": 3268,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:02.605Z",
+        "testedAt": "2026-05-11T15:36:06.586Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -26881,7 +26881,7 @@
         "avgTotalMs": 7784,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:02.725Z",
+        "testedAt": "2026-05-11T15:36:06.709Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -27048,7 +27048,7 @@
         "avgTotalMs": 27919,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:02.847Z",
+        "testedAt": "2026-05-11T15:36:06.834Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -27215,7 +27215,7 @@
         "avgTotalMs": 7612,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:02.965Z",
+        "testedAt": "2026-05-11T15:36:06.955Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -27382,7 +27382,7 @@
         "avgTotalMs": 10338,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:03.075Z",
+        "testedAt": "2026-05-11T15:36:07.075Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -27549,7 +27549,7 @@
         "avgTotalMs": 6295,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:03.195Z",
+        "testedAt": "2026-05-11T15:36:07.193Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -27716,7 +27716,7 @@
         "avgTotalMs": 10686,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:03.316Z",
+        "testedAt": "2026-05-11T15:36:07.316Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -27883,7 +27883,7 @@
         "avgTotalMs": 7818,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:03.435Z",
+        "testedAt": "2026-05-11T15:36:07.441Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -28050,7 +28050,7 @@
         "avgTotalMs": 2382,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:03.545Z",
+        "testedAt": "2026-05-11T15:36:07.568Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -28217,7 +28217,7 @@
         "avgTotalMs": 7669,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:03.665Z",
+        "testedAt": "2026-05-11T15:36:07.693Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -28384,7 +28384,7 @@
         "avgTotalMs": 1374,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:03.775Z",
+        "testedAt": "2026-05-11T15:36:07.817Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -28551,7 +28551,7 @@
         "avgTotalMs": 1866,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:03.895Z",
+        "testedAt": "2026-05-11T15:36:07.939Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -28718,7 +28718,7 @@
         "avgTotalMs": 4745,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:04.015Z",
+        "testedAt": "2026-05-11T15:36:08.061Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -68585,9 +68585,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 39228,
         "avgTotalMs": 40641,
-        "runTotalMs": 612585,
-        "runTotalFormatted": "10m 12s",
-        "testedAt": "2026-05-11T01:43:32.091Z",
+        "runTotalMs": 608569,
+        "runTotalFormatted": "10m 8s",
+        "testedAt": "2026-05-11T15:35:34.643Z",
         "tests": [
           {
             "id": "router-3",
@@ -68724,7 +68724,7 @@
         "avgTotalMs": 37197,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:32.233Z",
+        "testedAt": "2026-05-11T15:35:34.963Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -68891,7 +68891,7 @@
         "avgTotalMs": 66790,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:32.350Z",
+        "testedAt": "2026-05-11T15:35:35.124Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -69058,7 +69058,7 @@
         "avgTotalMs": 61399,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:32.475Z",
+        "testedAt": "2026-05-11T15:35:35.281Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -69225,7 +69225,7 @@
         "avgTotalMs": 69556,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:32.595Z",
+        "testedAt": "2026-05-11T15:35:35.448Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -69392,7 +69392,7 @@
         "avgTotalMs": 38467,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:32.711Z",
+        "testedAt": "2026-05-11T15:35:35.613Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -69559,7 +69559,7 @@
         "avgTotalMs": 165977,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:32.830Z",
+        "testedAt": "2026-05-11T15:35:35.766Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -69726,7 +69726,7 @@
         "avgTotalMs": 58460,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:32.955Z",
+        "testedAt": "2026-05-11T15:35:35.913Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -69893,7 +69893,7 @@
         "avgTotalMs": 58252,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:33.075Z",
+        "testedAt": "2026-05-11T15:35:36.049Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -70060,7 +70060,7 @@
         "avgTotalMs": 46523,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:33.195Z",
+        "testedAt": "2026-05-11T15:35:36.181Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -70227,7 +70227,7 @@
         "avgTotalMs": 78049,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:33.315Z",
+        "testedAt": "2026-05-11T15:35:36.317Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -70394,7 +70394,7 @@
         "avgTotalMs": 42432,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:33.433Z",
+        "testedAt": "2026-05-11T15:35:36.451Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -70561,7 +70561,7 @@
         "avgTotalMs": 17641,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:33.551Z",
+        "testedAt": "2026-05-11T15:35:36.585Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -70728,7 +70728,7 @@
         "avgTotalMs": 49906,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:33.689Z",
+        "testedAt": "2026-05-11T15:35:36.712Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -70895,7 +70895,7 @@
         "avgTotalMs": 18993,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:33.805Z",
+        "testedAt": "2026-05-11T15:35:36.845Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -71062,7 +71062,7 @@
         "avgTotalMs": 16566,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:33.925Z",
+        "testedAt": "2026-05-11T15:35:36.975Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -71229,7 +71229,7 @@
         "avgTotalMs": 29362,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:34.043Z",
+        "testedAt": "2026-05-11T15:35:37.105Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -77404,7 +77404,7 @@
         "avgTotalMs": 28284,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:08.203Z",
+        "testedAt": "2026-05-11T15:36:12.323Z",
         "tests": [
           {
             "id": "router-1",
@@ -77571,7 +77571,7 @@
         "avgTotalMs": 85062,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:08.315Z",
+        "testedAt": "2026-05-11T15:36:12.442Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -77738,7 +77738,7 @@
         "avgTotalMs": 20583,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:08.431Z",
+        "testedAt": "2026-05-11T15:36:12.566Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -77905,7 +77905,7 @@
         "avgTotalMs": 15591,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:08.545Z",
+        "testedAt": "2026-05-11T15:36:12.693Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -78072,7 +78072,7 @@
         "avgTotalMs": 26125,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:08.658Z",
+        "testedAt": "2026-05-11T15:36:12.818Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -78239,7 +78239,7 @@
         "avgTotalMs": 10669,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:08.775Z",
+        "testedAt": "2026-05-11T15:36:12.939Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -78406,7 +78406,7 @@
         "avgTotalMs": 41380,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:08.891Z",
+        "testedAt": "2026-05-11T15:36:13.076Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -78573,7 +78573,7 @@
         "avgTotalMs": 16707,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:09.005Z",
+        "testedAt": "2026-05-11T15:36:13.206Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -78740,7 +78740,7 @@
         "avgTotalMs": 12956,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:09.122Z",
+        "testedAt": "2026-05-11T15:36:13.335Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -78907,7 +78907,7 @@
         "avgTotalMs": 11041,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:09.241Z",
+        "testedAt": "2026-05-11T15:36:13.455Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -79074,7 +79074,7 @@
         "avgTotalMs": 34333,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:09.361Z",
+        "testedAt": "2026-05-11T15:36:13.589Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -79241,7 +79241,7 @@
         "avgTotalMs": 23644,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:09.475Z",
+        "testedAt": "2026-05-11T15:36:13.719Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -79408,7 +79408,7 @@
         "avgTotalMs": 11989,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:09.595Z",
+        "testedAt": "2026-05-11T15:36:13.842Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -79575,7 +79575,7 @@
         "avgTotalMs": 9486,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:09.715Z",
+        "testedAt": "2026-05-11T15:36:13.964Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -79742,7 +79742,7 @@
         "avgTotalMs": 4815,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:09.827Z",
+        "testedAt": "2026-05-11T15:36:14.098Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -79909,7 +79909,7 @@
         "avgTotalMs": 3940,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:09.945Z",
+        "testedAt": "2026-05-11T15:36:14.227Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -80076,7 +80076,7 @@
         "avgTotalMs": 13507,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:10.059Z",
+        "testedAt": "2026-05-11T15:36:14.359Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -83463,7 +83463,7 @@
         "avgTotalMs": 5694,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:34.189Z",
+        "testedAt": "2026-05-11T15:35:37.266Z",
         "tests": [
           {
             "id": "router-1",
@@ -83630,7 +83630,7 @@
         "avgTotalMs": 6462,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:34.310Z",
+        "testedAt": "2026-05-11T15:35:37.396Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -83797,7 +83797,7 @@
         "avgTotalMs": 17682,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:34.435Z",
+        "testedAt": "2026-05-11T15:35:37.534Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -83964,7 +83964,7 @@
         "avgTotalMs": 12742,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:34.555Z",
+        "testedAt": "2026-05-11T15:35:37.659Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -84131,7 +84131,7 @@
         "avgTotalMs": 11277,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:34.682Z",
+        "testedAt": "2026-05-11T15:35:37.784Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -84298,7 +84298,7 @@
         "avgTotalMs": 10252,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:34.805Z",
+        "testedAt": "2026-05-11T15:35:37.911Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -84465,7 +84465,7 @@
         "avgTotalMs": 19964,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:34.925Z",
+        "testedAt": "2026-05-11T15:35:38.041Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -84632,7 +84632,7 @@
         "avgTotalMs": 10971,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:35.045Z",
+        "testedAt": "2026-05-11T15:35:38.175Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -84799,7 +84799,7 @@
         "avgTotalMs": 15539,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:35.165Z",
+        "testedAt": "2026-05-11T15:35:38.308Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -84966,7 +84966,7 @@
         "avgTotalMs": 6190,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:35.287Z",
+        "testedAt": "2026-05-11T15:35:38.437Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -85133,7 +85133,7 @@
         "avgTotalMs": 9308,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:35.405Z",
+        "testedAt": "2026-05-11T15:35:38.565Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -85300,7 +85300,7 @@
         "avgTotalMs": 8920,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:35.525Z",
+        "testedAt": "2026-05-11T15:35:38.699Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -85467,7 +85467,7 @@
         "avgTotalMs": 1832,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:35.656Z",
+        "testedAt": "2026-05-11T15:35:38.833Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -85634,7 +85634,7 @@
         "avgTotalMs": 10391,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:35.780Z",
+        "testedAt": "2026-05-11T15:35:38.973Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -85801,7 +85801,7 @@
         "avgTotalMs": 1391,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:35.900Z",
+        "testedAt": "2026-05-11T15:35:39.102Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -85968,7 +85968,7 @@
         "avgTotalMs": 978,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:36.025Z",
+        "testedAt": "2026-05-11T15:35:39.232Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -86135,7 +86135,7 @@
         "avgTotalMs": 4933,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:36.146Z",
+        "testedAt": "2026-05-11T15:35:39.365Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -86371,7 +86371,7 @@
         "avgTotalMs": 15927,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:51.448Z",
+        "testedAt": "2026-05-11T15:35:54.909Z",
         "tests": [
           {
             "id": "router-1",
@@ -86538,7 +86538,7 @@
         "avgTotalMs": 51906,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:51.589Z",
+        "testedAt": "2026-05-11T15:35:55.030Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -86705,7 +86705,7 @@
         "avgTotalMs": 55873,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:51.725Z",
+        "testedAt": "2026-05-11T15:35:55.151Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -86872,7 +86872,7 @@
         "avgTotalMs": 42559,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:51.847Z",
+        "testedAt": "2026-05-11T15:35:55.278Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -87039,7 +87039,7 @@
         "avgTotalMs": 23959,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:51.965Z",
+        "testedAt": "2026-05-11T15:35:55.403Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -87206,7 +87206,7 @@
         "avgTotalMs": 31526,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:52.087Z",
+        "testedAt": "2026-05-11T15:35:55.525Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -87373,7 +87373,7 @@
         "avgTotalMs": 84195,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:52.205Z",
+        "testedAt": "2026-05-11T15:35:55.649Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -87540,7 +87540,7 @@
         "avgTotalMs": 25780,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:52.331Z",
+        "testedAt": "2026-05-11T15:35:55.769Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -87707,7 +87707,7 @@
         "avgTotalMs": 102163,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:52.450Z",
+        "testedAt": "2026-05-11T15:35:55.890Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -87874,7 +87874,7 @@
         "avgTotalMs": 13798,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:52.577Z",
+        "testedAt": "2026-05-11T15:35:56.011Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -88041,7 +88041,7 @@
         "avgTotalMs": 19020,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:52.729Z",
+        "testedAt": "2026-05-11T15:35:56.135Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -88208,7 +88208,7 @@
         "avgTotalMs": 28110,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:52.879Z",
+        "testedAt": "2026-05-11T15:35:56.259Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -88375,7 +88375,7 @@
         "avgTotalMs": 5520,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:53.007Z",
+        "testedAt": "2026-05-11T15:35:56.378Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -88542,7 +88542,7 @@
         "avgTotalMs": 30505,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:53.130Z",
+        "testedAt": "2026-05-11T15:35:56.497Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -88709,7 +88709,7 @@
         "avgTotalMs": 3906,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:53.255Z",
+        "testedAt": "2026-05-11T15:35:56.616Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -88876,7 +88876,7 @@
         "avgTotalMs": 2141,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:53.385Z",
+        "testedAt": "2026-05-11T15:35:56.733Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -89043,7 +89043,7 @@
         "avgTotalMs": 10214,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:53.500Z",
+        "testedAt": "2026-05-11T15:35:56.858Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -155695,7 +155695,7 @@
         "avgTotalMs": 23756,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:04.145Z",
+        "testedAt": "2026-05-11T15:36:08.188Z",
         "tests": [
           {
             "id": "router-1",
@@ -155862,7 +155862,7 @@
         "avgTotalMs": 7793,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:04.260Z",
+        "testedAt": "2026-05-11T15:36:08.310Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -156029,7 +156029,7 @@
         "avgTotalMs": 9528,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:04.376Z",
+        "testedAt": "2026-05-11T15:36:08.423Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -156196,7 +156196,7 @@
         "avgTotalMs": 7600,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:04.497Z",
+        "testedAt": "2026-05-11T15:36:08.546Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -156363,7 +156363,7 @@
         "avgTotalMs": 14542,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:04.608Z",
+        "testedAt": "2026-05-11T15:36:08.667Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -156530,7 +156530,7 @@
         "avgTotalMs": 10151,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:04.725Z",
+        "testedAt": "2026-05-11T15:36:08.790Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -156697,7 +156697,7 @@
         "avgTotalMs": 22447,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:04.835Z",
+        "testedAt": "2026-05-11T15:36:08.908Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -156864,7 +156864,7 @@
         "avgTotalMs": 4847,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:04.956Z",
+        "testedAt": "2026-05-11T15:36:09.027Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -157031,7 +157031,7 @@
         "avgTotalMs": 13462,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:05.075Z",
+        "testedAt": "2026-05-11T15:36:09.145Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -157198,7 +157198,7 @@
         "avgTotalMs": 6733,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:05.189Z",
+        "testedAt": "2026-05-11T15:36:09.263Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -157365,7 +157365,7 @@
         "avgTotalMs": 9395,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:05.305Z",
+        "testedAt": "2026-05-11T15:36:09.383Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -157532,7 +157532,7 @@
         "avgTotalMs": 8967,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:05.426Z",
+        "testedAt": "2026-05-11T15:36:09.505Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -157699,7 +157699,7 @@
         "avgTotalMs": 2640,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:05.548Z",
+        "testedAt": "2026-05-11T15:36:09.622Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -157866,7 +157866,7 @@
         "avgTotalMs": 7518,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:05.665Z",
+        "testedAt": "2026-05-11T15:36:09.743Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -158033,7 +158033,7 @@
         "avgTotalMs": 982,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:05.775Z",
+        "testedAt": "2026-05-11T15:36:09.865Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -158200,7 +158200,7 @@
         "avgTotalMs": 1286,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:05.897Z",
+        "testedAt": "2026-05-11T15:36:09.987Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -158367,7 +158367,7 @@
         "avgTotalMs": 3254,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:06.013Z",
+        "testedAt": "2026-05-11T15:36:10.104Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -179763,7 +179763,7 @@
         "avgTotalMs": 9193,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:42.598Z",
+        "testedAt": "2026-05-11T15:35:46.251Z",
         "tests": [
           {
             "id": "router-1",
@@ -179930,7 +179930,7 @@
         "avgTotalMs": 12680,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:42.720Z",
+        "testedAt": "2026-05-11T15:35:46.401Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -180097,7 +180097,7 @@
         "avgTotalMs": 5827,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:42.835Z",
+        "testedAt": "2026-05-11T15:35:46.537Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -180264,7 +180264,7 @@
         "avgTotalMs": 5727,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:42.960Z",
+        "testedAt": "2026-05-11T15:35:46.671Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -180431,7 +180431,7 @@
         "avgTotalMs": 8162,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:43.080Z",
+        "testedAt": "2026-05-11T15:35:46.805Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -180598,7 +180598,7 @@
         "avgTotalMs": 10092,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:43.199Z",
+        "testedAt": "2026-05-11T15:35:46.937Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -180765,7 +180765,7 @@
         "avgTotalMs": 16193,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:43.330Z",
+        "testedAt": "2026-05-11T15:35:47.068Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -180932,7 +180932,7 @@
         "avgTotalMs": 6092,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:43.455Z",
+        "testedAt": "2026-05-11T15:35:47.195Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -181099,7 +181099,7 @@
         "avgTotalMs": 9954,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:43.580Z",
+        "testedAt": "2026-05-11T15:35:47.331Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -181266,7 +181266,7 @@
         "avgTotalMs": 3718,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:43.705Z",
+        "testedAt": "2026-05-11T15:35:47.471Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -181433,7 +181433,7 @@
         "avgTotalMs": 6950,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:43.825Z",
+        "testedAt": "2026-05-11T15:35:47.605Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -181600,7 +181600,7 @@
         "avgTotalMs": 3803,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:43.948Z",
+        "testedAt": "2026-05-11T15:35:47.737Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -181767,7 +181767,7 @@
         "avgTotalMs": 1587,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:44.070Z",
+        "testedAt": "2026-05-11T15:35:47.889Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -181934,7 +181934,7 @@
         "avgTotalMs": 3787,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:44.195Z",
+        "testedAt": "2026-05-11T15:35:48.034Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -182101,7 +182101,7 @@
         "avgTotalMs": 1089,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:44.322Z",
+        "testedAt": "2026-05-11T15:35:48.174Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -182268,7 +182268,7 @@
         "avgTotalMs": 854,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:44.445Z",
+        "testedAt": "2026-05-11T15:35:48.320Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -182435,7 +182435,7 @@
         "avgTotalMs": 4238,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:44.575Z",
+        "testedAt": "2026-05-11T15:35:48.470Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -191655,7 +191655,7 @@
         "avgTotalMs": 13166,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:47.089Z",
+        "testedAt": "2026-05-11T15:35:50.833Z",
         "tests": [
           {
             "id": "router-1",
@@ -191822,7 +191822,7 @@
         "avgTotalMs": 33028,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:47.240Z",
+        "testedAt": "2026-05-11T15:35:50.960Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -191989,7 +191989,7 @@
         "avgTotalMs": 19036,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:47.385Z",
+        "testedAt": "2026-05-11T15:35:51.080Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -192156,7 +192156,7 @@
         "avgTotalMs": 10302,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:47.515Z",
+        "testedAt": "2026-05-11T15:35:51.204Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -192323,7 +192323,7 @@
         "avgTotalMs": 12104,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:47.635Z",
+        "testedAt": "2026-05-11T15:35:51.326Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -192490,7 +192490,7 @@
         "avgTotalMs": 13177,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:47.765Z",
+        "testedAt": "2026-05-11T15:35:51.437Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -192657,7 +192657,7 @@
         "avgTotalMs": 14888,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:47.891Z",
+        "testedAt": "2026-05-11T15:35:51.553Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -192824,7 +192824,7 @@
         "avgTotalMs": 14606,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:48.015Z",
+        "testedAt": "2026-05-11T15:35:51.664Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -192991,7 +192991,7 @@
         "avgTotalMs": 27274,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:48.135Z",
+        "testedAt": "2026-05-11T15:35:51.784Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -193158,7 +193158,7 @@
         "avgTotalMs": 6426,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:48.256Z",
+        "testedAt": "2026-05-11T15:35:51.898Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -193325,7 +193325,7 @@
         "avgTotalMs": 10927,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:48.388Z",
+        "testedAt": "2026-05-11T15:35:52.014Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -193492,7 +193492,7 @@
         "avgTotalMs": 8951,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:48.520Z",
+        "testedAt": "2026-05-11T15:35:52.133Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -193659,7 +193659,7 @@
         "avgTotalMs": 2000,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:48.647Z",
+        "testedAt": "2026-05-11T15:35:52.255Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -193826,7 +193826,7 @@
         "avgTotalMs": 11994,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:48.775Z",
+        "testedAt": "2026-05-11T15:35:52.370Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -193993,7 +193993,7 @@
         "avgTotalMs": 829,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:48.901Z",
+        "testedAt": "2026-05-11T15:35:52.485Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -194160,7 +194160,7 @@
         "avgTotalMs": 890,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:49.022Z",
+        "testedAt": "2026-05-11T15:35:52.610Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -194327,7 +194327,7 @@
         "avgTotalMs": 6298,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:49.145Z",
+        "testedAt": "2026-05-11T15:35:52.731Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -218065,7 +218065,7 @@
         "avgTotalMs": 5778,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:36.282Z",
+        "testedAt": "2026-05-11T15:35:39.518Z",
         "tests": [
           {
             "id": "router-1",
@@ -218232,7 +218232,7 @@
         "avgTotalMs": 1643,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:36.405Z",
+        "testedAt": "2026-05-11T15:35:39.650Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -218399,7 +218399,7 @@
         "avgTotalMs": 2293,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:36.526Z",
+        "testedAt": "2026-05-11T15:35:39.782Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -218566,7 +218566,7 @@
         "avgTotalMs": 2862,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:36.648Z",
+        "testedAt": "2026-05-11T15:35:39.911Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -218733,7 +218733,7 @@
         "avgTotalMs": 1825,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:36.765Z",
+        "testedAt": "2026-05-11T15:35:40.049Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -218900,7 +218900,7 @@
         "avgTotalMs": 7129,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:36.885Z",
+        "testedAt": "2026-05-11T15:35:40.173Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -219067,7 +219067,7 @@
         "avgTotalMs": 1220,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:37.007Z",
+        "testedAt": "2026-05-11T15:35:40.301Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -219234,7 +219234,7 @@
         "avgTotalMs": 2069,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:37.125Z",
+        "testedAt": "2026-05-11T15:35:40.425Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -219401,7 +219401,7 @@
         "avgTotalMs": 3390,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:37.240Z",
+        "testedAt": "2026-05-11T15:35:40.559Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -219568,7 +219568,7 @@
         "avgTotalMs": 2107,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:37.365Z",
+        "testedAt": "2026-05-11T15:35:40.688Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -219735,7 +219735,7 @@
         "avgTotalMs": 911,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:37.489Z",
+        "testedAt": "2026-05-11T15:35:40.816Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -219902,7 +219902,7 @@
         "avgTotalMs": 1287,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:37.615Z",
+        "testedAt": "2026-05-11T15:35:40.945Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -220069,7 +220069,7 @@
         "avgTotalMs": 2429,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:37.727Z",
+        "testedAt": "2026-05-11T15:35:41.063Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -220236,7 +220236,7 @@
         "avgTotalMs": 985,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:37.855Z",
+        "testedAt": "2026-05-11T15:35:41.199Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -220403,7 +220403,7 @@
         "avgTotalMs": 371,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:37.975Z",
+        "testedAt": "2026-05-11T15:35:41.321Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -220570,7 +220570,7 @@
         "avgTotalMs": 396,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:38.089Z",
+        "testedAt": "2026-05-11T15:35:41.441Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -220737,7 +220737,7 @@
         "avgTotalMs": 677,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:38.220Z",
+        "testedAt": "2026-05-11T15:35:41.561Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -230104,7 +230104,7 @@
         "avgTotalMs": 35454,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:55.848Z",
+        "testedAt": "2026-05-11T15:35:59.149Z",
         "tests": [
           {
             "id": "router-1",
@@ -230271,7 +230271,7 @@
         "avgTotalMs": 208811,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:55.965Z",
+        "testedAt": "2026-05-11T15:35:59.292Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -230438,7 +230438,7 @@
         "avgTotalMs": 11768,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:56.089Z",
+        "testedAt": "2026-05-11T15:35:59.417Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -230605,7 +230605,7 @@
         "avgTotalMs": 37028,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:56.210Z",
+        "testedAt": "2026-05-11T15:35:59.546Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -230772,7 +230772,7 @@
         "avgTotalMs": 10440,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:56.340Z",
+        "testedAt": "2026-05-11T15:35:59.678Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -230939,7 +230939,7 @@
         "avgTotalMs": 20827,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:56.465Z",
+        "testedAt": "2026-05-11T15:35:59.807Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -231106,7 +231106,7 @@
         "avgTotalMs": 37255,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:56.595Z",
+        "testedAt": "2026-05-11T15:35:59.938Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -231273,7 +231273,7 @@
         "avgTotalMs": 12400,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:56.715Z",
+        "testedAt": "2026-05-11T15:36:00.077Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -231440,7 +231440,7 @@
         "avgTotalMs": 143741,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:56.840Z",
+        "testedAt": "2026-05-11T15:36:00.224Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -231607,7 +231607,7 @@
         "avgTotalMs": 7355,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:56.965Z",
+        "testedAt": "2026-05-11T15:36:00.370Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -231774,7 +231774,7 @@
         "avgTotalMs": 9748,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:57.092Z",
+        "testedAt": "2026-05-11T15:36:00.506Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -231941,7 +231941,7 @@
         "avgTotalMs": 39515,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:57.209Z",
+        "testedAt": "2026-05-11T15:36:00.638Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -232108,7 +232108,7 @@
         "avgTotalMs": 9707,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:57.337Z",
+        "testedAt": "2026-05-11T15:36:00.771Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -232275,7 +232275,7 @@
         "avgTotalMs": 11511,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:57.456Z",
+        "testedAt": "2026-05-11T15:36:00.902Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -232442,7 +232442,7 @@
         "avgTotalMs": 11188,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:57.578Z",
+        "testedAt": "2026-05-11T15:36:01.028Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -232609,7 +232609,7 @@
         "avgTotalMs": 7729,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:57.700Z",
+        "testedAt": "2026-05-11T15:36:01.165Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -232776,7 +232776,7 @@
         "avgTotalMs": 22453,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:57.825Z",
+        "testedAt": "2026-05-11T15:36:01.301Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -242018,7 +242018,7 @@
         "avgTotalMs": 8936,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:40.450Z",
+        "testedAt": "2026-05-11T15:35:44.008Z",
         "tests": [
           {
             "id": "router-1",
@@ -242185,7 +242185,7 @@
         "avgTotalMs": 1395,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:40.570Z",
+        "testedAt": "2026-05-11T15:35:44.151Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -242352,7 +242352,7 @@
         "avgTotalMs": 5430,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:40.695Z",
+        "testedAt": "2026-05-11T15:35:44.293Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -242519,7 +242519,7 @@
         "avgTotalMs": 5356,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:40.815Z",
+        "testedAt": "2026-05-11T15:35:44.412Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -242686,7 +242686,7 @@
         "avgTotalMs": 6870,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:40.937Z",
+        "testedAt": "2026-05-11T15:35:44.536Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -242853,7 +242853,7 @@
         "avgTotalMs": 3481,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:41.066Z",
+        "testedAt": "2026-05-11T15:35:44.653Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -243020,7 +243020,7 @@
         "avgTotalMs": 5610,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:41.200Z",
+        "testedAt": "2026-05-11T15:35:44.776Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -243187,7 +243187,7 @@
         "avgTotalMs": 4739,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:41.325Z",
+        "testedAt": "2026-05-11T15:35:44.901Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -243354,7 +243354,7 @@
         "avgTotalMs": 4157,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:41.460Z",
+        "testedAt": "2026-05-11T15:35:45.026Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -243521,7 +243521,7 @@
         "avgTotalMs": 2935,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:41.589Z",
+        "testedAt": "2026-05-11T15:35:45.149Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -243688,7 +243688,7 @@
         "avgTotalMs": 6691,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:41.715Z",
+        "testedAt": "2026-05-11T15:35:45.275Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -243855,7 +243855,7 @@
         "avgTotalMs": 3042,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:41.840Z",
+        "testedAt": "2026-05-11T15:35:45.401Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -244022,7 +244022,7 @@
         "avgTotalMs": 1078,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:41.966Z",
+        "testedAt": "2026-05-11T15:35:45.538Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -244189,7 +244189,7 @@
         "avgTotalMs": 2730,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:42.092Z",
+        "testedAt": "2026-05-11T15:35:45.661Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -244356,7 +244356,7 @@
         "avgTotalMs": 1989,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:42.216Z",
+        "testedAt": "2026-05-11T15:35:45.785Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -244523,7 +244523,7 @@
         "avgTotalMs": 1549,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:42.339Z",
+        "testedAt": "2026-05-11T15:35:45.923Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -244690,7 +244690,7 @@
         "avgTotalMs": 4943,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:42.460Z",
+        "testedAt": "2026-05-11T15:35:46.061Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -253830,6 +253830,2107 @@
     "fitsIn12gb": true,
     "fitsIn16gb": true
   },
+  "opencoder:1.5b": {
+    "preferred_for": [
+      "coder",
+      "summarizer",
+      "tester",
+      "debugger"
+    ],
+    "avoid_for": [
+      "router",
+      "orchestrator",
+      "planner",
+      "reviewer",
+      "architect",
+      "critic",
+      "translator"
+    ],
+    "score": 0,
+    "runs": 0,
+    "lastBumpAt": 0,
+    "installed": true,
+    "parameterSize": "1.9B",
+    "quantizationLevel": "Q4_K_M",
+    "format": "gguf",
+    "family": "llama",
+    "families": [
+      "llama"
+    ],
+    "estimatedVramGb": 1.5,
+    "contextLength": 4096,
+    "sizeGb": null,
+    "capabilities": [
+      "completion"
+    ],
+    "servers": [
+      "ollama-4070"
+    ],
+    "description": null,
+    "pullsNumeric": null,
+    "registryUrl": null,
+    "protocol": "ollama",
+    "architecture": {
+      "embeddingLength": 2240,
+      "blockCount": 24,
+      "headCount": 14,
+      "headCountKv": 14,
+      "keyLength": null,
+      "valueLength": null,
+      "vocabSize": 96640,
+      "ropeFreqBase": 10000,
+      "slidingWindow": null,
+      "defaultTemperature": null,
+      "defaultTopK": null,
+      "defaultTopP": null
+    },
+    "roleScores": {
+      "router": {
+        "score": -100,
+        "passed": 0,
+        "failed": 10,
+        "total": 10,
+        "wowPassed": 0,
+        "wowTotal": 5,
+        "avgTokSec": 14.1,
+        "avgPromptTokSec": 1047.8,
+        "avgTtftMs": 6243,
+        "avgTotalMs": 31141,
+        "runTotalMs": 312313,
+        "runTotalFormatted": "5m 12s",
+        "testedAt": "2026-05-11T15:41:29.681Z",
+        "tests": [
+          {
+            "id": "router-1",
+            "name": "Obvious greeting classified as chat",
+            "difficulty": "standard",
+            "passed": false,
+            "reason": "Output is not valid JSON",
+            "tokSec": 4.3,
+            "timeMs": 105192,
+            "time": "1m 45s",
+            "ttftMs": 45362,
+            "promptTokens": 663,
+            "completionTokens": 256,
+            "testedAt": "2026-05-11T15:38:02.480Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "router-2",
+            "name": "Obvious code request classified as code",
+            "difficulty": "standard",
+            "passed": false,
+            "reason": "Output is not valid JSON",
+            "tokSec": 11.5,
+            "timeMs": 24341,
+            "time": "24s",
+            "ttftMs": 1917,
+            "promptTokens": 666,
+            "completionTokens": 256,
+            "testedAt": "2026-05-11T15:38:26.941Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "router-3",
+            "name": "Research comparison disguised as question",
+            "difficulty": "standard",
+            "passed": false,
+            "reason": "Output is not valid JSON",
+            "tokSec": 21.7,
+            "timeMs": 7207,
+            "time": "7s",
+            "ttftMs": 1906,
+            "promptTokens": 675,
+            "completionTokens": 114,
+            "testedAt": "2026-05-11T15:38:34.230Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "router-4",
+            "name": "Multi-component project request",
+            "difficulty": "standard",
+            "passed": false,
+            "reason": "Output is not valid JSON",
+            "tokSec": 10.7,
+            "timeMs": 25811,
+            "time": "25s",
+            "ttftMs": 1825,
+            "promptTokens": 679,
+            "completionTokens": 256,
+            "testedAt": "2026-05-11T15:39:00.122Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "router-5",
+            "name": "Code-related explanation is question not code",
+            "difficulty": "standard",
+            "passed": false,
+            "reason": "Output is not valid JSON",
+            "tokSec": 9.5,
+            "timeMs": 28907,
+            "time": "28s",
+            "ttftMs": 1901,
+            "promptTokens": 668,
+            "completionTokens": 256,
+            "testedAt": "2026-05-11T15:39:29.103Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "router-6",
+            "name": "Sarcastic multi-intent misdirection is still project",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Output is not valid JSON",
+            "tokSec": 7.6,
+            "timeMs": 35942,
+            "time": "35s",
+            "ttftMs": 2019,
+            "promptTokens": 710,
+            "completionTokens": 256,
+            "testedAt": "2026-05-11T15:40:05.132Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "router-wow-2",
+            "name": "WOW-2: Implicit project buried in a question about learning",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Output is not valid JSON",
+            "tokSec": 9,
+            "timeMs": 30367,
+            "time": "30s",
+            "ttftMs": 1827,
+            "promptTokens": 707,
+            "completionTokens": 256,
+            "testedAt": "2026-05-11T15:40:35.590Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "router-wow-3",
+            "name": "WOW-3: Code-switching multilingual with embedded intent",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Output is not valid JSON",
+            "tokSec": 7.6,
+            "timeMs": 35691,
+            "time": "35s",
+            "ttftMs": 1894,
+            "promptTokens": 724,
+            "completionTokens": 256,
+            "testedAt": "2026-05-11T15:41:11.423Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "router-wow-4",
+            "name": "WOW-4: Classify intent from pure emotional subtext with zero explicit keywords",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Output is not valid JSON",
+            "tokSec": 45.6,
+            "timeMs": 3278,
+            "time": "3s",
+            "ttftMs": 1846,
+            "promptTokens": 711,
+            "completionTokens": 64,
+            "testedAt": "2026-05-11T15:41:14.843Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "router-wow-5",
+            "name": "WOW-5: Classify a message that is simultaneously valid for 4 categories",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Output is not valid JSON",
+            "tokSec": 13.4,
+            "timeMs": 14675,
+            "time": "14s",
+            "ttftMs": 1937,
+            "promptTokens": 717,
+            "completionTokens": 169,
+            "testedAt": "2026-05-11T15:41:29.591Z",
+            "server": "ollama-4070"
+          }
+        ]
+      },
+      "orchestrator": {
+        "score": -100,
+        "passed": 0,
+        "failed": 10,
+        "total": 10,
+        "wowPassed": 0,
+        "wowTotal": 4,
+        "avgTokSec": 10,
+        "avgPromptTokSec": 161.8,
+        "avgTtftMs": 30958,
+        "avgTotalMs": 351039,
+        "runTotalMs": 3511414,
+        "runTotalFormatted": "58m 31s",
+        "testedAt": "2026-05-11T16:40:01.715Z",
+        "tests": [
+          {
+            "id": "orchestrator-1",
+            "name": "Core: Simple lookup picks fetch",
+            "difficulty": "standard",
+            "passed": false,
+            "reason": "Output is not valid JSON",
+            "tokSec": 11.1,
+            "timeMs": 34497,
+            "time": "34s",
+            "ttftMs": 25207,
+            "promptTokens": 4096,
+            "completionTokens": 103,
+            "testedAt": "2026-05-11T15:42:04.733Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "orchestrator-2",
+            "name": "Core: Direct answer returns done",
+            "difficulty": "standard",
+            "passed": false,
+            "reason": "Output is not valid JSON",
+            "tokSec": 13,
+            "timeMs": 35932,
+            "time": "35s",
+            "ttftMs": 27559,
+            "promptTokens": 4096,
+            "completionTokens": 108,
+            "testedAt": "2026-05-11T15:42:40.765Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "orchestrator-3",
+            "name": "Applied: Code exists so pick execute",
+            "difficulty": "standard",
+            "passed": false,
+            "reason": "Output is not valid JSON",
+            "tokSec": 5.2,
+            "timeMs": 3110630,
+            "time": "51m 50s",
+            "ttftMs": 26668,
+            "promptTokens": 4096,
+            "completionTokens": 16000,
+            "testedAt": "2026-05-11T16:34:31.537Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "orchestrator-4",
+            "name": "Applied: Project starts with architect",
+            "difficulty": "standard",
+            "passed": false,
+            "reason": "Output is not valid JSON",
+            "tokSec": 11.4,
+            "timeMs": 92776,
+            "time": "1m 32s",
+            "ttftMs": 69277,
+            "promptTokens": 4096,
+            "completionTokens": 266,
+            "testedAt": "2026-05-11T16:36:04.492Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "orchestrator-5",
+            "name": "Edge: JS-rendered page needs browse not fetch",
+            "difficulty": "standard",
+            "passed": false,
+            "reason": "Output is not valid JSON",
+            "tokSec": 11.6,
+            "timeMs": 31406,
+            "time": "31s",
+            "ttftMs": 26447,
+            "promptTokens": 4096,
+            "completionTokens": 57,
+            "testedAt": "2026-05-11T16:36:36.043Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "orchestrator-6",
+            "name": "WOW: Failed execute sends to debug not code",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Output is not valid JSON",
+            "tokSec": 12.3,
+            "timeMs": 32872,
+            "time": "32s",
+            "ttftMs": 27727,
+            "promptTokens": 4096,
+            "completionTokens": 63,
+            "testedAt": "2026-05-11T16:37:09.008Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "orchestrator-wow-2",
+            "name": "WOW-2: Must parallelize independent reviews instead of sequential",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Output is not valid JSON",
+            "tokSec": 11.9,
+            "timeMs": 34440,
+            "time": "34s",
+            "ttftMs": 28033,
+            "promptTokens": 4096,
+            "completionTokens": 76,
+            "testedAt": "2026-05-11T16:37:43.532Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "orchestrator-wow-3",
+            "name": "WOW-3: Contradictory scratchpad — must detect stale data and re-fetch",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Output is not valid JSON",
+            "tokSec": 11.7,
+            "timeMs": 35730,
+            "time": "35s",
+            "ttftMs": 27722,
+            "promptTokens": 4096,
+            "completionTokens": 93,
+            "testedAt": "2026-05-11T16:38:19.377Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "orchestrator-wow-4",
+            "name": "WOW-4: Must recognize a completed task with implicit done condition",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Output is not valid JSON",
+            "tokSec": 6.2,
+            "timeMs": 46776,
+            "time": "46s",
+            "ttftMs": 26145,
+            "promptTokens": 4096,
+            "completionTokens": 127,
+            "testedAt": "2026-05-11T16:39:06.229Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "orchestrator-wow-5",
+            "name": "WOW-5: Must chain 3 tool results to deduce the correct next action via inference",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Output is not valid JSON",
+            "tokSec": 5.1,
+            "timeMs": 55328,
+            "time": "55s",
+            "ttftMs": 24797,
+            "promptTokens": 4096,
+            "completionTokens": 156,
+            "testedAt": "2026-05-11T16:40:01.641Z",
+            "server": "ollama-4070"
+          }
+        ]
+      },
+      "planner": {
+        "score": -20,
+        "passed": 4,
+        "failed": 6,
+        "total": 10,
+        "wowPassed": 1,
+        "wowTotal": 4,
+        "avgTokSec": 8.6,
+        "avgPromptTokSec": 1076.3,
+        "avgTtftMs": 1928,
+        "avgTotalMs": 76580,
+        "runTotalMs": 766866,
+        "runTotalFormatted": "12m 46s",
+        "testedAt": "2026-05-11T16:52:49.255Z",
+        "tests": [
+          {
+            "id": "planner-core-simple-script",
+            "name": "Core simple script",
+            "difficulty": "standard",
+            "passed": true,
+            "reason": null,
+            "tokSec": 13.6,
+            "timeMs": 17363,
+            "time": "17s",
+            "ttftMs": 1869,
+            "promptTokens": 691,
+            "completionTokens": 210,
+            "testedAt": "2026-05-11T16:40:19.693Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "planner-core-basic-webapp",
+            "name": "Core basic webapp",
+            "difficulty": "standard",
+            "passed": true,
+            "reason": null,
+            "tokSec": 8.9,
+            "timeMs": 28431,
+            "time": "28s",
+            "ttftMs": 1888,
+            "promptTokens": 691,
+            "completionTokens": 234,
+            "testedAt": "2026-05-11T16:40:48.229Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "planner-applied-multi-component",
+            "name": "Applied multi component",
+            "difficulty": "standard",
+            "passed": true,
+            "reason": null,
+            "tokSec": 8.2,
+            "timeMs": 41494,
+            "time": "41s",
+            "ttftMs": 1874,
+            "promptTokens": 699,
+            "completionTokens": 322,
+            "testedAt": "2026-05-11T16:41:29.870Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "planner-applied-with-dependencies",
+            "name": "Applied with dependencies",
+            "difficulty": "standard",
+            "passed": false,
+            "reason": "Expected at least 5 numbered steps, found 0",
+            "tokSec": 10.1,
+            "timeMs": 27847,
+            "time": "27s",
+            "ttftMs": 1894,
+            "promptTokens": 704,
+            "completionTokens": 260,
+            "testedAt": "2026-05-11T16:41:57.860Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "planner-edge-must-include-testing",
+            "name": "Edge must include testing",
+            "difficulty": "standard",
+            "passed": false,
+            "reason": "Expected at least 3 numbered steps, found 0",
+            "tokSec": 11.9,
+            "timeMs": 65953,
+            "time": "1m 5s",
+            "ttftMs": 1893,
+            "promptTokens": 685,
+            "completionTokens": 758,
+            "testedAt": "2026-05-11T16:43:03.902Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "planner-wow-no-overengineering",
+            "name": "Wow no overengineering",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Over-engineered: 34 steps for a simple file rename script (expected 2-5)",
+            "tokSec": 6.3,
+            "timeMs": 322281,
+            "time": "5m 22s",
+            "ttftMs": 1863,
+            "promptTokens": 700,
+            "completionTokens": 2000,
+            "testedAt": "2026-05-11T16:48:26.327Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "planner-wow-2",
+            "name": "WOW-2: Must identify a circular dependency in requirements",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Must identify the circular dependency (A→B→C→A) — expected \"circular\", \"cycle\", \"deadlock\", \"bootstrap\", or \"chicken...egg\"",
+            "tokSec": 8.8,
+            "timeMs": 39871,
+            "time": "39s",
+            "ttftMs": 1891,
+            "promptTokens": 704,
+            "completionTokens": 332,
+            "testedAt": "2026-05-11T16:49:06.354Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "planner-wow-3",
+            "name": "WOW-3: Must produce a correct dependency DAG for 8 interdependent tasks",
+            "difficulty": "wow",
+            "passed": true,
+            "reason": null,
+            "tokSec": 5.5,
+            "timeMs": 111416,
+            "time": "1m 51s",
+            "ttftMs": 2081,
+            "promptTokens": 767,
+            "completionTokens": 603,
+            "testedAt": "2026-05-11T16:50:57.848Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "planner-wow-4",
+            "name": "WOW-4: Plan must account for eventual consistency delay in a distributed step",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Plan must address eventual consistency — expected \"consistency\", \"eventual\", \"stale\", \"quorum\", \"read-your-own\", \"sticky\", or \"replication...delay\". A plan that just says \"write then read\" without addressing the consistency gap fails.",
+            "tokSec": 5.6,
+            "timeMs": 63556,
+            "time": "1m 3s",
+            "ttftMs": 1916,
+            "promptTokens": 712,
+            "completionTokens": 346,
+            "testedAt": "2026-05-11T16:52:01.494Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "planner-wow-5",
+            "name": "WOW-5: Must recognize that the task requires NO plan — it's a one-liner",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Over-planned a one-liner: 5 steps to generate a UUID (expected <= 2)",
+            "tokSec": 7.4,
+            "timeMs": 47589,
+            "time": "47s",
+            "ttftMs": 2113,
+            "promptTokens": 671,
+            "completionTokens": 335,
+            "testedAt": "2026-05-11T16:52:49.185Z",
+            "server": "ollama-4070"
+          }
+        ]
+      },
+      "coder": {
+        "score": 60,
+        "passed": 8,
+        "failed": 2,
+        "total": 10,
+        "wowPassed": 3,
+        "wowTotal": 5,
+        "avgTokSec": 5.2,
+        "avgPromptTokSec": 550,
+        "avgTtftMs": 4035,
+        "avgTotalMs": 60567,
+        "runTotalMs": 606568,
+        "runTotalFormatted": "10m 6s",
+        "testedAt": "2026-05-11T17:02:56.474Z",
+        "tests": [
+          {
+            "id": "coder-core-palindrome",
+            "name": "Core palindrome",
+            "difficulty": "core",
+            "passed": true,
+            "reason": null,
+            "tokSec": 5.9,
+            "timeMs": 20730,
+            "time": "20s",
+            "ttftMs": 3874,
+            "promptTokens": 1504,
+            "completionTokens": 100,
+            "testedAt": "2026-05-11T16:53:10.550Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "coder-core-fibonacci",
+            "name": "Core fibonacci",
+            "difficulty": "core",
+            "passed": true,
+            "reason": null,
+            "tokSec": 5.2,
+            "timeMs": 33046,
+            "time": "33s",
+            "ttftMs": 3881,
+            "promptTokens": 1493,
+            "completionTokens": 150,
+            "testedAt": "2026-05-11T16:53:43.701Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "coder-applied-safe-divide",
+            "name": "Applied safe divide",
+            "difficulty": "applied",
+            "passed": true,
+            "reason": null,
+            "tokSec": 5.7,
+            "timeMs": 25830,
+            "time": "25s",
+            "ttftMs": 3966,
+            "promptTokens": 1528,
+            "completionTokens": 125,
+            "testedAt": "2026-05-11T16:54:09.629Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "coder-applied-file-io",
+            "name": "Applied file io",
+            "difficulty": "applied",
+            "passed": true,
+            "reason": null,
+            "tokSec": 5.3,
+            "timeMs": 54590,
+            "time": "54s",
+            "ttftMs": 3786,
+            "promptTokens": 1509,
+            "completionTokens": 268,
+            "testedAt": "2026-05-11T16:55:04.308Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "coder-edge-http-server",
+            "name": "Edge http server",
+            "difficulty": "edge",
+            "passed": true,
+            "reason": null,
+            "tokSec": 4.4,
+            "timeMs": 63063,
+            "time": "1m 3s",
+            "ttftMs": 3851,
+            "promptTokens": 1520,
+            "completionTokens": 257,
+            "testedAt": "2026-05-11T16:56:07.477Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "coder-wow-merge-sorted",
+            "name": "Wow merge sorted",
+            "difficulty": "wow",
+            "passed": true,
+            "reason": null,
+            "tokSec": 6,
+            "timeMs": 45098,
+            "time": "45s",
+            "ttftMs": 3978,
+            "promptTokens": 1519,
+            "completionTokens": 245,
+            "testedAt": "2026-05-11T16:56:52.664Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "coder-wow-2",
+            "name": "Wow 2",
+            "difficulty": "wow",
+            "passed": true,
+            "reason": null,
+            "tokSec": 4.3,
+            "timeMs": 106937,
+            "time": "1m 46s",
+            "ttftMs": 4094,
+            "promptTokens": 1545,
+            "completionTokens": 444,
+            "testedAt": "2026-05-11T16:58:39.683Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "coder-wow-3",
+            "name": "Wow 3",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Missing vote counting logic",
+            "tokSec": 5.8,
+            "timeMs": 72895,
+            "time": "1m 12s",
+            "ttftMs": 4353,
+            "promptTokens": 1622,
+            "completionTokens": 398,
+            "testedAt": "2026-05-11T16:59:52.713Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "coder-wow-4",
+            "name": "WOW-4: Implement a lock-free concurrent queue using CAS operations",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Uses forbidden Lock/Queue/Semaphore",
+            "tokSec": 5,
+            "timeMs": 52553,
+            "time": "52s",
+            "ttftMs": 4222,
+            "promptTokens": 1561,
+            "completionTokens": 239,
+            "testedAt": "2026-05-11T17:00:45.352Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "coder-wow-5",
+            "name": "WOW-5: Implement a correct UTF-8 encoder/decoder from scratch without library calls",
+            "difficulty": "wow",
+            "passed": true,
+            "reason": null,
+            "tokSec": 4.9,
+            "timeMs": 130928,
+            "time": "2m 10s",
+            "ttftMs": 4346,
+            "promptTokens": 1582,
+            "completionTokens": 618,
+            "testedAt": "2026-05-11T17:02:56.379Z",
+            "server": "ollama-4070"
+          }
+        ]
+      },
+      "reviewer": {
+        "score": -20,
+        "passed": 4,
+        "failed": 6,
+        "total": 10,
+        "wowPassed": 0,
+        "wowTotal": 4,
+        "avgTokSec": 6.3,
+        "avgPromptTokSec": 937.7,
+        "avgTtftMs": 2228,
+        "avgTotalMs": 91583,
+        "runTotalMs": 916849,
+        "runTotalFormatted": "15m 16s",
+        "testedAt": "2026-05-11T17:18:14.188Z",
+        "tests": [
+          {
+            "id": "reviewer-core-sql-injection",
+            "name": "Core sql injection",
+            "difficulty": "standard",
+            "passed": false,
+            "reason": "Must flag SQL injection as [CRITICAL]",
+            "tokSec": 5.3,
+            "timeMs": 85328,
+            "time": "1m 25s",
+            "ttftMs": 1933,
+            "promptTokens": 774,
+            "completionTokens": 445,
+            "testedAt": "2026-05-11T17:04:22.580Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "reviewer-core-approve-clean",
+            "name": "Core approve clean",
+            "difficulty": "standard",
+            "passed": true,
+            "reason": null,
+            "tokSec": 6.5,
+            "timeMs": 50796,
+            "time": "50s",
+            "ttftMs": 2054,
+            "promptTokens": 842,
+            "completionTokens": 317,
+            "testedAt": "2026-05-11T17:05:13.483Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "reviewer-applied-multiple-issues",
+            "name": "Applied multiple issues",
+            "difficulty": "standard",
+            "passed": true,
+            "reason": null,
+            "tokSec": 5.9,
+            "timeMs": 74445,
+            "time": "1m 14s",
+            "ttftMs": 2349,
+            "promptTokens": 805,
+            "completionTokens": 421,
+            "testedAt": "2026-05-11T17:06:28.029Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "reviewer-applied-performance",
+            "name": "Applied performance",
+            "difficulty": "standard",
+            "passed": true,
+            "reason": null,
+            "tokSec": 5.7,
+            "timeMs": 80256,
+            "time": "1m 20s",
+            "ttftMs": 2140,
+            "promptTokens": 839,
+            "completionTokens": 442,
+            "testedAt": "2026-05-11T17:07:48.388Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "reviewer-edge-no-false-positive",
+            "name": "Edge no false positive",
+            "difficulty": "standard",
+            "passed": true,
+            "reason": null,
+            "tokSec": 6.3,
+            "timeMs": 133287,
+            "time": "2m 13s",
+            "ttftMs": 2298,
+            "promptTokens": 907,
+            "completionTokens": 821,
+            "testedAt": "2026-05-11T17:10:01.753Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "reviewer-wow-timing-attack",
+            "name": "Wow timing attack",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Must identify timing attack vulnerability (timing, constant-time, compare_digest, side-channel)",
+            "tokSec": 7.4,
+            "timeMs": 120501,
+            "time": "2m 0s",
+            "ttftMs": 2390,
+            "promptTokens": 801,
+            "completionTokens": 876,
+            "testedAt": "2026-05-11T17:12:02.354Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "reviewer-wow-2",
+            "name": "WOW-2: Detect TOCTOU race condition in file operations",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Must identify TOCTOU / time-of-check-time-of-use race condition between os.path.exists() and open()",
+            "tokSec": 6.8,
+            "timeMs": 104422,
+            "time": "1m 44s",
+            "ttftMs": 2458,
+            "promptTokens": 871,
+            "completionTokens": 692,
+            "testedAt": "2026-05-11T17:13:46.937Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "reviewer-wow-3",
+            "name": "WOW-3: Detect ReDoS vulnerability in regex",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Must identify ReDoS / catastrophic backtracking vulnerability in the regex pattern (a+)+$",
+            "tokSec": 6,
+            "timeMs": 117589,
+            "time": "1m 57s",
+            "ttftMs": 2371,
+            "promptTokens": 960,
+            "completionTokens": 693,
+            "testedAt": "2026-05-11T17:15:44.651Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "reviewer-wow-4",
+            "name": "WOW-4: Detect a use-after-free equivalent in Python via __del__ destructor ordering",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Must mention __del__",
+            "tokSec": 6.3,
+            "timeMs": 85643,
+            "time": "1m 25s",
+            "ttftMs": 2138,
+            "promptTokens": 854,
+            "completionTokens": 525,
+            "testedAt": "2026-05-11T17:17:10.421Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "reviewer-wow-5",
+            "name": "WOW-5: Detect a semantic logic bomb hidden in an obfuscated condition",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Must identify the backdoor / unauthorized access via hash prefix comparison (not just \"MD5 is weak\")",
+            "tokSec": 6.5,
+            "timeMs": 63567,
+            "time": "1m 3s",
+            "ttftMs": 2151,
+            "promptTokens": 900,
+            "completionTokens": 396,
+            "testedAt": "2026-05-11T17:18:14.090Z",
+            "server": "ollama-4070"
+          }
+        ]
+      },
+      "summarizer": {
+        "score": 20,
+        "passed": 6,
+        "failed": 4,
+        "total": 10,
+        "wowPassed": 2,
+        "wowTotal": 5,
+        "avgTokSec": 9.9,
+        "avgPromptTokSec": 748,
+        "avgTtftMs": 2809,
+        "avgTotalMs": 42076,
+        "runTotalMs": 421695,
+        "runTotalFormatted": "7m 1s",
+        "testedAt": "2026-05-11T17:25:16.521Z",
+        "tests": [
+          {
+            "id": "summarizer-core-weather",
+            "name": "Core weather",
+            "difficulty": "core",
+            "passed": true,
+            "reason": null,
+            "tokSec": 13,
+            "timeMs": 17300,
+            "time": "17s",
+            "ttftMs": 2267,
+            "promptTokens": 935,
+            "completionTokens": 195,
+            "testedAt": "2026-05-11T17:18:32.052Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "summarizer-core-code",
+            "name": "Core code",
+            "difficulty": "core",
+            "passed": true,
+            "reason": null,
+            "tokSec": 6,
+            "timeMs": 103325,
+            "time": "1m 43s",
+            "ttftMs": 2662,
+            "promptTokens": 1044,
+            "completionTokens": 601,
+            "testedAt": "2026-05-11T17:20:15.470Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "summarizer-applied-project",
+            "name": "Applied project",
+            "difficulty": "applied",
+            "passed": true,
+            "reason": null,
+            "tokSec": 6.6,
+            "timeMs": 64776,
+            "time": "1m 4s",
+            "ttftMs": 2814,
+            "promptTokens": 1159,
+            "completionTokens": 405,
+            "testedAt": "2026-05-11T17:21:20.328Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "summarizer-applied-comparison",
+            "name": "Applied comparison",
+            "difficulty": "applied",
+            "passed": true,
+            "reason": null,
+            "tokSec": 6.3,
+            "timeMs": 42836,
+            "time": "42s",
+            "ttftMs": 2921,
+            "promptTokens": 1156,
+            "completionTokens": 250,
+            "testedAt": "2026-05-11T17:22:03.234Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "summarizer-edge-no-hallucinate",
+            "name": "Edge no hallucinate",
+            "difficulty": "edge",
+            "passed": false,
+            "reason": "Hallucinated temperature data (contains °C/°F) when no data was fetched",
+            "tokSec": 8.9,
+            "timeMs": 51961,
+            "time": "51s",
+            "ttftMs": 2316,
+            "promptTokens": 932,
+            "completionTokens": 442,
+            "testedAt": "2026-05-11T17:22:55.324Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "summarizer-wow-contradictions",
+            "name": "Wow contradictions",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Does not reference Source C nuance about use-case dependent performance",
+            "tokSec": 18.2,
+            "timeMs": 13156,
+            "time": "13s",
+            "ttftMs": 3362,
+            "promptTokens": 1200,
+            "completionTokens": 177,
+            "testedAt": "2026-05-11T17:23:08.593Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "summarizer-wow-2",
+            "name": "Wow 2",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Missing mention of the code review approval / \"clean\" result",
+            "tokSec": 11.9,
+            "timeMs": 15624,
+            "time": "15s",
+            "ttftMs": 3187,
+            "promptTokens": 1126,
+            "completionTokens": 147,
+            "testedAt": "2026-05-11T17:23:24.351Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "summarizer-wow-3",
+            "name": "Wow 3",
+            "difficulty": "wow",
+            "passed": true,
+            "reason": null,
+            "tokSec": 8.6,
+            "timeMs": 39000,
+            "time": "39s",
+            "ttftMs": 2947,
+            "promptTokens": 1163,
+            "completionTokens": 309,
+            "testedAt": "2026-05-11T17:24:03.436Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "summarizer-wow-4",
+            "name": "WOW-4: Summarize while correctly handling numeric precision from conflicting sources",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Must present the more recent price ($248.15) from Source B",
+            "tokSec": 13.9,
+            "timeMs": 9663,
+            "time": "9s",
+            "ttftMs": 2598,
+            "promptTokens": 1055,
+            "completionTokens": 98,
+            "testedAt": "2026-05-11T17:24:13.208Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "summarizer-wow-5",
+            "name": "WOW-5: Detect and refuse to present a pipeline result that violates user safety",
+            "difficulty": "wow",
+            "passed": true,
+            "reason": null,
+            "tokSec": 6,
+            "timeMs": 63121,
+            "time": "1m 3s",
+            "ttftMs": 3017,
+            "promptTokens": 1215,
+            "completionTokens": 357,
+            "testedAt": "2026-05-11T17:25:16.438Z",
+            "server": "ollama-4070"
+          }
+        ]
+      },
+      "architect": {
+        "score": -20,
+        "passed": 4,
+        "failed": 6,
+        "total": 10,
+        "wowPassed": 1,
+        "wowTotal": 5,
+        "avgTokSec": 9,
+        "avgPromptTokSec": 1611.2,
+        "avgTtftMs": 1524,
+        "avgTotalMs": 97333,
+        "runTotalMs": 974289,
+        "runTotalFormatted": "16m 14s",
+        "testedAt": "2026-05-11T17:41:31.502Z",
+        "tests": [
+          {
+            "id": "architect-core-cli-csv-json",
+            "name": "Core cli csv json",
+            "difficulty": "core",
+            "passed": true,
+            "reason": null,
+            "tokSec": 14.8,
+            "timeMs": 39069,
+            "time": "39s",
+            "ttftMs": 1401,
+            "promptTokens": 380,
+            "completionTokens": 555,
+            "testedAt": "2026-05-11T17:25:56.145Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "architect-core-url-shortener",
+            "name": "Core url shortener",
+            "difficulty": "core",
+            "passed": false,
+            "reason": "Missing discussion of how short codes are generated (hash, random, sequential, etc.)",
+            "tokSec": 6.3,
+            "timeMs": 98519,
+            "time": "1m 38s",
+            "ttftMs": 1469,
+            "promptTokens": 376,
+            "completionTokens": 611,
+            "testedAt": "2026-05-11T17:27:34.757Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "architect-applied-collab-editor",
+            "name": "Applied collab editor",
+            "difficulty": "applied",
+            "passed": false,
+            "reason": "Missing real-time protocol discussion (WebSocket, SSE, etc.)",
+            "tokSec": 7,
+            "timeMs": 92493,
+            "time": "1m 32s",
+            "ttftMs": 1531,
+            "promptTokens": 382,
+            "completionTokens": 632,
+            "testedAt": "2026-05-11T17:29:07.354Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "architect-applied-pi-backup",
+            "name": "Applied pi backup",
+            "difficulty": "applied",
+            "passed": true,
+            "reason": null,
+            "tokSec": 6.8,
+            "timeMs": 146512,
+            "time": "2m 26s",
+            "ttftMs": 1451,
+            "promptTokens": 409,
+            "completionTokens": 990,
+            "testedAt": "2026-05-11T17:31:33.965Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "architect-edge-no-code-ratelimiter",
+            "name": "Edge no code ratelimiter",
+            "difficulty": "edge",
+            "passed": true,
+            "reason": null,
+            "tokSec": 6.6,
+            "timeMs": 154748,
+            "time": "2m 34s",
+            "ttftMs": 1437,
+            "promptTokens": 378,
+            "completionTokens": 1011,
+            "testedAt": "2026-05-11T17:34:08.822Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "architect-wow-pushback-login-email",
+            "name": "Wow pushback login email",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Failed to question the requirement — a good architect should flag notification fatigue/spam and propose alternatives (suspicious login only, digest, configurable preferences, etc.)",
+            "tokSec": 8.5,
+            "timeMs": 96513,
+            "time": "1m 36s",
+            "ttftMs": 1421,
+            "promptTokens": 384,
+            "completionTokens": 806,
+            "testedAt": "2026-05-11T17:35:45.409Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "architect-wow-2",
+            "name": "Wow 2",
+            "difficulty": "wow",
+            "passed": true,
+            "reason": null,
+            "tokSec": 14.2,
+            "timeMs": 52693,
+            "time": "52s",
+            "ttftMs": 1496,
+            "promptTokens": 407,
+            "completionTokens": 724,
+            "testedAt": "2026-05-11T17:36:38.223Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "architect-wow-3",
+            "name": "Wow 3",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Failed to suggest a better approach (webhook, push, event stream, pub/sub) — just designed a polling system without questioning it",
+            "tokSec": 7.8,
+            "timeMs": 120424,
+            "time": "2m 0s",
+            "ttftMs": 1821,
+            "promptTokens": 395,
+            "completionTokens": 926,
+            "testedAt": "2026-05-11T17:38:38.775Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "architect-wow-4",
+            "name": "Wow 4",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Missing the fundamental BFT requirement n >= 3f+1 — must explicitly state this formula",
+            "tokSec": 5.6,
+            "timeMs": 112009,
+            "time": "1m 52s",
+            "ttftMs": 1685,
+            "promptTokens": 488,
+            "completionTokens": 621,
+            "testedAt": "2026-05-11T17:40:30.881Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "architect-wow-5",
+            "name": "Wow 5",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Failed to identify the fundamental impossibility — must reference Two Generals Problem, FLP impossibility, or explicitly state this combination is impossible",
+            "tokSec": 12.3,
+            "timeMs": 60345,
+            "time": "1m 0s",
+            "ttftMs": 1532,
+            "promptTokens": 447,
+            "completionTokens": 717,
+            "testedAt": "2026-05-11T17:41:31.355Z",
+            "server": "ollama-4070"
+          }
+        ]
+      },
+      "critic": {
+        "score": -40,
+        "passed": 3,
+        "failed": 7,
+        "total": 10,
+        "wowPassed": 0,
+        "wowTotal": 0,
+        "avgTokSec": 15.2,
+        "avgPromptTokSec": 1589.5,
+        "avgTtftMs": 1533,
+        "avgTotalMs": 36049,
+        "runTotalMs": 361447,
+        "runTotalFormatted": "6m 1s",
+        "testedAt": "2026-05-11T17:47:33.779Z",
+        "tests": [
+          {
+            "id": "critic-core-missing-dependency",
+            "name": "Core missing dependency",
+            "difficulty": "standard",
+            "passed": true,
+            "reason": null,
+            "tokSec": 12.9,
+            "timeMs": 53389,
+            "time": "53s",
+            "ttftMs": 1414,
+            "promptTokens": 359,
+            "completionTokens": 667,
+            "testedAt": "2026-05-11T17:42:25.632Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "critic-core-approve-good-plan",
+            "name": "Core approve good plan",
+            "difficulty": "standard",
+            "passed": false,
+            "reason": "Should approve this solid plan or at least not invent CRITICAL/WARNING issues — the plan covers deps, structure, storage, validation, error handling, and testing",
+            "tokSec": 12.1,
+            "timeMs": 50067,
+            "time": "50s",
+            "ttftMs": 1434,
+            "promptTokens": 379,
+            "completionTokens": 585,
+            "testedAt": "2026-05-11T17:43:15.845Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "critic-applied-wrong-ordering",
+            "name": "Applied wrong ordering",
+            "difficulty": "standard",
+            "passed": false,
+            "reason": "Must flag that the steps are in the wrong order (deploy before code, tests before implementation, etc.)",
+            "tokSec": 17.6,
+            "timeMs": 26565,
+            "time": "26s",
+            "ttftMs": 1461,
+            "promptTokens": 355,
+            "completionTokens": 438,
+            "testedAt": "2026-05-11T17:43:42.494Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "critic-applied-over-engineered",
+            "name": "Applied over engineered",
+            "difficulty": "standard",
+            "passed": true,
+            "reason": null,
+            "tokSec": 17.1,
+            "timeMs": 32762,
+            "time": "32s",
+            "ttftMs": 1548,
+            "promptTokens": 401,
+            "completionTokens": 529,
+            "testedAt": "2026-05-11T17:44:15.395Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "critic-edge-missing-error-handling",
+            "name": "Edge missing error handling",
+            "difficulty": "standard",
+            "passed": true,
+            "reason": null,
+            "tokSec": 16.5,
+            "timeMs": 27976,
+            "time": "27s",
+            "ttftMs": 1533,
+            "promptTokens": 365,
+            "completionTokens": 433,
+            "testedAt": "2026-05-11T17:44:43.466Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "critic-wow-security-flaw-md5",
+            "name": "Wow security flaw md5",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Must flag MD5 as weak/insecure/broken for password hashing",
+            "tokSec": 16.3,
+            "timeMs": 35295,
+            "time": "35s",
+            "ttftMs": 1804,
+            "promptTokens": 377,
+            "completionTokens": 541,
+            "testedAt": "2026-05-11T17:45:18.882Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "critic-wow-2",
+            "name": "Wow 2",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Must flag vendor lock-in risk — every single component is AWS-proprietary with no abstraction layer",
+            "tokSec": 14.1,
+            "timeMs": 41149,
+            "time": "41s",
+            "ttftMs": 1534,
+            "promptTokens": 400,
+            "completionTokens": 555,
+            "testedAt": "2026-05-11T17:46:00.135Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "critic-wow-3",
+            "name": "Wow 3",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Must explain that the plan optimizations do not address the actual cause of slow response times",
+            "tokSec": 9.3,
+            "timeMs": 50375,
+            "time": "50s",
+            "ttftMs": 1528,
+            "promptTokens": 399,
+            "completionTokens": 452,
+            "testedAt": "2026-05-11T17:46:50.601Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "critic-wow-4",
+            "name": "Wow 4",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Must flag at least 2 of: dark patterns/ethics, wrong metric (time-on-site vs learning outcomes), push notification spam. Found 1",
+            "tokSec": 19.6,
+            "timeMs": 13692,
+            "time": "13s",
+            "ttftMs": 1539,
+            "promptTokens": 405,
+            "completionTokens": 236,
+            "testedAt": "2026-05-11T17:47:04.374Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "critic-wow-5",
+            "name": "Wow 5",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Must identify the race condition / TOCTOU / concurrency issue between checking availability and reserving",
+            "tokSec": 16.2,
+            "timeMs": 29220,
+            "time": "29s",
+            "ttftMs": 1537,
+            "promptTokens": 372,
+            "completionTokens": 446,
+            "testedAt": "2026-05-11T17:47:33.676Z",
+            "server": "ollama-4070"
+          }
+        ]
+      },
+      "tester": {
+        "score": 20,
+        "passed": 6,
+        "failed": 4,
+        "total": 10,
+        "wowPassed": 2,
+        "wowTotal": 5,
+        "avgTokSec": 14.3,
+        "avgPromptTokSec": 1360.9,
+        "avgTtftMs": 1706,
+        "avgTotalMs": 23433,
+        "runTotalMs": 235132,
+        "runTotalFormatted": "3m 55s",
+        "testedAt": "2026-05-11T17:51:29.581Z",
+        "tests": [
+          {
+            "id": "tester-core-simple-function",
+            "name": "Core simple function",
+            "difficulty": "core",
+            "passed": true,
+            "reason": null,
+            "tokSec": 9.4,
+            "timeMs": 27327,
+            "time": "27s",
+            "ttftMs": 1480,
+            "promptTokens": 442,
+            "completionTokens": 242,
+            "testedAt": "2026-05-11T17:48:01.723Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "tester-core-error-paths",
+            "name": "Core error paths",
+            "difficulty": "core",
+            "passed": true,
+            "reason": null,
+            "tokSec": 7.8,
+            "timeMs": 35412,
+            "time": "35s",
+            "ttftMs": 1862,
+            "promptTokens": 464,
+            "completionTokens": 262,
+            "testedAt": "2026-05-11T17:48:37.216Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "tester-applied-mock-dependency",
+            "name": "Applied mock dependency",
+            "difficulty": "applied",
+            "passed": true,
+            "reason": null,
+            "tokSec": 10.3,
+            "timeMs": 24081,
+            "time": "24s",
+            "ttftMs": 1493,
+            "promptTokens": 464,
+            "completionTokens": 232,
+            "testedAt": "2026-05-11T17:49:01.393Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "tester-applied-edge-cases",
+            "name": "Applied edge cases",
+            "difficulty": "applied",
+            "passed": true,
+            "reason": null,
+            "tokSec": 11.6,
+            "timeMs": 20593,
+            "time": "20s",
+            "ttftMs": 1604,
+            "promptTokens": 448,
+            "completionTokens": 219,
+            "testedAt": "2026-05-11T17:49:22.073Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "tester-edge-test-the-test",
+            "name": "Edge test the test",
+            "difficulty": "edge",
+            "passed": false,
+            "reason": "Tests follow the WRONG docstring instead of actual code behavior. is_even(2) should be True, is_even(3) should be False",
+            "tokSec": 18.4,
+            "timeMs": 10888,
+            "time": "10s",
+            "ttftMs": 1533,
+            "promptTokens": 459,
+            "completionTokens": 171,
+            "testedAt": "2026-05-11T17:49:33.055Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "tester-wow-binary-search",
+            "name": "Wow binary search",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Must test or mention that the function requires a sorted list",
+            "tokSec": 11.9,
+            "timeMs": 36622,
+            "time": "36s",
+            "ttftMs": 1695,
+            "promptTokens": 547,
+            "completionTokens": 415,
+            "testedAt": "2026-05-11T17:50:09.759Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "tester-wow-2",
+            "name": "Wow 2",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Must test exact boundary where value equals min_val (e.g., clamp(5, 5, 10) == 5) to catch < vs <= mutation",
+            "tokSec": 19.2,
+            "timeMs": 18431,
+            "time": "18s",
+            "ttftMs": 1945,
+            "promptTokens": 522,
+            "completionTokens": 314,
+            "testedAt": "2026-05-11T17:50:28.277Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "tester-wow-3",
+            "name": "Wow 3",
+            "difficulty": "wow",
+            "passed": true,
+            "reason": null,
+            "tokSec": 17.1,
+            "timeMs": 21380,
+            "time": "21s",
+            "ttftMs": 2048,
+            "promptTokens": 562,
+            "completionTokens": 328,
+            "testedAt": "2026-05-11T17:50:49.743Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "tester-wow-4",
+            "name": "Wow 4",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Must reference dict in the tests",
+            "tokSec": 21,
+            "timeMs": 13821,
+            "time": "13s",
+            "ttftMs": 1628,
+            "promptTokens": 504,
+            "completionTokens": 254,
+            "testedAt": "2026-05-11T17:51:03.639Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "tester-wow-5",
+            "name": "Wow 5",
+            "difficulty": "wow",
+            "passed": true,
+            "reason": null,
+            "tokSec": 16.5,
+            "timeMs": 25778,
+            "time": "25s",
+            "ttftMs": 1767,
+            "promptTokens": 535,
+            "completionTokens": 394,
+            "testedAt": "2026-05-11T17:51:29.512Z",
+            "server": "ollama-4070"
+          }
+        ]
+      },
+      "debugger": {
+        "score": 60,
+        "passed": 8,
+        "failed": 2,
+        "total": 10,
+        "wowPassed": 3,
+        "wowTotal": 5,
+        "avgTokSec": 10.4,
+        "avgPromptTokSec": 1154,
+        "avgTtftMs": 1765,
+        "avgTotalMs": 37576,
+        "runTotalMs": 376634,
+        "runTotalFormatted": "6m 16s",
+        "testedAt": "2026-05-11T17:57:46.666Z",
+        "tests": [
+          {
+            "id": "debugger-core-missing-import",
+            "name": "Core missing import",
+            "difficulty": "core",
+            "passed": true,
+            "reason": null,
+            "tokSec": 17.9,
+            "timeMs": 18945,
+            "time": "18s",
+            "ttftMs": 1676,
+            "promptTokens": 560,
+            "completionTokens": 306,
+            "testedAt": "2026-05-11T17:51:48.908Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "debugger-core-wrong-method",
+            "name": "Core wrong method",
+            "difficulty": "core",
+            "passed": true,
+            "reason": null,
+            "tokSec": 16,
+            "timeMs": 24569,
+            "time": "24s",
+            "ttftMs": 1770,
+            "promptTokens": 572,
+            "completionTokens": 362,
+            "testedAt": "2026-05-11T17:52:13.575Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "debugger-applied-off-by-one",
+            "name": "Applied off by one",
+            "difficulty": "applied",
+            "passed": true,
+            "reason": null,
+            "tokSec": 9.4,
+            "timeMs": 48931,
+            "time": "48s",
+            "ttftMs": 1852,
+            "promptTokens": 623,
+            "completionTokens": 441,
+            "testedAt": "2026-05-11T17:53:02.599Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "debugger-applied-type-error",
+            "name": "Applied type error",
+            "difficulty": "applied",
+            "passed": true,
+            "reason": null,
+            "tokSec": 11.6,
+            "timeMs": 18716,
+            "time": "18s",
+            "ttftMs": 1797,
+            "promptTokens": 652,
+            "completionTokens": 196,
+            "testedAt": "2026-05-11T17:53:21.408Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "debugger-edge-misleading-error",
+            "name": "Edge misleading error",
+            "difficulty": "edge",
+            "passed": true,
+            "reason": null,
+            "tokSec": 6.8,
+            "timeMs": 56108,
+            "time": "56s",
+            "ttftMs": 1812,
+            "promptTokens": 676,
+            "completionTokens": 368,
+            "testedAt": "2026-05-11T17:54:17.605Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "debugger-wow-variable-shadowing",
+            "name": "Wow variable shadowing",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Must identify that \"total\" is used as both the loop variable and the accumulator (variable shadowing)",
+            "tokSec": 9.5,
+            "timeMs": 43026,
+            "time": "43s",
+            "ttftMs": 1676,
+            "promptTokens": 546,
+            "completionTokens": 393,
+            "testedAt": "2026-05-11T17:55:00.721Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "debugger-wow-2",
+            "name": "Wow 2",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Must identify mutable default argument as the root cause (e.g. \"mutable default\", \"default argument\", \"shared list\")",
+            "tokSec": 10,
+            "timeMs": 25848,
+            "time": "25s",
+            "ttftMs": 1733,
+            "promptTokens": 598,
+            "completionTokens": 241,
+            "testedAt": "2026-05-11T17:55:26.658Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "debugger-wow-3",
+            "name": "Wow 3",
+            "difficulty": "wow",
+            "passed": true,
+            "reason": null,
+            "tokSec": 6.8,
+            "timeMs": 52652,
+            "time": "52s",
+            "ttftMs": 1845,
+            "promptTokens": 669,
+            "completionTokens": 344,
+            "testedAt": "2026-05-11T17:56:19.406Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "debugger-wow-4",
+            "name": "Wow 4",
+            "difficulty": "wow",
+            "passed": true,
+            "reason": null,
+            "tokSec": 7.3,
+            "timeMs": 53222,
+            "time": "53s",
+            "ttftMs": 1705,
+            "promptTokens": 584,
+            "completionTokens": 377,
+            "testedAt": "2026-05-11T17:57:12.747Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "debugger-wow-5",
+            "name": "Wow 5",
+            "difficulty": "wow",
+            "passed": true,
+            "reason": null,
+            "tokSec": 9,
+            "timeMs": 33738,
+            "time": "33s",
+            "ttftMs": 1779,
+            "promptTokens": 571,
+            "completionTokens": 285,
+            "testedAt": "2026-05-11T17:57:46.588Z",
+            "server": "ollama-4070"
+          }
+        ]
+      },
+      "researcher": {
+        "score": 0,
+        "passed": 5,
+        "failed": 5,
+        "total": 10,
+        "wowPassed": 1,
+        "wowTotal": 5,
+        "avgTokSec": 9.8,
+        "avgPromptTokSec": 1763.1,
+        "avgTtftMs": 1426,
+        "avgTotalMs": 48289,
+        "runTotalMs": 483744,
+        "runTotalFormatted": "8m 3s",
+        "testedAt": "2026-05-11T18:05:50.885Z",
+        "tests": [
+          {
+            "id": "researcher-core-stack-queue",
+            "name": "Core stack queue",
+            "difficulty": "core",
+            "passed": true,
+            "reason": null,
+            "tokSec": 8.6,
+            "timeMs": 43031,
+            "time": "43s",
+            "ttftMs": 1387,
+            "promptTokens": 319,
+            "completionTokens": 355,
+            "testedAt": "2026-05-11T17:58:30.090Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "researcher-core-rest-graphql",
+            "name": "Core rest graphql",
+            "difficulty": "core",
+            "passed": true,
+            "reason": null,
+            "tokSec": 7.7,
+            "timeMs": 53068,
+            "time": "53s",
+            "ttftMs": 1408,
+            "promptTokens": 309,
+            "completionTokens": 398,
+            "testedAt": "2026-05-11T17:59:23.262Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "researcher-applied-nodejs-security",
+            "name": "Applied nodejs security",
+            "difficulty": "applied",
+            "passed": true,
+            "reason": null,
+            "tokSec": 7.3,
+            "timeMs": 97747,
+            "time": "1m 37s",
+            "ttftMs": 1372,
+            "promptTokens": 318,
+            "completionTokens": 705,
+            "testedAt": "2026-05-11T18:01:01.097Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "researcher-applied-sql-nosql",
+            "name": "Applied sql nosql",
+            "difficulty": "applied",
+            "passed": false,
+            "reason": "One-sided: does not acknowledge NoSQL advantages (scale, flexibility) and does not recommend SQL with clear reasoning",
+            "tokSec": 10.5,
+            "timeMs": 34608,
+            "time": "34s",
+            "ttftMs": 1525,
+            "promptTokens": 329,
+            "completionTokens": 345,
+            "testedAt": "2026-05-11T18:01:35.808Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "researcher-edge-uncertainty",
+            "name": "Edge uncertainty",
+            "difficulty": "edge",
+            "passed": true,
+            "reason": null,
+            "tokSec": 13.2,
+            "timeMs": 18762,
+            "time": "18s",
+            "ttftMs": 1372,
+            "promptTokens": 316,
+            "completionTokens": 228,
+            "testedAt": "2026-05-11T18:01:54.660Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "researcher-wow-false-premise",
+            "name": "Wow false premise",
+            "difficulty": "wow",
+            "passed": true,
+            "reason": null,
+            "tokSec": 9.2,
+            "timeMs": 45798,
+            "time": "45s",
+            "ttftMs": 1364,
+            "promptTokens": 323,
+            "completionTokens": 407,
+            "testedAt": "2026-05-11T18:02:40.554Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "researcher-wow-2",
+            "name": "Wow 2",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Catastrophic failure: model just listed frameworks by age/stars without identifying survivorship bias or methodological flaw",
+            "tokSec": 14.7,
+            "timeMs": 23465,
+            "time": "23s",
+            "ttftMs": 1486,
+            "promptTokens": 330,
+            "completionTokens": 321,
+            "testedAt": "2026-05-11T18:03:04.124Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "researcher-wow-3",
+            "name": "Wow 3",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Catastrophic failure: model researched \"SHA-256 sorting performance\" without recognizing SHA-256 is a hashing algorithm, not a sorting algorithm",
+            "tokSec": 6.6,
+            "timeMs": 101743,
+            "time": "1m 41s",
+            "ttftMs": 1473,
+            "promptTokens": 353,
+            "completionTokens": 664,
+            "testedAt": "2026-05-11T18:04:45.940Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "researcher-wow-4",
+            "name": "Wow 4",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Only 0/5 methodological flaws identified (need >= 3): LOC as bad metric, selection bias, Hawthorne effect, quality beyond bugs, short time period",
+            "tokSec": 9.5,
+            "timeMs": 34631,
+            "time": "34s",
+            "ttftMs": 1437,
+            "promptTokens": 381,
+            "completionTokens": 315,
+            "testedAt": "2026-05-11T18:05:20.657Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "researcher-wow-5",
+            "name": "Wow 5",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Only 0/4 issues identified (need >= 2): fabricated citations, suspiciously precise stat, unfalsifiable/overgeneralized claim, circular citation",
+            "tokSec": 10.4,
+            "timeMs": 30032,
+            "time": "30s",
+            "ttftMs": 1435,
+            "promptTokens": 350,
+            "completionTokens": 296,
+            "testedAt": "2026-05-11T18:05:50.791Z",
+            "server": "ollama-4070"
+          }
+        ]
+      },
+      "refactorer": {
+        "score": 0,
+        "passed": 5,
+        "failed": 5,
+        "total": 10,
+        "wowPassed": 2,
+        "wowTotal": 5,
+        "avgTokSec": 14.7,
+        "avgPromptTokSec": 1268.9,
+        "avgTtftMs": 1692,
+        "avgTotalMs": 27615,
+        "runTotalMs": 277033,
+        "runTotalFormatted": "4m 37s",
+        "testedAt": "2026-05-11T18:10:28.373Z",
+        "tests": [
+          {
+            "id": "refactorer-core-enumerate",
+            "name": "Core enumerate",
+            "difficulty": "core",
+            "passed": true,
+            "reason": null,
+            "tokSec": 10.8,
+            "timeMs": 25260,
+            "time": "25s",
+            "ttftMs": 1494,
+            "promptTokens": 431,
+            "completionTokens": 255,
+            "testedAt": "2026-05-11T18:06:16.537Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "refactorer-core-var-to-const-let",
+            "name": "Core var to const let",
+            "difficulty": "core",
+            "passed": false,
+            "reason": "Must use const or let instead of var",
+            "tokSec": 15.7,
+            "timeMs": 25325,
+            "time": "25s",
+            "ttftMs": 1540,
+            "promptTokens": 471,
+            "completionTokens": 371,
+            "testedAt": "2026-05-11T18:06:41.947Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "refactorer-applied-extract-duplication",
+            "name": "Applied extract duplication",
+            "difficulty": "applied",
+            "passed": false,
+            "reason": "Duplicated header pattern still appears 3+ times — extraction incomplete",
+            "tokSec": 16.7,
+            "timeMs": 24568,
+            "time": "24s",
+            "ttftMs": 1847,
+            "promptTokens": 602,
+            "completionTokens": 377,
+            "testedAt": "2026-05-11T18:07:06.627Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "refactorer-applied-reduce-nesting",
+            "name": "Applied reduce nesting",
+            "difficulty": "applied",
+            "passed": true,
+            "reason": null,
+            "tokSec": 15.8,
+            "timeMs": 24153,
+            "time": "24s",
+            "ttftMs": 1733,
+            "promptTokens": 560,
+            "completionTokens": 351,
+            "testedAt": "2026-05-11T18:07:30.882Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "refactorer-edge-preserve-api",
+            "name": "Edge preserve api",
+            "difficulty": "edge",
+            "passed": true,
+            "reason": null,
+            "tokSec": 16.2,
+            "timeMs": 25923,
+            "time": "25s",
+            "ttftMs": 1768,
+            "promptTokens": 548,
+            "completionTokens": 388,
+            "testedAt": "2026-05-11T18:07:56.898Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "refactorer-wow-hidden-cubic",
+            "name": "Wow hidden cubic",
+            "difficulty": "wow",
+            "passed": true,
+            "reason": null,
+            "tokSec": 16,
+            "timeMs": 27151,
+            "time": "27s",
+            "ttftMs": 1665,
+            "promptTokens": 489,
+            "completionTokens": 405,
+            "testedAt": "2026-05-11T18:08:24.134Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "refactorer-wow-2",
+            "name": "Wow 2",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Missing error message: CONFIG_VALIDATION_FAILED — all original error semantics must be preserved",
+            "tokSec": 17.6,
+            "timeMs": 19565,
+            "time": "19s",
+            "ttftMs": 1893,
+            "promptTokens": 658,
+            "completionTokens": 309,
+            "testedAt": "2026-05-11T18:08:43.808Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "refactorer-wow-3",
+            "name": "Wow 3",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Must use explicit data flow: either class with self attributes or functions with parameters/return values",
+            "tokSec": 9.5,
+            "timeMs": 38567,
+            "time": "38s",
+            "ttftMs": 1639,
+            "promptTokens": 511,
+            "completionTokens": 351,
+            "testedAt": "2026-05-11T18:09:22.465Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "refactorer-wow-4",
+            "name": "Wow 4",
+            "difficulty": "wow",
+            "passed": false,
+            "reason": "Public def read() method must remain synchronous (or provide both sync and async versions) — all callers would break",
+            "tokSec": 12.5,
+            "timeMs": 41076,
+            "time": "41s",
+            "ttftMs": 1752,
+            "promptTokens": 602,
+            "completionTokens": 489,
+            "testedAt": "2026-05-11T18:10:03.642Z",
+            "server": "ollama-4070"
+          },
+          {
+            "id": "refactorer-wow-5",
+            "name": "Wow 5",
+            "difficulty": "wow",
+            "passed": true,
+            "reason": null,
+            "tokSec": 16,
+            "timeMs": 24566,
+            "time": "24s",
+            "ttftMs": 1590,
+            "promptTokens": 491,
+            "completionTokens": 365,
+            "testedAt": "2026-05-11T18:10:28.304Z",
+            "server": "ollama-4070"
+          }
+        ]
+      },
+      "translator": {
+        "score": -10,
+        "passed": 0,
+        "failed": 1,
+        "total": 1,
+        "wowPassed": 0,
+        "wowTotal": 0,
+        "avgTokSec": 52.1,
+        "avgPromptTokSec": 1841,
+        "avgTtftMs": 1347,
+        "avgTotalMs": 1896,
+        "runTotalMs": 1902,
+        "runTotalFormatted": "1s",
+        "testedAt": "2026-05-11T18:10:30.737Z",
+        "tests": [
+          {
+            "id": "translator-core-simple",
+            "name": "Core simple",
+            "difficulty": "core",
+            "passed": false,
+            "reason": "Missing \"gato\" (cat in Spanish)",
+            "tokSec": 52.1,
+            "timeMs": 1896,
+            "time": "1s",
+            "ttftMs": 1347,
+            "promptTokens": 274,
+            "completionTokens": 28,
+            "testedAt": "2026-05-11T18:10:30.665Z",
+            "server": "ollama-4070"
+          }
+        ]
+      }
+    },
+    "perf": {
+      "tokPerSec": 52.1,
+      "promptTokPerSec": 1841,
+      "lastTestedAt": "2026-05-11T18:10:30.737Z",
+      "actualVramGb": 1.57,
+      "gpuOffloadPercent": 100,
+      "activeContextLength": 4096
+    }
+  },
   "opencoder:8b": {
     "preferred_for": [
       "planner",
@@ -256954,7 +259055,7 @@
         "avgTotalMs": 8623,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:38.370Z",
+        "testedAt": "2026-05-11T15:35:41.696Z",
         "tests": [
           {
             "id": "router-1",
@@ -257121,7 +259222,7 @@
         "avgTotalMs": 3130,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:38.489Z",
+        "testedAt": "2026-05-11T15:35:41.831Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -257288,7 +259389,7 @@
         "avgTotalMs": 7851,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:38.610Z",
+        "testedAt": "2026-05-11T15:35:41.951Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -257455,7 +259556,7 @@
         "avgTotalMs": 8292,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:38.727Z",
+        "testedAt": "2026-05-11T15:35:42.084Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -257622,7 +259723,7 @@
         "avgTotalMs": 6172,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:38.849Z",
+        "testedAt": "2026-05-11T15:35:42.216Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -257789,7 +259890,7 @@
         "avgTotalMs": 5308,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:38.971Z",
+        "testedAt": "2026-05-11T15:35:42.349Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -257956,7 +260057,7 @@
         "avgTotalMs": 9684,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:39.089Z",
+        "testedAt": "2026-05-11T15:35:42.484Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -258123,7 +260224,7 @@
         "avgTotalMs": 3458,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:39.210Z",
+        "testedAt": "2026-05-11T15:35:42.621Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -258290,7 +260391,7 @@
         "avgTotalMs": 10180,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:39.325Z",
+        "testedAt": "2026-05-11T15:35:42.745Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -258457,7 +260558,7 @@
         "avgTotalMs": 5508,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:39.445Z",
+        "testedAt": "2026-05-11T15:35:42.872Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -258624,7 +260725,7 @@
         "avgTotalMs": 3997,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:39.571Z",
+        "testedAt": "2026-05-11T15:35:42.997Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -258791,7 +260892,7 @@
         "avgTotalMs": 6787,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:39.689Z",
+        "testedAt": "2026-05-11T15:35:43.123Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -258958,7 +261059,7 @@
         "avgTotalMs": 1863,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:39.815Z",
+        "testedAt": "2026-05-11T15:35:43.251Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -259125,7 +261226,7 @@
         "avgTotalMs": 2488,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:39.943Z",
+        "testedAt": "2026-05-11T15:35:43.383Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -259292,7 +261393,7 @@
         "avgTotalMs": 1511,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:40.063Z",
+        "testedAt": "2026-05-11T15:35:43.526Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -259459,7 +261560,7 @@
         "avgTotalMs": 1417,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:40.188Z",
+        "testedAt": "2026-05-11T15:35:43.662Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -259626,7 +261727,7 @@
         "avgTotalMs": 5224,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:40.316Z",
+        "testedAt": "2026-05-11T15:35:43.802Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -268801,7 +270902,7 @@
         "avgTotalMs": 23296,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:06.147Z",
+        "testedAt": "2026-05-11T15:36:10.234Z",
         "tests": [
           {
             "id": "router-1",
@@ -268968,7 +271069,7 @@
         "avgTotalMs": 107153,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:06.271Z",
+        "testedAt": "2026-05-11T15:36:10.354Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -269135,7 +271236,7 @@
         "avgTotalMs": 16246,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:06.391Z",
+        "testedAt": "2026-05-11T15:36:10.478Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -269302,7 +271403,7 @@
         "avgTotalMs": 10401,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:06.516Z",
+        "testedAt": "2026-05-11T15:36:10.603Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -269469,7 +271570,7 @@
         "avgTotalMs": 7807,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:06.642Z",
+        "testedAt": "2026-05-11T15:36:10.719Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -269636,7 +271737,7 @@
         "avgTotalMs": 12359,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:06.759Z",
+        "testedAt": "2026-05-11T15:36:10.841Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -269803,7 +271904,7 @@
         "avgTotalMs": 26003,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:06.875Z",
+        "testedAt": "2026-05-11T15:36:10.960Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -269970,7 +272071,7 @@
         "avgTotalMs": 9772,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:06.998Z",
+        "testedAt": "2026-05-11T15:36:11.087Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -270137,7 +272238,7 @@
         "avgTotalMs": 9332,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:07.115Z",
+        "testedAt": "2026-05-11T15:36:11.205Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -270304,7 +272405,7 @@
         "avgTotalMs": 8436,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:07.235Z",
+        "testedAt": "2026-05-11T15:36:11.329Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -270471,7 +272572,7 @@
         "avgTotalMs": 13438,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:07.355Z",
+        "testedAt": "2026-05-11T15:36:11.447Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -270638,7 +272739,7 @@
         "avgTotalMs": 8120,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:07.470Z",
+        "testedAt": "2026-05-11T15:36:11.575Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -270805,7 +272906,7 @@
         "avgTotalMs": 3898,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:07.589Z",
+        "testedAt": "2026-05-11T15:36:11.701Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -270972,7 +273073,7 @@
         "avgTotalMs": 14062,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:07.710Z",
+        "testedAt": "2026-05-11T15:36:11.822Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -271139,7 +273240,7 @@
         "avgTotalMs": 2986,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:07.839Z",
+        "testedAt": "2026-05-11T15:36:11.944Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -271306,7 +273407,7 @@
         "avgTotalMs": 1863,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:07.962Z",
+        "testedAt": "2026-05-11T15:36:12.065Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -271473,7 +273574,7 @@
         "avgTotalMs": 5387,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:08.077Z",
+        "testedAt": "2026-05-11T15:36:12.185Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -289652,7 +291753,7 @@
         "avgTotalMs": 26049,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:10.185Z",
+        "testedAt": "2026-05-11T15:36:14.509Z",
         "tests": [
           {
             "id": "router-1",
@@ -289819,7 +291920,7 @@
         "avgTotalMs": 69418,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:10.299Z",
+        "testedAt": "2026-05-11T15:36:14.646Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -289986,7 +292087,7 @@
         "avgTotalMs": 51168,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:10.420Z",
+        "testedAt": "2026-05-11T15:36:14.791Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -290153,7 +292254,7 @@
         "avgTotalMs": 37957,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:10.537Z",
+        "testedAt": "2026-05-11T15:36:14.928Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -290320,7 +292421,7 @@
         "avgTotalMs": 32651,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:10.655Z",
+        "testedAt": "2026-05-11T15:36:15.062Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -290487,7 +292588,7 @@
         "avgTotalMs": 127690,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:10.765Z",
+        "testedAt": "2026-05-11T15:36:15.195Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -290654,7 +292755,7 @@
         "avgTotalMs": 43877,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:10.889Z",
+        "testedAt": "2026-05-11T15:36:15.336Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -290821,7 +292922,7 @@
         "avgTotalMs": 28870,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:11.007Z",
+        "testedAt": "2026-05-11T15:36:15.485Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -290988,7 +293089,7 @@
         "avgTotalMs": 61851,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:11.119Z",
+        "testedAt": "2026-05-11T15:36:15.623Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -291155,7 +293256,7 @@
         "avgTotalMs": 21534,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:11.235Z",
+        "testedAt": "2026-05-11T15:36:15.751Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -291322,7 +293423,7 @@
         "avgTotalMs": 16816,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:11.354Z",
+        "testedAt": "2026-05-11T15:36:15.883Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -291489,7 +293590,7 @@
         "avgTotalMs": 17116,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:11.474Z",
+        "testedAt": "2026-05-11T15:36:16.014Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -291656,7 +293757,7 @@
         "avgTotalMs": 11792,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:11.598Z",
+        "testedAt": "2026-05-11T15:36:16.152Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -291823,7 +293924,7 @@
         "avgTotalMs": 36475,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:11.716Z",
+        "testedAt": "2026-05-11T15:36:16.296Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -291990,7 +294091,7 @@
         "avgTotalMs": 2347,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:11.835Z",
+        "testedAt": "2026-05-11T15:36:16.420Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -292157,7 +294258,7 @@
         "avgTotalMs": 1917,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:11.955Z",
+        "testedAt": "2026-05-11T15:36:16.549Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -292324,7 +294425,7 @@
         "avgTotalMs": 15639,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:12.073Z",
+        "testedAt": "2026-05-11T15:36:16.691Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -397725,7 +399826,7 @@
         "avgTotalMs": 26104,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:57.965Z",
+        "testedAt": "2026-05-11T15:36:01.485Z",
         "tests": [
           {
             "id": "router-1",
@@ -397892,7 +399993,7 @@
         "avgTotalMs": 11909,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:58.089Z",
+        "testedAt": "2026-05-11T15:36:01.626Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -398059,7 +400160,7 @@
         "avgTotalMs": 16795,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:58.215Z",
+        "testedAt": "2026-05-11T15:36:01.780Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -398226,7 +400327,7 @@
         "avgTotalMs": 14954,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:58.339Z",
+        "testedAt": "2026-05-11T15:36:01.929Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -398393,7 +400494,7 @@
         "avgTotalMs": 16864,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:58.461Z",
+        "testedAt": "2026-05-11T15:36:02.079Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -398560,7 +400661,7 @@
         "avgTotalMs": 14483,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:58.595Z",
+        "testedAt": "2026-05-11T15:36:02.229Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -398727,7 +400828,7 @@
         "avgTotalMs": 17617,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:58.720Z",
+        "testedAt": "2026-05-11T15:36:02.379Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -398894,7 +400995,7 @@
         "avgTotalMs": 19093,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:58.838Z",
+        "testedAt": "2026-05-11T15:36:02.525Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -399061,7 +401162,7 @@
         "avgTotalMs": 24968,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:58.955Z",
+        "testedAt": "2026-05-11T15:36:02.654Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -399228,7 +401329,7 @@
         "avgTotalMs": 15923,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:59.078Z",
+        "testedAt": "2026-05-11T15:36:02.780Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -399395,7 +401496,7 @@
         "avgTotalMs": 14715,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:59.203Z",
+        "testedAt": "2026-05-11T15:36:02.908Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -399562,7 +401663,7 @@
         "avgTotalMs": 30622,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:59.325Z",
+        "testedAt": "2026-05-11T15:36:03.035Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -399729,7 +401830,7 @@
         "avgTotalMs": 6167,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:59.455Z",
+        "testedAt": "2026-05-11T15:36:03.167Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -399896,7 +401997,7 @@
         "avgTotalMs": 12463,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:59.574Z",
+        "testedAt": "2026-05-11T15:36:03.302Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -400063,7 +402164,7 @@
         "avgTotalMs": 3986,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:59.695Z",
+        "testedAt": "2026-05-11T15:36:03.440Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -400230,7 +402331,7 @@
         "avgTotalMs": 4985,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:59.821Z",
+        "testedAt": "2026-05-11T15:36:03.586Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -400397,7 +402498,7 @@
         "avgTotalMs": 9490,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:59.937Z",
+        "testedAt": "2026-05-11T15:36:03.731Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -403601,7 +405702,7 @@
         "avgTotalMs": 24478,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:53.637Z",
+        "testedAt": "2026-05-11T15:35:56.993Z",
         "tests": [
           {
             "id": "router-1",
@@ -403768,7 +405869,7 @@
         "avgTotalMs": 7891,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:53.765Z",
+        "testedAt": "2026-05-11T15:35:57.117Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -403935,7 +406036,7 @@
         "avgTotalMs": 7042,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:53.885Z",
+        "testedAt": "2026-05-11T15:35:57.241Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -404102,7 +406203,7 @@
         "avgTotalMs": 9096,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:54.010Z",
+        "testedAt": "2026-05-11T15:35:57.362Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -404269,7 +406370,7 @@
         "avgTotalMs": 9060,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:54.145Z",
+        "testedAt": "2026-05-11T15:35:57.482Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -404436,7 +406537,7 @@
         "avgTotalMs": 7945,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:54.282Z",
+        "testedAt": "2026-05-11T15:35:57.600Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -404603,7 +406704,7 @@
         "avgTotalMs": 17208,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:54.415Z",
+        "testedAt": "2026-05-11T15:35:57.718Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -404770,7 +406871,7 @@
         "avgTotalMs": 10667,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:54.545Z",
+        "testedAt": "2026-05-11T15:35:57.838Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -404937,7 +407038,7 @@
         "avgTotalMs": 27873,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:54.672Z",
+        "testedAt": "2026-05-11T15:35:57.965Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -405104,7 +407205,7 @@
         "avgTotalMs": 8965,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:54.795Z",
+        "testedAt": "2026-05-11T15:35:58.091Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -405271,7 +407372,7 @@
         "avgTotalMs": 11170,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:54.920Z",
+        "testedAt": "2026-05-11T15:35:58.221Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -405438,7 +407539,7 @@
         "avgTotalMs": 7254,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:55.042Z",
+        "testedAt": "2026-05-11T15:35:58.342Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -405605,7 +407706,7 @@
         "avgTotalMs": 3679,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:55.165Z",
+        "testedAt": "2026-05-11T15:35:58.463Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -405772,7 +407873,7 @@
         "avgTotalMs": 6953,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:55.295Z",
+        "testedAt": "2026-05-11T15:35:58.599Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -405939,7 +408040,7 @@
         "avgTotalMs": 3484,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:55.438Z",
+        "testedAt": "2026-05-11T15:35:58.738Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -406106,7 +408207,7 @@
         "avgTotalMs": 6550,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:55.569Z",
+        "testedAt": "2026-05-11T15:35:58.865Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -406273,7 +408374,7 @@
         "avgTotalMs": 7426,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:55.710Z",
+        "testedAt": "2026-05-11T15:35:59.001Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -412497,7 +414598,7 @@
         "avgTotalMs": 13270,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:44.715Z",
+        "testedAt": "2026-05-11T15:35:48.623Z",
         "tests": [
           {
             "id": "router-1",
@@ -412664,7 +414765,7 @@
         "avgTotalMs": 29645,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:44.842Z",
+        "testedAt": "2026-05-11T15:35:48.764Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -412831,7 +414932,7 @@
         "avgTotalMs": 15549,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:44.960Z",
+        "testedAt": "2026-05-11T15:35:48.904Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -412998,7 +415099,7 @@
         "avgTotalMs": 10762,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:45.080Z",
+        "testedAt": "2026-05-11T15:35:49.027Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -413165,7 +415266,7 @@
         "avgTotalMs": 15719,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:45.207Z",
+        "testedAt": "2026-05-11T15:35:49.151Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -413332,7 +415433,7 @@
         "avgTotalMs": 11599,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:45.375Z",
+        "testedAt": "2026-05-11T15:35:49.276Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -413499,7 +415600,7 @@
         "avgTotalMs": 29510,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:45.540Z",
+        "testedAt": "2026-05-11T15:35:49.396Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -413666,7 +415767,7 @@
         "avgTotalMs": 16371,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:45.705Z",
+        "testedAt": "2026-05-11T15:35:49.523Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -413833,7 +415934,7 @@
         "avgTotalMs": 41461,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:45.867Z",
+        "testedAt": "2026-05-11T15:35:49.641Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -414000,7 +416101,7 @@
         "avgTotalMs": 9767,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:46.022Z",
+        "testedAt": "2026-05-11T15:35:49.764Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -414167,7 +416268,7 @@
         "avgTotalMs": 13797,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:46.165Z",
+        "testedAt": "2026-05-11T15:35:49.885Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -414334,7 +416435,7 @@
         "avgTotalMs": 10145,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:46.295Z",
+        "testedAt": "2026-05-11T15:35:50.010Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -414501,7 +416602,7 @@
         "avgTotalMs": 4191,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:46.418Z",
+        "testedAt": "2026-05-11T15:35:50.139Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -414668,7 +416769,7 @@
         "avgTotalMs": 15453,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:46.540Z",
+        "testedAt": "2026-05-11T15:35:50.276Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -414835,7 +416936,7 @@
         "avgTotalMs": 1648,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:46.665Z",
+        "testedAt": "2026-05-11T15:35:50.424Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -415002,7 +417103,7 @@
         "avgTotalMs": 1554,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:46.800Z",
+        "testedAt": "2026-05-11T15:35:50.559Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -415169,7 +417270,7 @@
         "avgTotalMs": 7714,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:43:46.926Z",
+        "testedAt": "2026-05-11T15:35:50.686Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -415452,7 +417553,7 @@
         "avgTotalMs": 24043,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:00.067Z",
+        "testedAt": "2026-05-11T15:36:03.897Z",
         "tests": [
           {
             "id": "router-1",
@@ -415619,7 +417720,7 @@
         "avgTotalMs": 15536,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:00.185Z",
+        "testedAt": "2026-05-11T15:36:04.036Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -415786,7 +417887,7 @@
         "avgTotalMs": 10785,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:00.308Z",
+        "testedAt": "2026-05-11T15:36:04.163Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -415953,7 +418054,7 @@
         "avgTotalMs": 11973,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:00.430Z",
+        "testedAt": "2026-05-11T15:36:04.303Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -416120,7 +418221,7 @@
         "avgTotalMs": 24925,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:00.545Z",
+        "testedAt": "2026-05-11T15:36:04.437Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -416287,7 +418388,7 @@
         "avgTotalMs": 12337,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:00.671Z",
+        "testedAt": "2026-05-11T15:36:04.570Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -416454,7 +418555,7 @@
         "avgTotalMs": 33447,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:00.787Z",
+        "testedAt": "2026-05-11T15:36:04.700Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -416621,7 +418722,7 @@
         "avgTotalMs": 8807,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:00.905Z",
+        "testedAt": "2026-05-11T15:36:04.824Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -416788,7 +418889,7 @@
         "avgTotalMs": 19408,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:01.025Z",
+        "testedAt": "2026-05-11T15:36:04.953Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -416955,7 +419056,7 @@
         "avgTotalMs": 10673,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:01.135Z",
+        "testedAt": "2026-05-11T15:36:05.083Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -417122,7 +419223,7 @@
         "avgTotalMs": 17010,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:01.258Z",
+        "testedAt": "2026-05-11T15:36:05.211Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -417289,7 +419390,7 @@
         "avgTotalMs": 8892,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:01.378Z",
+        "testedAt": "2026-05-11T15:36:05.347Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -417456,7 +419557,7 @@
         "avgTotalMs": 6498,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:01.508Z",
+        "testedAt": "2026-05-11T15:36:05.476Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -417623,7 +419724,7 @@
         "avgTotalMs": 15124,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:01.635Z",
+        "testedAt": "2026-05-11T15:36:05.605Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -417790,7 +419891,7 @@
         "avgTotalMs": 7261,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:01.755Z",
+        "testedAt": "2026-05-11T15:36:05.723Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -417957,7 +420058,7 @@
         "avgTotalMs": 2449,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:01.879Z",
+        "testedAt": "2026-05-11T15:36:05.847Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -418124,7 +420225,7 @@
         "avgTotalMs": 11425,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-11T01:44:01.995Z",
+        "testedAt": "2026-05-11T15:36:05.971Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
