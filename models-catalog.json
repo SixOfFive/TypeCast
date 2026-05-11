@@ -1,7 +1,7 @@
 {
   "_meta": {
     "description": "Model catalog with per-role benchmark scores. Assembled from models/*.json.",
-    "generatedAt": "2026-05-11T00:48:04.058Z",
+    "generatedAt": "2026-05-11T01:58:16.511Z",
     "registrySource": "ollama.com/library (scraped)",
     "voteIncrement": 1,
     "voteMax": 1000000,
@@ -9099,7 +9099,7 @@
         "avgTotalMs": 15177,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:45.668Z",
+        "testedAt": "2026-05-11T01:43:49.281Z",
         "tests": [
           {
             "id": "router-1",
@@ -9266,7 +9266,7 @@
         "avgTotalMs": 13193,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:45.791Z",
+        "testedAt": "2026-05-11T01:43:49.406Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -9433,7 +9433,7 @@
         "avgTotalMs": 10351,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:45.913Z",
+        "testedAt": "2026-05-11T01:43:49.525Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -9600,7 +9600,7 @@
         "avgTotalMs": 2920,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:46.035Z",
+        "testedAt": "2026-05-11T01:43:49.664Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -9767,7 +9767,7 @@
         "avgTotalMs": 2795,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:46.159Z",
+        "testedAt": "2026-05-11T01:43:49.792Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -9934,7 +9934,7 @@
         "avgTotalMs": 10154,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:46.289Z",
+        "testedAt": "2026-05-11T01:43:49.922Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -10101,7 +10101,7 @@
         "avgTotalMs": 587,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:46.420Z",
+        "testedAt": "2026-05-11T01:43:50.055Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -10268,7 +10268,7 @@
         "avgTotalMs": 1081,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:46.545Z",
+        "testedAt": "2026-05-11T01:43:50.184Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -10435,7 +10435,7 @@
         "avgTotalMs": 2398,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:46.662Z",
+        "testedAt": "2026-05-11T01:43:50.305Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -10602,7 +10602,7 @@
         "avgTotalMs": 2652,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:46.774Z",
+        "testedAt": "2026-05-11T01:43:50.430Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -10769,7 +10769,7 @@
         "avgTotalMs": 1853,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:46.898Z",
+        "testedAt": "2026-05-11T01:43:50.556Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -10936,7 +10936,7 @@
         "avgTotalMs": 3638,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:47.014Z",
+        "testedAt": "2026-05-11T01:43:50.680Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -11103,7 +11103,7 @@
         "avgTotalMs": 3779,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:47.139Z",
+        "testedAt": "2026-05-11T01:43:50.796Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -11270,7 +11270,7 @@
         "avgTotalMs": 7029,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:47.262Z",
+        "testedAt": "2026-05-11T01:43:50.922Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -11437,7 +11437,7 @@
         "avgTotalMs": 539,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:47.385Z",
+        "testedAt": "2026-05-11T01:43:51.040Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -11604,7 +11604,7 @@
         "avgTotalMs": 556,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:47.499Z",
+        "testedAt": "2026-05-11T01:43:51.165Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -11771,7 +11771,7 @@
         "avgTotalMs": 4292,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:47.617Z",
+        "testedAt": "2026-05-11T01:43:51.295Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -26046,7 +26046,7 @@
         "avgTotalMs": 21274,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:58.997Z",
+        "testedAt": "2026-05-11T01:44:02.125Z",
         "tests": [
           {
             "id": "router-1",
@@ -26213,7 +26213,7 @@
         "avgTotalMs": 8385,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:59.140Z",
+        "testedAt": "2026-05-11T01:44:02.245Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -26380,7 +26380,7 @@
         "avgTotalMs": 8630,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:59.262Z",
+        "testedAt": "2026-05-11T01:44:02.370Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -26547,7 +26547,7 @@
         "avgTotalMs": 7837,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:59.391Z",
+        "testedAt": "2026-05-11T01:44:02.489Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -26714,7 +26714,7 @@
         "avgTotalMs": 3268,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:59.522Z",
+        "testedAt": "2026-05-11T01:44:02.605Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -26881,7 +26881,7 @@
         "avgTotalMs": 7784,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:59.652Z",
+        "testedAt": "2026-05-11T01:44:02.725Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -27048,7 +27048,7 @@
         "avgTotalMs": 27919,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:59.916Z",
+        "testedAt": "2026-05-11T01:44:02.847Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -27215,7 +27215,7 @@
         "avgTotalMs": 7612,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:00.053Z",
+        "testedAt": "2026-05-11T01:44:02.965Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -27382,7 +27382,7 @@
         "avgTotalMs": 10338,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:00.200Z",
+        "testedAt": "2026-05-11T01:44:03.075Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -27549,7 +27549,7 @@
         "avgTotalMs": 6295,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:00.355Z",
+        "testedAt": "2026-05-11T01:44:03.195Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -27716,7 +27716,7 @@
         "avgTotalMs": 10686,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:00.623Z",
+        "testedAt": "2026-05-11T01:44:03.316Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -27883,7 +27883,7 @@
         "avgTotalMs": 7818,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:00.761Z",
+        "testedAt": "2026-05-11T01:44:03.435Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -28050,7 +28050,7 @@
         "avgTotalMs": 2382,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:00.888Z",
+        "testedAt": "2026-05-11T01:44:03.545Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -28217,7 +28217,7 @@
         "avgTotalMs": 7669,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:01.140Z",
+        "testedAt": "2026-05-11T01:44:03.665Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -28384,7 +28384,7 @@
         "avgTotalMs": 1374,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:01.283Z",
+        "testedAt": "2026-05-11T01:44:03.775Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -28551,7 +28551,7 @@
         "avgTotalMs": 1866,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:01.431Z",
+        "testedAt": "2026-05-11T01:44:03.895Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -28718,7 +28718,7 @@
         "avgTotalMs": 4745,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:01.568Z",
+        "testedAt": "2026-05-11T01:44:04.015Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -68582,12 +68582,12 @@
         "wowPassed": 3,
         "wowTotal": 5,
         "avgTokSec": 12,
-        "avgPromptTokSec": 469.5,
+        "avgPromptTokSec": null,
         "avgTtftMs": 39228,
         "avgTotalMs": 40641,
-        "runTotalMs": 932705,
-        "runTotalFormatted": "15m 32s",
-        "testedAt": "2026-05-10T19:33:34.038Z",
+        "runTotalMs": 612585,
+        "runTotalFormatted": "10m 12s",
+        "testedAt": "2026-05-11T01:43:32.091Z",
         "tests": [
           {
             "id": "router-3",
@@ -68719,12 +68719,12 @@
         "wowPassed": 2,
         "wowTotal": 4,
         "avgTokSec": 7.2,
-        "avgPromptTokSec": 563.4,
+        "avgPromptTokSec": null,
         "avgTtftMs": 26852,
         "avgTotalMs": 37197,
-        "runTotalMs": 373105,
-        "runTotalFormatted": "6m 13s",
-        "testedAt": "2026-05-10T19:39:47.843Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:32.233Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -68886,12 +68886,12 @@
         "wowPassed": 3,
         "wowTotal": 4,
         "avgTokSec": 8.9,
-        "avgPromptTokSec": 487.4,
+        "avgPromptTokSec": null,
         "avgTtftMs": 13352,
         "avgTotalMs": 66790,
-        "runTotalMs": 668993,
-        "runTotalFormatted": "11m 8s",
-        "testedAt": "2026-05-10T19:50:57.596Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:32.350Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -69053,12 +69053,12 @@
         "wowPassed": 4,
         "wowTotal": 5,
         "avgTokSec": 8.8,
-        "avgPromptTokSec": 555.9,
+        "avgPromptTokSec": null,
         "avgTtftMs": 14893,
         "avgTotalMs": 61399,
-        "runTotalMs": 615166,
-        "runTotalFormatted": "10m 15s",
-        "testedAt": "2026-05-10T20:01:13.667Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:32.475Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -69220,12 +69220,12 @@
         "wowPassed": 0,
         "wowTotal": 4,
         "avgTokSec": 8.5,
-        "avgPromptTokSec": 514.1,
+        "avgPromptTokSec": null,
         "avgTtftMs": 13354,
         "avgTotalMs": 69556,
-        "runTotalMs": 696606,
-        "runTotalFormatted": "11m 36s",
-        "testedAt": "2026-05-10T20:12:51.035Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:32.595Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -69387,12 +69387,12 @@
         "wowPassed": 3,
         "wowTotal": 5,
         "avgTokSec": 9.1,
-        "avgPromptTokSec": 550.9,
+        "avgPromptTokSec": null,
         "avgTtftMs": 13992,
         "avgTotalMs": 38467,
-        "runTotalMs": 385623,
-        "runTotalFormatted": "6m 25s",
-        "testedAt": "2026-05-10T20:19:17.348Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:32.711Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -69554,12 +69554,12 @@
         "wowPassed": 1,
         "wowTotal": 5,
         "avgTokSec": 8.3,
-        "avgPromptTokSec": 450.8,
+        "avgPromptTokSec": null,
         "avgTtftMs": 12572,
         "avgTotalMs": 165977,
-        "runTotalMs": 1661023,
-        "runTotalFormatted": "27m 41s",
-        "testedAt": "2026-05-10T20:46:59.056Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:32.830Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -69721,12 +69721,12 @@
         "wowPassed": 0,
         "wowTotal": 0,
         "avgTokSec": 8.7,
-        "avgPromptTokSec": 420.6,
+        "avgPromptTokSec": null,
         "avgTtftMs": 12490,
         "avgTotalMs": 58460,
-        "runTotalMs": 585754,
-        "runTotalFormatted": "9m 45s",
-        "testedAt": "2026-05-10T20:56:45.479Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:32.955Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -69888,12 +69888,12 @@
         "wowPassed": 3,
         "wowTotal": 5,
         "avgTokSec": 8.4,
-        "avgPromptTokSec": 351.9,
+        "avgPromptTokSec": null,
         "avgTtftMs": 13340,
         "avgTotalMs": 58252,
-        "runTotalMs": 583660,
-        "runTotalFormatted": "9m 43s",
-        "testedAt": "2026-05-10T21:06:29.819Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:33.075Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -70055,12 +70055,12 @@
         "wowPassed": 4,
         "wowTotal": 5,
         "avgTokSec": 8.8,
-        "avgPromptTokSec": 425.3,
+        "avgPromptTokSec": null,
         "avgTtftMs": 13180,
         "avgTotalMs": 46523,
-        "runTotalMs": 470328,
-        "runTotalFormatted": "7m 50s",
-        "testedAt": "2026-05-10T21:14:20.790Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:33.195Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -70222,12 +70222,12 @@
         "wowPassed": 1,
         "wowTotal": 5,
         "avgTokSec": 8.7,
-        "avgPromptTokSec": 404.6,
+        "avgPromptTokSec": null,
         "avgTtftMs": 12528,
         "avgTotalMs": 78049,
-        "runTotalMs": 781697,
-        "runTotalFormatted": "13m 1s",
-        "testedAt": "2026-05-10T21:27:23.228Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:33.315Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -70389,12 +70389,12 @@
         "wowPassed": 4,
         "wowTotal": 5,
         "avgTokSec": 8.9,
-        "avgPromptTokSec": 384.6,
+        "avgPromptTokSec": null,
         "avgTtftMs": 13117,
         "avgTotalMs": 42432,
-        "runTotalMs": 425364,
-        "runTotalFormatted": "7m 5s",
-        "testedAt": "2026-05-10T21:34:29.275Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:33.433Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -70556,12 +70556,12 @@
         "wowPassed": 3,
         "wowTotal": 5,
         "avgTokSec": 11.7,
-        "avgPromptTokSec": 370.7,
+        "avgPromptTokSec": null,
         "avgTtftMs": 12372,
         "avgTotalMs": 17641,
-        "runTotalMs": 177531,
-        "runTotalFormatted": "2m 57s",
-        "testedAt": "2026-05-10T21:37:27.718Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:33.551Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -70723,12 +70723,12 @@
         "wowPassed": 0,
         "wowTotal": 0,
         "avgTokSec": 8.8,
-        "avgPromptTokSec": 438.6,
+        "avgPromptTokSec": null,
         "avgTtftMs": 12796,
         "avgTotalMs": 49906,
-        "runTotalMs": 500412,
-        "runTotalFormatted": "8m 20s",
-        "testedAt": "2026-05-10T21:45:48.980Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:33.689Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -70890,12 +70890,12 @@
         "wowPassed": 0,
         "wowTotal": 0,
         "avgTokSec": 10.9,
-        "avgPromptTokSec": 454.8,
+        "avgPromptTokSec": null,
         "avgTtftMs": 13248,
         "avgTotalMs": 18993,
-        "runTotalMs": 190937,
-        "runTotalFormatted": "3m 10s",
-        "testedAt": "2026-05-10T21:49:00.598Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:33.805Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -71057,12 +71057,12 @@
         "wowPassed": 0,
         "wowTotal": 0,
         "avgTokSec": 11.4,
-        "avgPromptTokSec": 478.7,
+        "avgPromptTokSec": null,
         "avgTtftMs": 13318,
         "avgTotalMs": 16566,
-        "runTotalMs": 166735,
-        "runTotalFormatted": "2m 46s",
-        "testedAt": "2026-05-10T21:51:48.036Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:33.925Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -71224,12 +71224,12 @@
         "wowPassed": 0,
         "wowTotal": 5,
         "avgTokSec": 9.3,
-        "avgPromptTokSec": 512.8,
+        "avgPromptTokSec": null,
         "avgTtftMs": 13995,
         "avgTotalMs": 29362,
-        "runTotalMs": 294441,
-        "runTotalFormatted": "4m 54s",
-        "testedAt": "2026-05-10T21:56:43.511Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:34.043Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -77404,7 +77404,7 @@
         "avgTotalMs": 28284,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:07.014Z",
+        "testedAt": "2026-05-11T01:44:08.203Z",
         "tests": [
           {
             "id": "router-1",
@@ -77571,7 +77571,7 @@
         "avgTotalMs": 85062,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:07.596Z",
+        "testedAt": "2026-05-11T01:44:08.315Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -77738,7 +77738,7 @@
         "avgTotalMs": 20583,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:07.713Z",
+        "testedAt": "2026-05-11T01:44:08.431Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -77905,7 +77905,7 @@
         "avgTotalMs": 15591,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:07.829Z",
+        "testedAt": "2026-05-11T01:44:08.545Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -78072,7 +78072,7 @@
         "avgTotalMs": 26125,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:07.941Z",
+        "testedAt": "2026-05-11T01:44:08.658Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -78239,7 +78239,7 @@
         "avgTotalMs": 10669,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:08.050Z",
+        "testedAt": "2026-05-11T01:44:08.775Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -78406,7 +78406,7 @@
         "avgTotalMs": 41380,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:08.177Z",
+        "testedAt": "2026-05-11T01:44:08.891Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -78573,7 +78573,7 @@
         "avgTotalMs": 16707,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:08.297Z",
+        "testedAt": "2026-05-11T01:44:09.005Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -78740,7 +78740,7 @@
         "avgTotalMs": 12956,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:08.420Z",
+        "testedAt": "2026-05-11T01:44:09.122Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -78907,7 +78907,7 @@
         "avgTotalMs": 11041,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:08.546Z",
+        "testedAt": "2026-05-11T01:44:09.241Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -79074,7 +79074,7 @@
         "avgTotalMs": 34333,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:08.672Z",
+        "testedAt": "2026-05-11T01:44:09.361Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -79241,7 +79241,7 @@
         "avgTotalMs": 23644,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:08.793Z",
+        "testedAt": "2026-05-11T01:44:09.475Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -79408,7 +79408,7 @@
         "avgTotalMs": 11989,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:08.910Z",
+        "testedAt": "2026-05-11T01:44:09.595Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -79575,7 +79575,7 @@
         "avgTotalMs": 9486,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:09.032Z",
+        "testedAt": "2026-05-11T01:44:09.715Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -79742,7 +79742,7 @@
         "avgTotalMs": 4815,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:09.157Z",
+        "testedAt": "2026-05-11T01:44:09.827Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -79909,7 +79909,7 @@
         "avgTotalMs": 3940,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:09.280Z",
+        "testedAt": "2026-05-11T01:44:09.945Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -80076,7 +80076,7 @@
         "avgTotalMs": 13507,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:09.397Z",
+        "testedAt": "2026-05-11T01:44:10.059Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -83458,12 +83458,12 @@
         "wowPassed": 2,
         "wowTotal": 5,
         "avgTokSec": 187.5,
-        "avgPromptTokSec": 40868.8,
+        "avgPromptTokSec": null,
         "avgTtftMs": 5531,
         "avgTotalMs": 5694,
-        "runTotalMs": 57497,
-        "runTotalFormatted": "57s",
-        "testedAt": "2026-05-07T18:35:04.081Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:34.189Z",
         "tests": [
           {
             "id": "router-1",
@@ -83625,12 +83625,12 @@
         "wowPassed": 1,
         "wowTotal": 4,
         "avgTokSec": 69.8,
-        "avgPromptTokSec": 81018,
+        "avgPromptTokSec": null,
         "avgTtftMs": 1754,
         "avgTotalMs": 6462,
-        "runTotalMs": 65372,
-        "runTotalFormatted": "1m 5s",
-        "testedAt": "2026-05-07T18:36:10.027Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:34.310Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -83792,12 +83792,12 @@
         "wowPassed": 2,
         "wowTotal": 4,
         "avgTokSec": 121.8,
-        "avgPromptTokSec": 40333.7,
+        "avgPromptTokSec": null,
         "avgTtftMs": 1328,
         "avgTotalMs": 17682,
-        "runTotalMs": 177565,
-        "runTotalFormatted": "2m 57s",
-        "testedAt": "2026-05-07T18:39:08.235Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:34.435Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -83959,12 +83959,12 @@
         "wowPassed": 2,
         "wowTotal": 5,
         "avgTokSec": 105.2,
-        "avgPromptTokSec": 61408,
+        "avgPromptTokSec": null,
         "avgTtftMs": 1461,
         "avgTotalMs": 12742,
-        "runTotalMs": 128226,
-        "runTotalFormatted": "2m 8s",
-        "testedAt": "2026-05-07T18:41:17.047Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:34.555Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -84126,12 +84126,12 @@
         "wowPassed": 2,
         "wowTotal": 4,
         "avgTokSec": 103,
-        "avgPromptTokSec": 17063,
+        "avgPromptTokSec": null,
         "avgTtftMs": 1549,
         "avgTotalMs": 11277,
-        "runTotalMs": 113548,
-        "runTotalFormatted": "1m 53s",
-        "testedAt": "2026-05-07T18:43:11.302Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:34.682Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -84293,12 +84293,12 @@
         "wowPassed": 5,
         "wowTotal": 5,
         "avgTokSec": 103.3,
-        "avgPromptTokSec": 7157.8,
+        "avgPromptTokSec": null,
         "avgTtftMs": 6094,
         "avgTotalMs": 10252,
-        "runTotalMs": 103352,
-        "runTotalFormatted": "1m 43s",
-        "testedAt": "2026-05-07T18:44:55.407Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:34.805Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -84460,12 +84460,12 @@
         "wowPassed": 3,
         "wowTotal": 5,
         "avgTokSec": 102.3,
-        "avgPromptTokSec": 21665.1,
+        "avgPromptTokSec": null,
         "avgTtftMs": 379,
         "avgTotalMs": 19964,
-        "runTotalMs": 200377,
-        "runTotalFormatted": "3m 20s",
-        "testedAt": "2026-05-07T18:48:16.380Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:34.925Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -84627,12 +84627,12 @@
         "wowPassed": 0,
         "wowTotal": 0,
         "avgTokSec": 108.9,
-        "avgPromptTokSec": 16263.4,
+        "avgPromptTokSec": null,
         "avgTtftMs": 1437,
         "avgTotalMs": 10971,
-        "runTotalMs": 110477,
-        "runTotalFormatted": "1m 50s",
-        "testedAt": "2026-05-07T18:50:07.438Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:35.045Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -84794,12 +84794,12 @@
         "wowPassed": 2,
         "wowTotal": 5,
         "avgTokSec": 99,
-        "avgPromptTokSec": 16145.3,
+        "avgPromptTokSec": null,
         "avgTtftMs": 2356,
         "avgTotalMs": 15539,
-        "runTotalMs": 156182,
-        "runTotalFormatted": "2m 36s",
-        "testedAt": "2026-05-07T18:52:44.248Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:35.165Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -84961,12 +84961,12 @@
         "wowPassed": 3,
         "wowTotal": 5,
         "avgTokSec": 108.2,
-        "avgPromptTokSec": 9770.9,
+        "avgPromptTokSec": null,
         "avgTtftMs": 1507,
         "avgTotalMs": 6190,
-        "runTotalMs": 62647,
-        "runTotalFormatted": "1m 2s",
-        "testedAt": "2026-05-07T18:53:47.423Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:35.287Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -85128,12 +85128,12 @@
         "wowPassed": 1,
         "wowTotal": 5,
         "avgTokSec": 105.9,
-        "avgPromptTokSec": 14784.2,
+        "avgPromptTokSec": null,
         "avgTtftMs": 378,
         "avgTotalMs": 9308,
-        "runTotalMs": 93865,
-        "runTotalFormatted": "1m 33s",
-        "testedAt": "2026-05-07T18:55:21.944Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:35.405Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -85295,12 +85295,12 @@
         "wowPassed": 5,
         "wowTotal": 5,
         "avgTokSec": 109.3,
-        "avgPromptTokSec": 10815.7,
+        "avgPromptTokSec": null,
         "avgTtftMs": 1073,
         "avgTotalMs": 8920,
-        "runTotalMs": 89966,
-        "runTotalFormatted": "1m 29s",
-        "testedAt": "2026-05-07T18:56:52.504Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:35.525Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -85462,12 +85462,12 @@
         "wowPassed": 3,
         "wowTotal": 5,
         "avgTokSec": 158.4,
-        "avgPromptTokSec": 16098,
+        "avgPromptTokSec": null,
         "avgTtftMs": 1344,
         "avgTotalMs": 1832,
-        "runTotalMs": 19073,
-        "runTotalFormatted": "19s",
-        "testedAt": "2026-05-07T18:57:12.208Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:35.656Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -85629,12 +85629,12 @@
         "wowPassed": 0,
         "wowTotal": 0,
         "avgTokSec": 133.2,
-        "avgPromptTokSec": 14519.2,
+        "avgPromptTokSec": null,
         "avgTtftMs": 2442,
         "avgTotalMs": 10391,
-        "runTotalMs": 104734,
-        "runTotalFormatted": "1m 44s",
-        "testedAt": "2026-05-07T18:58:57.510Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:35.780Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -85796,12 +85796,12 @@
         "wowPassed": 0,
         "wowTotal": 0,
         "avgTokSec": 140.5,
-        "avgPromptTokSec": 22647.3,
+        "avgPromptTokSec": null,
         "avgTtftMs": 360,
         "avgTotalMs": 1391,
-        "runTotalMs": 14598,
-        "runTotalFormatted": "14s",
-        "testedAt": "2026-05-07T18:59:12.635Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:35.900Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -85963,12 +85963,12 @@
         "wowPassed": 0,
         "wowTotal": 0,
         "avgTokSec": 143.1,
-        "avgPromptTokSec": 24708,
+        "avgPromptTokSec": null,
         "avgTtftMs": 344,
         "avgTotalMs": 978,
-        "runTotalMs": 10454,
-        "runTotalFormatted": "10s",
-        "testedAt": "2026-05-07T18:59:23.734Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:36.025Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -86130,12 +86130,12 @@
         "wowPassed": 2,
         "wowTotal": 5,
         "avgTokSec": 129.5,
-        "avgPromptTokSec": 12343.3,
+        "avgPromptTokSec": null,
         "avgTtftMs": 1438,
         "avgTotalMs": 4933,
-        "runTotalMs": 50270,
-        "runTotalFormatted": "50s",
-        "testedAt": "2026-05-07T19:00:14.576Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:36.146Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -86371,7 +86371,7 @@
         "avgTotalMs": 15927,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:47.740Z",
+        "testedAt": "2026-05-11T01:43:51.448Z",
         "tests": [
           {
             "id": "router-1",
@@ -86538,7 +86538,7 @@
         "avgTotalMs": 51906,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:47.858Z",
+        "testedAt": "2026-05-11T01:43:51.589Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -86705,7 +86705,7 @@
         "avgTotalMs": 55873,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:47.972Z",
+        "testedAt": "2026-05-11T01:43:51.725Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -86872,7 +86872,7 @@
         "avgTotalMs": 42559,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:48.085Z",
+        "testedAt": "2026-05-11T01:43:51.847Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -87039,7 +87039,7 @@
         "avgTotalMs": 23959,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:48.209Z",
+        "testedAt": "2026-05-11T01:43:51.965Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -87206,7 +87206,7 @@
         "avgTotalMs": 31526,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:48.329Z",
+        "testedAt": "2026-05-11T01:43:52.087Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -87373,7 +87373,7 @@
         "avgTotalMs": 84195,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:48.447Z",
+        "testedAt": "2026-05-11T01:43:52.205Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -87540,7 +87540,7 @@
         "avgTotalMs": 25780,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:48.567Z",
+        "testedAt": "2026-05-11T01:43:52.331Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -87707,7 +87707,7 @@
         "avgTotalMs": 102163,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:48.684Z",
+        "testedAt": "2026-05-11T01:43:52.450Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -87874,7 +87874,7 @@
         "avgTotalMs": 13798,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:48.802Z",
+        "testedAt": "2026-05-11T01:43:52.577Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -88041,7 +88041,7 @@
         "avgTotalMs": 19020,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:48.924Z",
+        "testedAt": "2026-05-11T01:43:52.729Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -88208,7 +88208,7 @@
         "avgTotalMs": 28110,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:49.045Z",
+        "testedAt": "2026-05-11T01:43:52.879Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -88375,7 +88375,7 @@
         "avgTotalMs": 5520,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:49.179Z",
+        "testedAt": "2026-05-11T01:43:53.007Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -88542,7 +88542,7 @@
         "avgTotalMs": 30505,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:49.310Z",
+        "testedAt": "2026-05-11T01:43:53.130Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -88709,7 +88709,7 @@
         "avgTotalMs": 3906,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:49.440Z",
+        "testedAt": "2026-05-11T01:43:53.255Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -88876,7 +88876,7 @@
         "avgTotalMs": 2141,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:49.582Z",
+        "testedAt": "2026-05-11T01:43:53.385Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -89043,7 +89043,7 @@
         "avgTotalMs": 10214,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:49.713Z",
+        "testedAt": "2026-05-11T01:43:53.500Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -155695,7 +155695,7 @@
         "avgTotalMs": 23756,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:01.757Z",
+        "testedAt": "2026-05-11T01:44:04.145Z",
         "tests": [
           {
             "id": "router-1",
@@ -155862,7 +155862,7 @@
         "avgTotalMs": 7793,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:01.993Z",
+        "testedAt": "2026-05-11T01:44:04.260Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -156029,7 +156029,7 @@
         "avgTotalMs": 9528,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:02.244Z",
+        "testedAt": "2026-05-11T01:44:04.376Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -156196,7 +156196,7 @@
         "avgTotalMs": 7600,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:02.403Z",
+        "testedAt": "2026-05-11T01:44:04.497Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -156363,7 +156363,7 @@
         "avgTotalMs": 14542,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:02.547Z",
+        "testedAt": "2026-05-11T01:44:04.608Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -156530,7 +156530,7 @@
         "avgTotalMs": 10151,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:02.684Z",
+        "testedAt": "2026-05-11T01:44:04.725Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -156697,7 +156697,7 @@
         "avgTotalMs": 22447,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:02.822Z",
+        "testedAt": "2026-05-11T01:44:04.835Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -156864,7 +156864,7 @@
         "avgTotalMs": 4847,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:02.947Z",
+        "testedAt": "2026-05-11T01:44:04.956Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -157031,7 +157031,7 @@
         "avgTotalMs": 13462,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:03.087Z",
+        "testedAt": "2026-05-11T01:44:05.075Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -157198,7 +157198,7 @@
         "avgTotalMs": 6733,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:03.242Z",
+        "testedAt": "2026-05-11T01:44:05.189Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -157365,7 +157365,7 @@
         "avgTotalMs": 9395,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:03.376Z",
+        "testedAt": "2026-05-11T01:44:05.305Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -157532,7 +157532,7 @@
         "avgTotalMs": 8967,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:03.513Z",
+        "testedAt": "2026-05-11T01:44:05.426Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -157699,7 +157699,7 @@
         "avgTotalMs": 2640,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:03.650Z",
+        "testedAt": "2026-05-11T01:44:05.548Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -157866,7 +157866,7 @@
         "avgTotalMs": 7518,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:03.818Z",
+        "testedAt": "2026-05-11T01:44:05.665Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -158033,7 +158033,7 @@
         "avgTotalMs": 982,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:03.953Z",
+        "testedAt": "2026-05-11T01:44:05.775Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -158200,7 +158200,7 @@
         "avgTotalMs": 1286,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:04.082Z",
+        "testedAt": "2026-05-11T01:44:05.897Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -158367,7 +158367,7 @@
         "avgTotalMs": 3254,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:04.209Z",
+        "testedAt": "2026-05-11T01:44:06.013Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -179758,12 +179758,12 @@
         "wowPassed": 4,
         "wowTotal": 5,
         "avgTokSec": 91.2,
-        "avgPromptTokSec": 25057.6,
+        "avgPromptTokSec": null,
         "avgTtftMs": 8919,
         "avgTotalMs": 9193,
-        "runTotalMs": 92601,
-        "runTotalFormatted": "1m 32s",
-        "testedAt": "2026-05-07T19:36:08.136Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:42.598Z",
         "tests": [
           {
             "id": "router-1",
@@ -179925,12 +179925,12 @@
         "wowPassed": 0,
         "wowTotal": 4,
         "avgTokSec": 63.3,
-        "avgPromptTokSec": 2550.3,
+        "avgPromptTokSec": null,
         "avgTtftMs": 3688,
         "avgTotalMs": 12680,
-        "runTotalMs": 127624,
-        "runTotalFormatted": "2m 7s",
-        "testedAt": "2026-05-07T19:38:16.196Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:42.720Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -180092,12 +180092,12 @@
         "wowPassed": 0,
         "wowTotal": 4,
         "avgTokSec": 82,
-        "avgPromptTokSec": 24412.7,
+        "avgPromptTokSec": null,
         "avgTtftMs": 2170,
         "avgTotalMs": 5827,
-        "runTotalMs": 58989,
-        "runTotalFormatted": "58s",
-        "testedAt": "2026-05-07T19:39:15.683Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:42.835Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -180259,12 +180259,12 @@
         "wowPassed": 2,
         "wowTotal": 5,
         "avgTokSec": 74.8,
-        "avgPromptTokSec": 41870.2,
+        "avgPromptTokSec": null,
         "avgTtftMs": 2097,
         "avgTotalMs": 5727,
-        "runTotalMs": 58040,
-        "runTotalFormatted": "58s",
-        "testedAt": "2026-05-07T19:40:14.196Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:42.960Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -180426,12 +180426,12 @@
         "wowPassed": 1,
         "wowTotal": 4,
         "avgTokSec": 79,
-        "avgPromptTokSec": 11221.6,
+        "avgPromptTokSec": null,
         "avgTtftMs": 1940,
         "avgTotalMs": 8162,
-        "runTotalMs": 82291,
-        "runTotalFormatted": "1m 22s",
-        "testedAt": "2026-05-07T19:41:36.949Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:43.080Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -180593,12 +180593,12 @@
         "wowPassed": 4,
         "wowTotal": 5,
         "avgTokSec": 78.8,
-        "avgPromptTokSec": 4832.8,
+        "avgPromptTokSec": null,
         "avgTtftMs": 6842,
         "avgTotalMs": 10092,
-        "runTotalMs": 101677,
-        "runTotalFormatted": "1m 41s",
-        "testedAt": "2026-05-07T19:43:19.134Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:43.199Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -180760,12 +180760,12 @@
         "wowPassed": 1,
         "wowTotal": 5,
         "avgTokSec": 82.6,
-        "avgPromptTokSec": 15112.4,
+        "avgPromptTokSec": null,
         "avgTtftMs": 305,
         "avgTotalMs": 16193,
-        "runTotalMs": 162712,
-        "runTotalFormatted": "2m 42s",
-        "testedAt": "2026-05-07T19:46:02.345Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:43.330Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -180927,12 +180927,12 @@
         "wowPassed": 0,
         "wowTotal": 0,
         "avgTokSec": 83.5,
-        "avgPromptTokSec": 12592.7,
+        "avgPromptTokSec": null,
         "avgTtftMs": 1961,
         "avgTotalMs": 6092,
-        "runTotalMs": 61623,
-        "runTotalFormatted": "1m 1s",
-        "testedAt": "2026-05-07T19:47:04.429Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:43.455Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -181094,12 +181094,12 @@
         "wowPassed": 4,
         "wowTotal": 5,
         "avgTokSec": 82.7,
-        "avgPromptTokSec": 12387.5,
+        "avgPromptTokSec": null,
         "avgTtftMs": 3858,
         "avgTotalMs": 9954,
-        "runTotalMs": 100269,
-        "runTotalFormatted": "1m 40s",
-        "testedAt": "2026-05-07T19:48:45.204Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:43.580Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -181261,12 +181261,12 @@
         "wowPassed": 3,
         "wowTotal": 5,
         "avgTokSec": 79.3,
-        "avgPromptTokSec": 6500.9,
+        "avgPromptTokSec": null,
         "avgTtftMs": 827,
         "avgTotalMs": 3718,
-        "runTotalMs": 37902,
-        "runTotalFormatted": "37s",
-        "testedAt": "2026-05-07T19:49:23.608Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:43.705Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -181428,12 +181428,12 @@
         "wowPassed": 1,
         "wowTotal": 5,
         "avgTokSec": 81.8,
-        "avgPromptTokSec": 11950.4,
+        "avgPromptTokSec": null,
         "avgTtftMs": 280,
         "avgTotalMs": 6950,
-        "runTotalMs": 70176,
-        "runTotalFormatted": "1m 10s",
-        "testedAt": "2026-05-07T19:50:34.380Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:43.825Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -181595,12 +181595,12 @@
         "wowPassed": 3,
         "wowTotal": 5,
         "avgTokSec": 77.6,
-        "avgPromptTokSec": 7055.6,
+        "avgPromptTokSec": null,
         "avgTtftMs": 705,
         "avgTotalMs": 3803,
-        "runTotalMs": 38758,
-        "runTotalFormatted": "38s",
-        "testedAt": "2026-05-07T19:51:13.620Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:43.948Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -181762,12 +181762,12 @@
         "wowPassed": 2,
         "wowTotal": 5,
         "avgTokSec": 91,
-        "avgPromptTokSec": 9735.8,
+        "avgPromptTokSec": null,
         "avgTtftMs": 621,
         "avgTotalMs": 1587,
-        "runTotalMs": 16519,
-        "runTotalFormatted": "16s",
-        "testedAt": "2026-05-07T19:51:30.646Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:44.070Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -181929,12 +181929,12 @@
         "wowPassed": 0,
         "wowTotal": 0,
         "avgTokSec": 79.6,
-        "avgPromptTokSec": 9713.2,
+        "avgPromptTokSec": null,
         "avgTtftMs": 1018,
         "avgTotalMs": 3787,
-        "runTotalMs": 38634,
-        "runTotalFormatted": "38s",
-        "testedAt": "2026-05-07T19:52:09.822Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:44.195Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -182096,12 +182096,12 @@
         "wowPassed": 0,
         "wowTotal": 0,
         "avgTokSec": 85.1,
-        "avgPromptTokSec": 14723.2,
+        "avgPromptTokSec": null,
         "avgTtftMs": 333,
         "avgTotalMs": 1089,
-        "runTotalMs": 11714,
-        "runTotalFormatted": "11s",
-        "testedAt": "2026-05-07T19:52:22.062Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:44.322Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -182263,12 +182263,12 @@
         "wowPassed": 0,
         "wowTotal": 0,
         "avgTokSec": 87.2,
-        "avgPromptTokSec": 16533.8,
+        "avgPromptTokSec": null,
         "avgTtftMs": 307,
         "avgTotalMs": 854,
-        "runTotalMs": 9136,
-        "runTotalFormatted": "9s",
-        "testedAt": "2026-05-07T19:52:31.648Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:44.445Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -182430,12 +182430,12 @@
         "wowPassed": 1,
         "wowTotal": 5,
         "avgTokSec": 75.6,
-        "avgPromptTokSec": 7109.9,
+        "avgPromptTokSec": null,
         "avgTtftMs": 2259,
         "avgTotalMs": 4238,
-        "runTotalMs": 43113,
-        "runTotalFormatted": "43s",
-        "testedAt": "2026-05-07T19:53:15.170Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:44.575Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -191655,7 +191655,7 @@
         "avgTotalMs": 13166,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:43.678Z",
+        "testedAt": "2026-05-11T01:43:47.089Z",
         "tests": [
           {
             "id": "router-1",
@@ -191822,7 +191822,7 @@
         "avgTotalMs": 33028,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:43.797Z",
+        "testedAt": "2026-05-11T01:43:47.240Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -191989,7 +191989,7 @@
         "avgTotalMs": 19036,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:43.909Z",
+        "testedAt": "2026-05-11T01:43:47.385Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -192156,7 +192156,7 @@
         "avgTotalMs": 10302,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:44.021Z",
+        "testedAt": "2026-05-11T01:43:47.515Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -192323,7 +192323,7 @@
         "avgTotalMs": 12104,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:44.136Z",
+        "testedAt": "2026-05-11T01:43:47.635Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -192490,7 +192490,7 @@
         "avgTotalMs": 13177,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:44.254Z",
+        "testedAt": "2026-05-11T01:43:47.765Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -192657,7 +192657,7 @@
         "avgTotalMs": 14888,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:44.368Z",
+        "testedAt": "2026-05-11T01:43:47.891Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -192824,7 +192824,7 @@
         "avgTotalMs": 14606,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:44.486Z",
+        "testedAt": "2026-05-11T01:43:48.015Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -192991,7 +192991,7 @@
         "avgTotalMs": 27274,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:44.609Z",
+        "testedAt": "2026-05-11T01:43:48.135Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -193158,7 +193158,7 @@
         "avgTotalMs": 6426,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:44.726Z",
+        "testedAt": "2026-05-11T01:43:48.256Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -193325,7 +193325,7 @@
         "avgTotalMs": 10927,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:44.839Z",
+        "testedAt": "2026-05-11T01:43:48.388Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -193492,7 +193492,7 @@
         "avgTotalMs": 8951,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:44.950Z",
+        "testedAt": "2026-05-11T01:43:48.520Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -193659,7 +193659,7 @@
         "avgTotalMs": 2000,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:45.067Z",
+        "testedAt": "2026-05-11T01:43:48.647Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -193826,7 +193826,7 @@
         "avgTotalMs": 11994,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:45.183Z",
+        "testedAt": "2026-05-11T01:43:48.775Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -193993,7 +193993,7 @@
         "avgTotalMs": 829,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:45.299Z",
+        "testedAt": "2026-05-11T01:43:48.901Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -194160,7 +194160,7 @@
         "avgTotalMs": 890,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:45.416Z",
+        "testedAt": "2026-05-11T01:43:49.022Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -194327,7 +194327,7 @@
         "avgTotalMs": 6298,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:45.537Z",
+        "testedAt": "2026-05-11T01:43:49.145Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -218060,12 +218060,12 @@
         "wowPassed": 0,
         "wowTotal": 5,
         "avgTokSec": 281.2,
-        "avgPromptTokSec": 4706,
+        "avgPromptTokSec": null,
         "avgTtftMs": 5303,
         "avgTotalMs": 5778,
-        "runTotalMs": 58460,
-        "runTotalFormatted": "58s",
-        "testedAt": "2026-05-07T19:01:13.943Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:36.282Z",
         "tests": [
           {
             "id": "router-1",
@@ -218227,12 +218227,12 @@
         "wowPassed": 0,
         "wowTotal": 4,
         "avgTokSec": 217,
-        "avgPromptTokSec": 7005.6,
+        "avgPromptTokSec": null,
         "avgTtftMs": 1878,
         "avgTotalMs": 1643,
-        "runTotalMs": 17158,
-        "runTotalFormatted": "17s",
-        "testedAt": "2026-05-07T19:01:31.625Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:36.405Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -218394,12 +218394,12 @@
         "wowPassed": 1,
         "wowTotal": 4,
         "avgTokSec": 337.7,
-        "avgPromptTokSec": 4239.3,
+        "avgPromptTokSec": null,
         "avgTtftMs": 1820,
         "avgTotalMs": 2293,
-        "runTotalMs": 23616,
-        "runTotalFormatted": "23s",
-        "testedAt": "2026-05-07T19:01:55.698Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:36.526Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -218561,12 +218561,12 @@
         "wowPassed": 1,
         "wowTotal": 5,
         "avgTokSec": 294.1,
-        "avgPromptTokSec": 6256.7,
+        "avgPromptTokSec": null,
         "avgTtftMs": 1465,
         "avgTotalMs": 2862,
-        "runTotalMs": 29380,
-        "runTotalFormatted": "29s",
-        "testedAt": "2026-05-07T19:02:25.578Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:36.648Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -218728,12 +218728,12 @@
         "wowPassed": 0,
         "wowTotal": 4,
         "avgTokSec": 345.8,
-        "avgPromptTokSec": 7646.6,
+        "avgPromptTokSec": null,
         "avgTtftMs": 1451,
         "avgTotalMs": 1825,
-        "runTotalMs": 18916,
-        "runTotalFormatted": "18s",
-        "testedAt": "2026-05-07T19:02:45.050Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:36.765Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -218895,12 +218895,12 @@
         "wowPassed": 1,
         "wowTotal": 5,
         "avgTokSec": 312.8,
-        "avgPromptTokSec": 4968.2,
+        "avgPromptTokSec": null,
         "avgTtftMs": 6918,
         "avgTotalMs": 7129,
-        "runTotalMs": 72053,
-        "runTotalFormatted": "1m 12s",
-        "testedAt": "2026-05-07T19:03:57.648Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:36.885Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -219062,12 +219062,12 @@
         "wowPassed": 1,
         "wowTotal": 5,
         "avgTokSec": 295.6,
-        "avgPromptTokSec": 4418.6,
+        "avgPromptTokSec": null,
         "avgTtftMs": 284,
         "avgTotalMs": 1220,
-        "runTotalMs": 12838,
-        "runTotalFormatted": "12s",
-        "testedAt": "2026-05-07T19:04:10.978Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:37.007Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -219229,12 +219229,12 @@
         "wowPassed": 0,
         "wowTotal": 0,
         "avgTokSec": 338.1,
-        "avgPromptTokSec": 6202.9,
+        "avgPromptTokSec": null,
         "avgTtftMs": 1767,
         "avgTotalMs": 2069,
-        "runTotalMs": 21430,
-        "runTotalFormatted": "21s",
-        "testedAt": "2026-05-07T19:04:32.947Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:37.125Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -219396,12 +219396,12 @@
         "wowPassed": 1,
         "wowTotal": 5,
         "avgTokSec": 333.1,
-        "avgPromptTokSec": 7238.2,
+        "avgPromptTokSec": null,
         "avgTtftMs": 2852,
         "avgTotalMs": 3390,
-        "runTotalMs": 34709,
-        "runTotalFormatted": "34s",
-        "testedAt": "2026-05-07T19:05:08.136Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:37.240Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -219563,12 +219563,12 @@
         "wowPassed": 0,
         "wowTotal": 5,
         "avgTokSec": 300.4,
-        "avgPromptTokSec": 7550.6,
+        "avgPromptTokSec": null,
         "avgTtftMs": 1576,
         "avgTotalMs": 2107,
-        "runTotalMs": 21683,
-        "runTotalFormatted": "21s",
-        "testedAt": "2026-05-07T19:05:30.278Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:37.365Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -219730,12 +219730,12 @@
         "wowPassed": 1,
         "wowTotal": 5,
         "avgTokSec": 271.4,
-        "avgPromptTokSec": 7716.8,
+        "avgPromptTokSec": null,
         "avgTtftMs": 282,
         "avgTotalMs": 911,
-        "runTotalMs": 9670,
-        "runTotalFormatted": "9s",
-        "testedAt": "2026-05-07T19:05:40.392Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:37.489Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -219897,12 +219897,12 @@
         "wowPassed": 0,
         "wowTotal": 5,
         "avgTokSec": 284.5,
-        "avgPromptTokSec": 8349.9,
+        "avgPromptTokSec": null,
         "avgTtftMs": 513,
         "avgTotalMs": 1287,
-        "runTotalMs": 13431,
-        "runTotalFormatted": "13s",
-        "testedAt": "2026-05-07T19:05:54.306Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:37.615Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -220064,12 +220064,12 @@
         "wowPassed": 0,
         "wowTotal": 5,
         "avgTokSec": 266,
-        "avgPromptTokSec": 5643.6,
+        "avgPromptTokSec": null,
         "avgTtftMs": 506,
         "avgTotalMs": 2429,
-        "runTotalMs": 24881,
-        "runTotalFormatted": "24s",
-        "testedAt": "2026-05-07T19:06:19.670Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:37.727Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -220231,12 +220231,12 @@
         "wowPassed": 0,
         "wowTotal": 0,
         "avgTokSec": 289.5,
-        "avgPromptTokSec": 6746.8,
+        "avgPromptTokSec": null,
         "avgTtftMs": 927,
         "avgTotalMs": 985,
-        "runTotalMs": 10344,
-        "runTotalFormatted": "10s",
-        "testedAt": "2026-05-07T19:06:30.571Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:37.855Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -220398,12 +220398,12 @@
         "wowPassed": 0,
         "wowTotal": 0,
         "avgTokSec": 346.9,
-        "avgPromptTokSec": 7797.5,
+        "avgPromptTokSec": null,
         "avgTtftMs": 262,
         "avgTotalMs": 371,
-        "runTotalMs": 4235,
-        "runTotalFormatted": "4s",
-        "testedAt": "2026-05-07T19:06:35.282Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:37.975Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -220565,12 +220565,12 @@
         "wowPassed": 0,
         "wowTotal": 0,
         "avgTokSec": 371.1,
-        "avgPromptTokSec": 7894.1,
+        "avgPromptTokSec": null,
         "avgTtftMs": 277,
         "avgTotalMs": 396,
-        "runTotalMs": 4431,
-        "runTotalFormatted": "4s",
-        "testedAt": "2026-05-07T19:06:40.194Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:38.089Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -220732,12 +220732,12 @@
         "wowPassed": 0,
         "wowTotal": 5,
         "avgTokSec": 350.6,
-        "avgPromptTokSec": 8349.7,
+        "avgPromptTokSec": null,
         "avgTtftMs": 563,
         "avgTotalMs": 677,
-        "runTotalMs": 7274,
-        "runTotalFormatted": "7s",
-        "testedAt": "2026-05-07T19:06:47.961Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:38.220Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -230104,7 +230104,7 @@
         "avgTotalMs": 35454,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:52.035Z",
+        "testedAt": "2026-05-11T01:43:55.848Z",
         "tests": [
           {
             "id": "router-1",
@@ -230271,7 +230271,7 @@
         "avgTotalMs": 208811,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:52.149Z",
+        "testedAt": "2026-05-11T01:43:55.965Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -230438,7 +230438,7 @@
         "avgTotalMs": 11768,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:52.266Z",
+        "testedAt": "2026-05-11T01:43:56.089Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -230605,7 +230605,7 @@
         "avgTotalMs": 37028,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:52.382Z",
+        "testedAt": "2026-05-11T01:43:56.210Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -230772,7 +230772,7 @@
         "avgTotalMs": 10440,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:52.497Z",
+        "testedAt": "2026-05-11T01:43:56.340Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -230939,7 +230939,7 @@
         "avgTotalMs": 20827,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:52.610Z",
+        "testedAt": "2026-05-11T01:43:56.465Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -231106,7 +231106,7 @@
         "avgTotalMs": 37255,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:52.722Z",
+        "testedAt": "2026-05-11T01:43:56.595Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -231273,7 +231273,7 @@
         "avgTotalMs": 12400,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:52.836Z",
+        "testedAt": "2026-05-11T01:43:56.715Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -231440,7 +231440,7 @@
         "avgTotalMs": 143741,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:52.949Z",
+        "testedAt": "2026-05-11T01:43:56.840Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -231607,7 +231607,7 @@
         "avgTotalMs": 7355,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:53.063Z",
+        "testedAt": "2026-05-11T01:43:56.965Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -231774,7 +231774,7 @@
         "avgTotalMs": 9748,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:53.177Z",
+        "testedAt": "2026-05-11T01:43:57.092Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -231941,7 +231941,7 @@
         "avgTotalMs": 39515,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:53.291Z",
+        "testedAt": "2026-05-11T01:43:57.209Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -232108,7 +232108,7 @@
         "avgTotalMs": 9707,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:53.413Z",
+        "testedAt": "2026-05-11T01:43:57.337Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -232275,7 +232275,7 @@
         "avgTotalMs": 11511,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:53.524Z",
+        "testedAt": "2026-05-11T01:43:57.456Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -232442,7 +232442,7 @@
         "avgTotalMs": 11188,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:53.651Z",
+        "testedAt": "2026-05-11T01:43:57.578Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -232609,7 +232609,7 @@
         "avgTotalMs": 7729,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:53.774Z",
+        "testedAt": "2026-05-11T01:43:57.700Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -232776,7 +232776,7 @@
         "avgTotalMs": 22453,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:53.896Z",
+        "testedAt": "2026-05-11T01:43:57.825Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -242013,12 +242013,12 @@
         "wowPassed": 0,
         "wowTotal": 5,
         "avgTokSec": 110.9,
-        "avgPromptTokSec": 2619.8,
+        "avgPromptTokSec": null,
         "avgTtftMs": 7016,
         "avgTotalMs": 8936,
-        "runTotalMs": 90748,
-        "runTotalFormatted": "1m 30s",
-        "testedAt": "2026-05-07T19:23:55.753Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:40.450Z",
         "tests": [
           {
             "id": "router-1",
@@ -242180,12 +242180,12 @@
         "wowPassed": 0,
         "wowTotal": 4,
         "avgTokSec": 105.9,
-        "avgPromptTokSec": 3386.8,
+        "avgPromptTokSec": null,
         "avgTtftMs": 588,
         "avgTotalMs": 1395,
-        "runTotalMs": 14532,
-        "runTotalFormatted": "14s",
-        "testedAt": "2026-05-07T19:24:10.751Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:40.570Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -242347,12 +242347,12 @@
         "wowPassed": 2,
         "wowTotal": 4,
         "avgTokSec": 104.8,
-        "avgPromptTokSec": 2527.7,
+        "avgPromptTokSec": null,
         "avgTtftMs": 522,
         "avgTotalMs": 5430,
-        "runTotalMs": 54981,
-        "runTotalFormatted": "54s",
-        "testedAt": "2026-05-07T19:25:06.210Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:40.695Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -242514,12 +242514,12 @@
         "wowPassed": 3,
         "wowTotal": 5,
         "avgTokSec": 104.8,
-        "avgPromptTokSec": 3087.4,
+        "avgPromptTokSec": null,
         "avgTtftMs": 1370,
         "avgTotalMs": 5356,
-        "runTotalMs": 54243,
-        "runTotalFormatted": "54s",
-        "testedAt": "2026-05-07T19:26:00.949Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:40.815Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -242681,12 +242681,12 @@
         "wowPassed": 1,
         "wowTotal": 4,
         "avgTokSec": 101,
-        "avgPromptTokSec": 3693.9,
+        "avgPromptTokSec": null,
         "avgTtftMs": 787,
         "avgTotalMs": 6870,
-        "runTotalMs": 69321,
-        "runTotalFormatted": "1m 9s",
-        "testedAt": "2026-05-07T19:27:10.726Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:40.937Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -242848,12 +242848,12 @@
         "wowPassed": 4,
         "wowTotal": 5,
         "avgTokSec": 100.5,
-        "avgPromptTokSec": 3246.7,
+        "avgPromptTokSec": null,
         "avgTtftMs": 1314,
         "avgTotalMs": 3481,
-        "runTotalMs": 35418,
-        "runTotalFormatted": "35s",
-        "testedAt": "2026-05-07T19:27:46.588Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:41.066Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -243015,12 +243015,12 @@
         "wowPassed": 1,
         "wowTotal": 5,
         "avgTokSec": 101.8,
-        "avgPromptTokSec": 2668.2,
+        "avgPromptTokSec": null,
         "avgTtftMs": 264,
         "avgTotalMs": 5610,
-        "runTotalMs": 56792,
-        "runTotalFormatted": "56s",
-        "testedAt": "2026-05-07T19:28:43.815Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:41.200Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -243182,12 +243182,12 @@
         "wowPassed": 0,
         "wowTotal": 0,
         "avgTokSec": 102.1,
-        "avgPromptTokSec": 3462.7,
+        "avgPromptTokSec": null,
         "avgTtftMs": 484,
         "avgTotalMs": 4739,
-        "runTotalMs": 48020,
-        "runTotalFormatted": "48s",
-        "testedAt": "2026-05-07T19:29:32.308Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:41.325Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -243349,12 +243349,12 @@
         "wowPassed": 3,
         "wowTotal": 5,
         "avgTokSec": 100.7,
-        "avgPromptTokSec": 3799.7,
+        "avgPromptTokSec": null,
         "avgTtftMs": 699,
         "avgTotalMs": 4157,
-        "runTotalMs": 42417,
-        "runTotalFormatted": "42s",
-        "testedAt": "2026-05-07T19:30:15.172Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:41.460Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -243516,12 +243516,12 @@
         "wowPassed": 3,
         "wowTotal": 5,
         "avgTokSec": 100.3,
-        "avgPromptTokSec": 3348.8,
+        "avgPromptTokSec": null,
         "avgTtftMs": 551,
         "avgTotalMs": 2935,
-        "runTotalMs": 30049,
-        "runTotalFormatted": "30s",
-        "testedAt": "2026-05-07T19:30:45.662Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:41.589Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -243683,12 +243683,12 @@
         "wowPassed": 1,
         "wowTotal": 5,
         "avgTokSec": 100.9,
-        "avgPromptTokSec": 3931.1,
+        "avgPromptTokSec": null,
         "avgTtftMs": 300,
         "avgTotalMs": 6691,
-        "runTotalMs": 67610,
-        "runTotalFormatted": "1m 7s",
-        "testedAt": "2026-05-07T19:31:53.758Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:41.715Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -243850,12 +243850,12 @@
         "wowPassed": 3,
         "wowTotal": 5,
         "avgTokSec": 100.8,
-        "avgPromptTokSec": 3331.6,
+        "avgPromptTokSec": null,
         "avgTtftMs": 574,
         "avgTotalMs": 3042,
-        "runTotalMs": 31785,
-        "runTotalFormatted": "31s",
-        "testedAt": "2026-05-07T19:32:26.000Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:41.840Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -244017,12 +244017,12 @@
         "wowPassed": 2,
         "wowTotal": 5,
         "avgTokSec": 112.8,
-        "avgPromptTokSec": 3143.3,
+        "avgPromptTokSec": null,
         "avgTtftMs": 554,
         "avgTotalMs": 1078,
-        "runTotalMs": 11463,
-        "runTotalFormatted": "11s",
-        "testedAt": "2026-05-07T19:32:37.917Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:41.966Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -244184,12 +244184,12 @@
         "wowPassed": 0,
         "wowTotal": 0,
         "avgTokSec": 101.3,
-        "avgPromptTokSec": 3267.5,
+        "avgPromptTokSec": null,
         "avgTtftMs": 827,
         "avgTotalMs": 2730,
-        "runTotalMs": 28047,
-        "runTotalFormatted": "28s",
-        "testedAt": "2026-05-07T19:33:06.551Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:42.092Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -244351,12 +244351,12 @@
         "wowPassed": 0,
         "wowTotal": 0,
         "avgTokSec": 103.4,
-        "avgPromptTokSec": 3904.6,
+        "avgPromptTokSec": null,
         "avgTtftMs": 280,
         "avgTotalMs": 1989,
-        "runTotalMs": 20673,
-        "runTotalFormatted": "20s",
-        "testedAt": "2026-05-07T19:33:27.634Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:42.216Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -244518,12 +244518,12 @@
         "wowPassed": 0,
         "wowTotal": 0,
         "avgTokSec": 107.3,
-        "avgPromptTokSec": 3495.2,
+        "avgPromptTokSec": null,
         "avgTtftMs": 280,
         "avgTotalMs": 1549,
-        "runTotalMs": 16087,
-        "runTotalFormatted": "16s",
-        "testedAt": "2026-05-07T19:33:44.119Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:42.339Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -244685,12 +244685,12 @@
         "wowPassed": 0,
         "wowTotal": 5,
         "avgTokSec": 99.2,
-        "avgPromptTokSec": 3104.7,
+        "avgPromptTokSec": null,
         "avgTtftMs": 1267,
         "avgTotalMs": 4943,
-        "runTotalMs": 50222,
-        "runTotalFormatted": "50s",
-        "testedAt": "2026-05-07T19:34:34.753Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:42.460Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -256949,12 +256949,12 @@
         "wowPassed": 1,
         "wowTotal": 5,
         "avgTokSec": 70.8,
-        "avgPromptTokSec": 21232.3,
+        "avgPromptTokSec": null,
         "avgTtftMs": 6499,
         "avgTotalMs": 8623,
-        "runTotalMs": 87338,
-        "runTotalFormatted": "1m 27s",
-        "testedAt": "2026-05-07T19:08:15.884Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:38.370Z",
         "tests": [
           {
             "id": "router-1",
@@ -257116,12 +257116,12 @@
         "wowPassed": 0,
         "wowTotal": 4,
         "avgTokSec": 47,
-        "avgPromptTokSec": 2112.7,
+        "avgPromptTokSec": null,
         "avgTtftMs": 1502,
         "avgTotalMs": 3130,
-        "runTotalMs": 32209,
-        "runTotalFormatted": "32s",
-        "testedAt": "2026-05-07T19:08:48.549Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:38.489Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -257283,12 +257283,12 @@
         "wowPassed": 2,
         "wowTotal": 4,
         "avgTokSec": 65.6,
-        "avgPromptTokSec": 23845.4,
+        "avgPromptTokSec": null,
         "avgTtftMs": 514,
         "avgTotalMs": 7851,
-        "runTotalMs": 79348,
-        "runTotalFormatted": "1m 19s",
-        "testedAt": "2026-05-07T19:10:08.420Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:38.610Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -257450,12 +257450,12 @@
         "wowPassed": 1,
         "wowTotal": 5,
         "avgTokSec": 45.4,
-        "avgPromptTokSec": 7134.7,
+        "avgPromptTokSec": null,
         "avgTtftMs": 1287,
         "avgTotalMs": 8292,
-        "runTotalMs": 83779,
-        "runTotalFormatted": "1m 23s",
-        "testedAt": "2026-05-07T19:11:32.717Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:38.727Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -257617,12 +257617,12 @@
         "wowPassed": 0,
         "wowTotal": 4,
         "avgTokSec": 55.3,
-        "avgPromptTokSec": 7376.6,
+        "avgPromptTokSec": null,
         "avgTtftMs": 952,
         "avgTotalMs": 6172,
-        "runTotalMs": 62451,
-        "runTotalFormatted": "1m 2s",
-        "testedAt": "2026-05-07T19:12:35.611Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:38.849Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -257784,12 +257784,12 @@
         "wowPassed": 2,
         "wowTotal": 5,
         "avgTokSec": 50.2,
-        "avgPromptTokSec": 3998.8,
+        "avgPromptTokSec": null,
         "avgTtftMs": 2089,
         "avgTotalMs": 5308,
-        "runTotalMs": 54263,
-        "runTotalFormatted": "54s",
-        "testedAt": "2026-05-07T19:13:30.337Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:38.971Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -257951,12 +257951,12 @@
         "wowPassed": 0,
         "wowTotal": 5,
         "avgTokSec": 68.5,
-        "avgPromptTokSec": 16398.1,
+        "avgPromptTokSec": null,
         "avgTtftMs": 304,
         "avgTotalMs": 9684,
-        "runTotalMs": 97670,
-        "runTotalFormatted": "1m 37s",
-        "testedAt": "2026-05-07T19:15:08.446Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:39.089Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -258118,12 +258118,12 @@
         "wowPassed": 0,
         "wowTotal": 0,
         "avgTokSec": 74.4,
-        "avgPromptTokSec": 12418.3,
+        "avgPromptTokSec": null,
         "avgTtftMs": 648,
         "avgTotalMs": 3458,
-        "runTotalMs": 35323,
-        "runTotalFormatted": "35s",
-        "testedAt": "2026-05-07T19:15:44.408Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:39.210Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -258285,12 +258285,12 @@
         "wowPassed": 1,
         "wowTotal": 5,
         "avgTokSec": 64.7,
-        "avgPromptTokSec": 8765.5,
+        "avgPromptTokSec": null,
         "avgTtftMs": 1426,
         "avgTotalMs": 10180,
-        "runTotalMs": 102662,
-        "runTotalFormatted": "1m 42s",
-        "testedAt": "2026-05-07T19:17:27.610Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:39.325Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -258452,12 +258452,12 @@
         "wowPassed": 1,
         "wowTotal": 5,
         "avgTokSec": 62.9,
-        "avgPromptTokSec": 5307,
+        "avgPromptTokSec": null,
         "avgTtftMs": 790,
         "avgTotalMs": 5508,
-        "runTotalMs": 55862,
-        "runTotalFormatted": "55s",
-        "testedAt": "2026-05-07T19:18:23.921Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:39.445Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -258619,12 +258619,12 @@
         "wowPassed": 1,
         "wowTotal": 5,
         "avgTokSec": 74.8,
-        "avgPromptTokSec": 10697.6,
+        "avgPromptTokSec": null,
         "avgTtftMs": 288,
         "avgTotalMs": 3997,
-        "runTotalMs": 40699,
-        "runTotalFormatted": "40s",
-        "testedAt": "2026-05-07T19:19:05.113Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:39.571Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -258786,12 +258786,12 @@
         "wowPassed": 1,
         "wowTotal": 5,
         "avgTokSec": 63.4,
-        "avgPromptTokSec": 5170.8,
+        "avgPromptTokSec": null,
         "avgTtftMs": 732,
         "avgTotalMs": 6787,
-        "runTotalMs": 68595,
-        "runTotalFormatted": "1m 8s",
-        "testedAt": "2026-05-07T19:20:14.149Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:39.689Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -258953,12 +258953,12 @@
         "wowPassed": 2,
         "wowTotal": 5,
         "avgTokSec": 81.1,
-        "avgPromptTokSec": 10828.8,
+        "avgPromptTokSec": null,
         "avgTtftMs": 489,
         "avgTotalMs": 1863,
-        "runTotalMs": 19226,
-        "runTotalFormatted": "19s",
-        "testedAt": "2026-05-07T19:20:33.832Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:39.815Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -259120,12 +259120,12 @@
         "wowPassed": 0,
         "wowTotal": 0,
         "avgTokSec": 70.7,
-        "avgPromptTokSec": 8396.8,
+        "avgPromptTokSec": null,
         "avgTtftMs": 731,
         "avgTotalMs": 2488,
-        "runTotalMs": 25428,
-        "runTotalFormatted": "25s",
-        "testedAt": "2026-05-07T19:20:59.682Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:39.943Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -259287,12 +259287,12 @@
         "wowPassed": 0,
         "wowTotal": 0,
         "avgTokSec": 65.3,
-        "avgPromptTokSec": 11382.8,
+        "avgPromptTokSec": null,
         "avgTtftMs": 305,
         "avgTotalMs": 1511,
-        "runTotalMs": 15773,
-        "runTotalFormatted": "15s",
-        "testedAt": "2026-05-07T19:21:15.927Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:40.063Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -259454,12 +259454,12 @@
         "wowPassed": 0,
         "wowTotal": 0,
         "avgTokSec": 64.4,
-        "avgPromptTokSec": 12577.4,
+        "avgPromptTokSec": null,
         "avgTtftMs": 322,
         "avgTotalMs": 1417,
-        "runTotalMs": 14731,
-        "runTotalFormatted": "14s",
-        "testedAt": "2026-05-07T19:21:31.091Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:40.188Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -259621,12 +259621,12 @@
         "wowPassed": 0,
         "wowTotal": 5,
         "avgTokSec": 51.3,
-        "avgPromptTokSec": 5635.8,
+        "avgPromptTokSec": null,
         "avgTtftMs": 735,
         "avgTotalMs": 5224,
-        "runTotalMs": 53016,
-        "runTotalFormatted": "53s",
-        "testedAt": "2026-05-07T19:22:24.506Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:40.316Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -268801,7 +268801,7 @@
         "avgTotalMs": 23296,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:04.349Z",
+        "testedAt": "2026-05-11T01:44:06.147Z",
         "tests": [
           {
             "id": "router-1",
@@ -268968,7 +268968,7 @@
         "avgTotalMs": 107153,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:04.476Z",
+        "testedAt": "2026-05-11T01:44:06.271Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -269135,7 +269135,7 @@
         "avgTotalMs": 16246,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:04.602Z",
+        "testedAt": "2026-05-11T01:44:06.391Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -269302,7 +269302,7 @@
         "avgTotalMs": 10401,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:04.743Z",
+        "testedAt": "2026-05-11T01:44:06.516Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -269469,7 +269469,7 @@
         "avgTotalMs": 7807,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:04.874Z",
+        "testedAt": "2026-05-11T01:44:06.642Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -269636,7 +269636,7 @@
         "avgTotalMs": 12359,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:05.011Z",
+        "testedAt": "2026-05-11T01:44:06.759Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -269803,7 +269803,7 @@
         "avgTotalMs": 26003,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:05.144Z",
+        "testedAt": "2026-05-11T01:44:06.875Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -269970,7 +269970,7 @@
         "avgTotalMs": 9772,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:05.278Z",
+        "testedAt": "2026-05-11T01:44:06.998Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -270137,7 +270137,7 @@
         "avgTotalMs": 9332,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:05.457Z",
+        "testedAt": "2026-05-11T01:44:07.115Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -270304,7 +270304,7 @@
         "avgTotalMs": 8436,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:05.592Z",
+        "testedAt": "2026-05-11T01:44:07.235Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -270471,7 +270471,7 @@
         "avgTotalMs": 13438,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:05.716Z",
+        "testedAt": "2026-05-11T01:44:07.355Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -270638,7 +270638,7 @@
         "avgTotalMs": 8120,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:05.844Z",
+        "testedAt": "2026-05-11T01:44:07.470Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -270805,7 +270805,7 @@
         "avgTotalMs": 3898,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:06.092Z",
+        "testedAt": "2026-05-11T01:44:07.589Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -270972,7 +270972,7 @@
         "avgTotalMs": 14062,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:06.226Z",
+        "testedAt": "2026-05-11T01:44:07.710Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -271139,7 +271139,7 @@
         "avgTotalMs": 2986,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:06.356Z",
+        "testedAt": "2026-05-11T01:44:07.839Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -271306,7 +271306,7 @@
         "avgTotalMs": 1863,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:06.593Z",
+        "testedAt": "2026-05-11T01:44:07.962Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -271473,7 +271473,7 @@
         "avgTotalMs": 5387,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:06.856Z",
+        "testedAt": "2026-05-11T01:44:08.077Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -289652,7 +289652,7 @@
         "avgTotalMs": 26049,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:09.533Z",
+        "testedAt": "2026-05-11T01:44:10.185Z",
         "tests": [
           {
             "id": "router-1",
@@ -289819,7 +289819,7 @@
         "avgTotalMs": 69418,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:09.649Z",
+        "testedAt": "2026-05-11T01:44:10.299Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -289986,7 +289986,7 @@
         "avgTotalMs": 51168,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:09.826Z",
+        "testedAt": "2026-05-11T01:44:10.420Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -290153,7 +290153,7 @@
         "avgTotalMs": 37957,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:09.939Z",
+        "testedAt": "2026-05-11T01:44:10.537Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -290320,7 +290320,7 @@
         "avgTotalMs": 32651,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:10.052Z",
+        "testedAt": "2026-05-11T01:44:10.655Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -290487,7 +290487,7 @@
         "avgTotalMs": 127690,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:10.168Z",
+        "testedAt": "2026-05-11T01:44:10.765Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -290654,7 +290654,7 @@
         "avgTotalMs": 43877,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:10.282Z",
+        "testedAt": "2026-05-11T01:44:10.889Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -290821,7 +290821,7 @@
         "avgTotalMs": 28870,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:10.401Z",
+        "testedAt": "2026-05-11T01:44:11.007Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -290988,7 +290988,7 @@
         "avgTotalMs": 61851,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:10.516Z",
+        "testedAt": "2026-05-11T01:44:11.119Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -291155,7 +291155,7 @@
         "avgTotalMs": 21534,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:10.636Z",
+        "testedAt": "2026-05-11T01:44:11.235Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -291322,7 +291322,7 @@
         "avgTotalMs": 16816,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:10.755Z",
+        "testedAt": "2026-05-11T01:44:11.354Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -291489,7 +291489,7 @@
         "avgTotalMs": 17116,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:10.875Z",
+        "testedAt": "2026-05-11T01:44:11.474Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -291656,7 +291656,7 @@
         "avgTotalMs": 11792,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:10.997Z",
+        "testedAt": "2026-05-11T01:44:11.598Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -291823,7 +291823,7 @@
         "avgTotalMs": 36475,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:11.114Z",
+        "testedAt": "2026-05-11T01:44:11.716Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -291990,7 +291990,7 @@
         "avgTotalMs": 2347,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:11.230Z",
+        "testedAt": "2026-05-11T01:44:11.835Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -292157,7 +292157,7 @@
         "avgTotalMs": 1917,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:11.353Z",
+        "testedAt": "2026-05-11T01:44:11.955Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -292324,7 +292324,7 @@
         "avgTotalMs": 15639,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:57:11.469Z",
+        "testedAt": "2026-05-11T01:44:12.073Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -397725,7 +397725,7 @@
         "avgTotalMs": 26104,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:54.042Z",
+        "testedAt": "2026-05-11T01:43:57.965Z",
         "tests": [
           {
             "id": "router-1",
@@ -397892,7 +397892,7 @@
         "avgTotalMs": 11909,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:54.189Z",
+        "testedAt": "2026-05-11T01:43:58.089Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -398059,7 +398059,7 @@
         "avgTotalMs": 16795,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:54.336Z",
+        "testedAt": "2026-05-11T01:43:58.215Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -398226,7 +398226,7 @@
         "avgTotalMs": 14954,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:54.484Z",
+        "testedAt": "2026-05-11T01:43:58.339Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -398393,7 +398393,7 @@
         "avgTotalMs": 16864,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:54.619Z",
+        "testedAt": "2026-05-11T01:43:58.461Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -398560,7 +398560,7 @@
         "avgTotalMs": 14483,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:54.767Z",
+        "testedAt": "2026-05-11T01:43:58.595Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -398727,7 +398727,7 @@
         "avgTotalMs": 17617,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:54.938Z",
+        "testedAt": "2026-05-11T01:43:58.720Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -398894,7 +398894,7 @@
         "avgTotalMs": 19093,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:55.071Z",
+        "testedAt": "2026-05-11T01:43:58.838Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -399061,7 +399061,7 @@
         "avgTotalMs": 24968,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:55.205Z",
+        "testedAt": "2026-05-11T01:43:58.955Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -399228,7 +399228,7 @@
         "avgTotalMs": 15923,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:55.334Z",
+        "testedAt": "2026-05-11T01:43:59.078Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -399395,7 +399395,7 @@
         "avgTotalMs": 14715,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:55.462Z",
+        "testedAt": "2026-05-11T01:43:59.203Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -399562,7 +399562,7 @@
         "avgTotalMs": 30622,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:55.583Z",
+        "testedAt": "2026-05-11T01:43:59.325Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -399729,7 +399729,7 @@
         "avgTotalMs": 6167,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:55.709Z",
+        "testedAt": "2026-05-11T01:43:59.455Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -399896,7 +399896,7 @@
         "avgTotalMs": 12463,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:55.832Z",
+        "testedAt": "2026-05-11T01:43:59.574Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -400063,7 +400063,7 @@
         "avgTotalMs": 3986,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:55.959Z",
+        "testedAt": "2026-05-11T01:43:59.695Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -400230,7 +400230,7 @@
         "avgTotalMs": 4985,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:56.089Z",
+        "testedAt": "2026-05-11T01:43:59.821Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -400397,7 +400397,7 @@
         "avgTotalMs": 9490,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:56.220Z",
+        "testedAt": "2026-05-11T01:43:59.937Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -403601,7 +403601,7 @@
         "avgTotalMs": 24478,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:49.854Z",
+        "testedAt": "2026-05-11T01:43:53.637Z",
         "tests": [
           {
             "id": "router-1",
@@ -403768,7 +403768,7 @@
         "avgTotalMs": 7891,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:49.981Z",
+        "testedAt": "2026-05-11T01:43:53.765Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -403935,7 +403935,7 @@
         "avgTotalMs": 7042,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:50.101Z",
+        "testedAt": "2026-05-11T01:43:53.885Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -404102,7 +404102,7 @@
         "avgTotalMs": 9096,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:50.217Z",
+        "testedAt": "2026-05-11T01:43:54.010Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -404269,7 +404269,7 @@
         "avgTotalMs": 9060,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:50.343Z",
+        "testedAt": "2026-05-11T01:43:54.145Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -404436,7 +404436,7 @@
         "avgTotalMs": 7945,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:50.472Z",
+        "testedAt": "2026-05-11T01:43:54.282Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -404603,7 +404603,7 @@
         "avgTotalMs": 17208,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:50.602Z",
+        "testedAt": "2026-05-11T01:43:54.415Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -404770,7 +404770,7 @@
         "avgTotalMs": 10667,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:50.732Z",
+        "testedAt": "2026-05-11T01:43:54.545Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -404937,7 +404937,7 @@
         "avgTotalMs": 27873,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:50.864Z",
+        "testedAt": "2026-05-11T01:43:54.672Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -405104,7 +405104,7 @@
         "avgTotalMs": 8965,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:50.988Z",
+        "testedAt": "2026-05-11T01:43:54.795Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -405271,7 +405271,7 @@
         "avgTotalMs": 11170,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:51.113Z",
+        "testedAt": "2026-05-11T01:43:54.920Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -405438,7 +405438,7 @@
         "avgTotalMs": 7254,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:51.247Z",
+        "testedAt": "2026-05-11T01:43:55.042Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -405605,7 +405605,7 @@
         "avgTotalMs": 3679,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:51.415Z",
+        "testedAt": "2026-05-11T01:43:55.165Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -405772,7 +405772,7 @@
         "avgTotalMs": 6953,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:51.548Z",
+        "testedAt": "2026-05-11T01:43:55.295Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -405939,7 +405939,7 @@
         "avgTotalMs": 3484,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:51.679Z",
+        "testedAt": "2026-05-11T01:43:55.438Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -406106,7 +406106,7 @@
         "avgTotalMs": 6550,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:51.791Z",
+        "testedAt": "2026-05-11T01:43:55.569Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -406273,7 +406273,7 @@
         "avgTotalMs": 7426,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:51.906Z",
+        "testedAt": "2026-05-11T01:43:55.710Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -412492,12 +412492,12 @@
         "wowPassed": 3,
         "wowTotal": 5,
         "avgTokSec": 73.7,
-        "avgPromptTokSec": 18675.1,
+        "avgPromptTokSec": null,
         "avgTtftMs": 12925,
         "avgTotalMs": 13270,
-        "runTotalMs": 133440,
-        "runTotalFormatted": "2m 13s",
-        "testedAt": "2026-05-07T19:55:29.182Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:44.715Z",
         "tests": [
           {
             "id": "router-1",
@@ -412659,12 +412659,12 @@
         "wowPassed": 1,
         "wowTotal": 4,
         "avgTokSec": 4.5,
-        "avgPromptTokSec": 10760.1,
+        "avgPromptTokSec": null,
         "avgTtftMs": 4569,
         "avgTotalMs": 29645,
-        "runTotalMs": 297404,
-        "runTotalFormatted": "4m 57s",
-        "testedAt": "2026-05-07T20:00:27.069Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:44.842Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -412826,12 +412826,12 @@
         "wowPassed": 2,
         "wowTotal": 4,
         "avgTokSec": 70.1,
-        "avgPromptTokSec": 21012.4,
+        "avgPromptTokSec": null,
         "avgTtftMs": 3444,
         "avgTotalMs": 15549,
-        "runTotalMs": 156195,
-        "runTotalFormatted": "2m 36s",
-        "testedAt": "2026-05-07T20:03:03.691Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:44.960Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -412993,12 +412993,12 @@
         "wowPassed": 5,
         "wowTotal": 5,
         "avgTokSec": 53,
-        "avgPromptTokSec": 27021.6,
+        "avgPromptTokSec": null,
         "avgTtftMs": 674,
         "avgTotalMs": 10762,
-        "runTotalMs": 108370,
-        "runTotalFormatted": "1m 48s",
-        "testedAt": "2026-05-07T20:04:52.595Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:45.080Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -413160,12 +413160,12 @@
         "wowPassed": 1,
         "wowTotal": 4,
         "avgTokSec": 65.2,
-        "avgPromptTokSec": 7392.2,
+        "avgPromptTokSec": null,
         "avgTtftMs": 838,
         "avgTotalMs": 15719,
-        "runTotalMs": 157951,
-        "runTotalFormatted": "2m 37s",
-        "testedAt": "2026-05-07T20:07:31.028Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:45.207Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -413327,12 +413327,12 @@
         "wowPassed": 4,
         "wowTotal": 5,
         "avgTokSec": 56,
-        "avgPromptTokSec": 2929.4,
+        "avgPromptTokSec": null,
         "avgTtftMs": 5149,
         "avgTotalMs": 11599,
-        "runTotalMs": 116764,
-        "runTotalFormatted": "1m 56s",
-        "testedAt": "2026-05-07T20:09:28.323Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:45.375Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -413494,12 +413494,12 @@
         "wowPassed": 2,
         "wowTotal": 5,
         "avgTokSec": 51.2,
-        "avgPromptTokSec": 9644.6,
+        "avgPromptTokSec": null,
         "avgTtftMs": 446,
         "avgTotalMs": 29510,
-        "runTotalMs": 295852,
-        "runTotalFormatted": "4m 55s",
-        "testedAt": "2026-05-07T20:14:24.707Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:45.540Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -413661,12 +413661,12 @@
         "wowPassed": 0,
         "wowTotal": 0,
         "avgTokSec": 67.1,
-        "avgPromptTokSec": 8488.9,
+        "avgPromptTokSec": null,
         "avgTtftMs": 2380,
         "avgTotalMs": 16371,
-        "runTotalMs": 164492,
-        "runTotalFormatted": "2m 44s",
-        "testedAt": "2026-05-07T20:17:09.834Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:45.705Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -413828,12 +413828,12 @@
         "wowPassed": 3,
         "wowTotal": 5,
         "avgTokSec": 35.8,
-        "avgPromptTokSec": 5513.4,
+        "avgPromptTokSec": null,
         "avgTtftMs": 5412,
         "avgTotalMs": 41461,
-        "runTotalMs": 415542,
-        "runTotalFormatted": "6m 55s",
-        "testedAt": "2026-05-07T20:24:06.033Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:45.867Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -413995,12 +413995,12 @@
         "wowPassed": 4,
         "wowTotal": 5,
         "avgTokSec": 62.3,
-        "avgPromptTokSec": 4118.8,
+        "avgPromptTokSec": null,
         "avgTtftMs": 3613,
         "avgTotalMs": 9767,
-        "runTotalMs": 98515,
-        "runTotalFormatted": "1m 38s",
-        "testedAt": "2026-05-07T20:25:45.065Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:46.022Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -414162,12 +414162,12 @@
         "wowPassed": 2,
         "wowTotal": 5,
         "avgTokSec": 62.6,
-        "avgPromptTokSec": 7524.1,
+        "avgPromptTokSec": null,
         "avgTtftMs": 503,
         "avgTotalMs": 13797,
-        "runTotalMs": 138790,
-        "runTotalFormatted": "2m 18s",
-        "testedAt": "2026-05-07T20:28:04.433Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:46.165Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -414329,12 +414329,12 @@
         "wowPassed": 2,
         "wowTotal": 5,
         "avgTokSec": 53.2,
-        "avgPromptTokSec": 3691,
+        "avgPromptTokSec": null,
         "avgTtftMs": 3320,
         "avgTotalMs": 10145,
-        "runTotalMs": 102272,
-        "runTotalFormatted": "1m 42s",
-        "testedAt": "2026-05-07T20:29:47.950Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:46.295Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -414496,12 +414496,12 @@
         "wowPassed": 1,
         "wowTotal": 5,
         "avgTokSec": 66,
-        "avgPromptTokSec": 7017.4,
+        "avgPromptTokSec": null,
         "avgTtftMs": 3031,
         "avgTotalMs": 4191,
-        "runTotalMs": 42598,
-        "runTotalFormatted": "42s",
-        "testedAt": "2026-05-07T20:30:31.080Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:46.418Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -414663,12 +414663,12 @@
         "wowPassed": 0,
         "wowTotal": 0,
         "avgTokSec": 64,
-        "avgPromptTokSec": 6288.6,
+        "avgPromptTokSec": null,
         "avgTtftMs": 4672,
         "avgTotalMs": 15453,
-        "runTotalMs": 155443,
-        "runTotalFormatted": "2m 35s",
-        "testedAt": "2026-05-07T20:33:07.049Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:46.540Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -414830,12 +414830,12 @@
         "wowPassed": 0,
         "wowTotal": 0,
         "avgTokSec": 63.5,
-        "avgPromptTokSec": 9345.1,
+        "avgPromptTokSec": null,
         "avgTtftMs": 363,
         "avgTotalMs": 1648,
-        "runTotalMs": 17150,
-        "runTotalFormatted": "17s",
-        "testedAt": "2026-05-07T20:33:24.908Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:46.665Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -414997,12 +414997,12 @@
         "wowPassed": 0,
         "wowTotal": 0,
         "avgTokSec": 67.8,
-        "avgPromptTokSec": 10377.6,
+        "avgPromptTokSec": null,
         "avgTtftMs": 369,
         "avgTotalMs": 1554,
-        "runTotalMs": 16170,
-        "runTotalFormatted": "16s",
-        "testedAt": "2026-05-07T20:33:41.545Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:46.800Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -415164,12 +415164,12 @@
         "wowPassed": 2,
         "wowTotal": 5,
         "avgTokSec": 59.2,
-        "avgPromptTokSec": 4144,
+        "avgPromptTokSec": null,
         "avgTtftMs": 2780,
         "avgTotalMs": 7714,
-        "runTotalMs": 77865,
-        "runTotalFormatted": "1m 17s",
-        "testedAt": "2026-05-07T20:34:59.846Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-05-11T01:43:46.926Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -415452,7 +415452,7 @@
         "avgTotalMs": 24043,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:56.369Z",
+        "testedAt": "2026-05-11T01:44:00.067Z",
         "tests": [
           {
             "id": "router-1",
@@ -415619,7 +415619,7 @@
         "avgTotalMs": 15536,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:56.503Z",
+        "testedAt": "2026-05-11T01:44:00.185Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -415786,7 +415786,7 @@
         "avgTotalMs": 10785,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:56.628Z",
+        "testedAt": "2026-05-11T01:44:00.308Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -415953,7 +415953,7 @@
         "avgTotalMs": 11973,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:56.761Z",
+        "testedAt": "2026-05-11T01:44:00.430Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -416120,7 +416120,7 @@
         "avgTotalMs": 24925,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:56.898Z",
+        "testedAt": "2026-05-11T01:44:00.545Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -416287,7 +416287,7 @@
         "avgTotalMs": 12337,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:57.046Z",
+        "testedAt": "2026-05-11T01:44:00.671Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -416454,7 +416454,7 @@
         "avgTotalMs": 33447,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:57.181Z",
+        "testedAt": "2026-05-11T01:44:00.787Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -416621,7 +416621,7 @@
         "avgTotalMs": 8807,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:57.429Z",
+        "testedAt": "2026-05-11T01:44:00.905Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -416788,7 +416788,7 @@
         "avgTotalMs": 19408,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:57.562Z",
+        "testedAt": "2026-05-11T01:44:01.025Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -416955,7 +416955,7 @@
         "avgTotalMs": 10673,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:57.702Z",
+        "testedAt": "2026-05-11T01:44:01.135Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -417122,7 +417122,7 @@
         "avgTotalMs": 17010,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:57.838Z",
+        "testedAt": "2026-05-11T01:44:01.258Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -417289,7 +417289,7 @@
         "avgTotalMs": 8892,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:57.987Z",
+        "testedAt": "2026-05-11T01:44:01.378Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -417456,7 +417456,7 @@
         "avgTotalMs": 6498,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:58.138Z",
+        "testedAt": "2026-05-11T01:44:01.508Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -417623,7 +417623,7 @@
         "avgTotalMs": 15124,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:58.282Z",
+        "testedAt": "2026-05-11T01:44:01.635Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -417790,7 +417790,7 @@
         "avgTotalMs": 7261,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:58.440Z",
+        "testedAt": "2026-05-11T01:44:01.755Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -417957,7 +417957,7 @@
         "avgTotalMs": 2449,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:58.584Z",
+        "testedAt": "2026-05-11T01:44:01.879Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -418124,7 +418124,7 @@
         "avgTotalMs": 11425,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-10T21:56:58.738Z",
+        "testedAt": "2026-05-11T01:44:01.995Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",

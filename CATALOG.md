@@ -6,8 +6,8 @@ Benchmark results for local LLMs evaluated against 17 agent roles. Each role has
 
 > *Which role is each model typecast for? The top of each section answers it.*
 
-> Last generated: 2026-05-11T00:48:04.313Z  
-> Catalog generated: 2026-05-11T00:48:04.058Z  
+> Last generated: 2026-05-11T01:58:16.722Z  
+> Catalog generated: 2026-05-11T01:58:16.511Z  
 > Total models in catalog: **368**  
 > Tested (has role scores): **147**
 
