@@ -6,10 +6,10 @@ Benchmark results for local LLMs evaluated against 17 agent roles. Each role has
 
 > *Which role is each model typecast for? The top of each section answers it.*
 
-> Last generated: 2026-05-12T16:04:17.944Z  
-> Catalog generated: 2026-05-12T16:04:17.675Z  
-> Total models in catalog: **414**  
-> Tested (has role scores): **193**
+> Last generated: 2026-05-13T00:42:24.738Z  
+> Catalog generated: 2026-05-13T00:42:24.391Z  
+> Total models in catalog: **416**  
+> Tested (has role scores): **195**
 
 ## Jump to
 
@@ -73,7 +73,7 @@ Best models at each hardware size.
 
 ### Small (4–8 GB)
 
-100 models in this tier. Top 10 shown.
+102 models in this tier. Top 10 shown.
 
 | Rank | Model | Score | Passed | WOW | Params | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|------:|
@@ -138,7 +138,7 @@ Best models at each hardware size.
 Best performers for each agent role. Click a role to expand.
 
 <details>
-<summary><b>router</b> — 193 tested, 114 passing (score > 0)</summary>
+<summary><b>router</b> — 195 tested, 114 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
@@ -156,7 +156,7 @@ Best performers for each agent role. Click a role to expand.
 </details>
 
 <details>
-<summary><b>orchestrator</b> — 192 tested, 63 passing (score > 0)</summary>
+<summary><b>orchestrator</b> — 194 tested, 63 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
@@ -174,7 +174,7 @@ Best performers for each agent role. Click a role to expand.
 </details>
 
 <details>
-<summary><b>planner</b> — 192 tested, 102 passing (score > 0)</summary>
+<summary><b>planner</b> — 194 tested, 102 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
@@ -192,7 +192,7 @@ Best performers for each agent role. Click a role to expand.
 </details>
 
 <details>
-<summary><b>coder</b> — 192 tested, 153 passing (score > 0)</summary>
+<summary><b>coder</b> — 194 tested, 154 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
@@ -210,7 +210,7 @@ Best performers for each agent role. Click a role to expand.
 </details>
 
 <details>
-<summary><b>reviewer</b> — 192 tested, 50 passing (score > 0)</summary>
+<summary><b>reviewer</b> — 194 tested, 50 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
@@ -228,7 +228,7 @@ Best performers for each agent role. Click a role to expand.
 </details>
 
 <details>
-<summary><b>summarizer</b> — 191 tested, 150 passing (score > 0)</summary>
+<summary><b>summarizer</b> — 193 tested, 152 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
@@ -246,7 +246,7 @@ Best performers for each agent role. Click a role to expand.
 </details>
 
 <details>
-<summary><b>architect</b> — 191 tested, 54 passing (score > 0)</summary>
+<summary><b>architect</b> — 193 tested, 53 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
@@ -264,7 +264,7 @@ Best performers for each agent role. Click a role to expand.
 </details>
 
 <details>
-<summary><b>critic</b> — 190 tested, 107 passing (score > 0)</summary>
+<summary><b>critic</b> — 193 tested, 108 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
@@ -282,7 +282,7 @@ Best performers for each agent role. Click a role to expand.
 </details>
 
 <details>
-<summary><b>tester</b> — 190 tested, 128 passing (score > 0)</summary>
+<summary><b>tester</b> — 193 tested, 129 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
@@ -300,7 +300,7 @@ Best performers for each agent role. Click a role to expand.
 </details>
 
 <details>
-<summary><b>debugger</b> — 190 tested, 139 passing (score > 0)</summary>
+<summary><b>debugger</b> — 193 tested, 140 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
@@ -318,7 +318,7 @@ Best performers for each agent role. Click a role to expand.
 </details>
 
 <details>
-<summary><b>researcher</b> — 190 tested, 132 passing (score > 0)</summary>
+<summary><b>researcher</b> — 193 tested, 134 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
@@ -336,7 +336,7 @@ Best performers for each agent role. Click a role to expand.
 </details>
 
 <details>
-<summary><b>refactorer</b> — 190 tested, 123 passing (score > 0)</summary>
+<summary><b>refactorer</b> — 193 tested, 123 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
@@ -354,7 +354,7 @@ Best performers for each agent role. Click a role to expand.
 </details>
 
 <details>
-<summary><b>translator</b> — 190 tested, 107 passing (score > 0)</summary>
+<summary><b>translator</b> — 192 tested, 107 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
@@ -372,7 +372,7 @@ Best performers for each agent role. Click a role to expand.
 </details>
 
 <details>
-<summary><b>data_analyst</b> — 190 tested, 112 passing (score > 0)</summary>
+<summary><b>data_analyst</b> — 192 tested, 114 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
@@ -390,7 +390,7 @@ Best performers for each agent role. Click a role to expand.
 </details>
 
 <details>
-<summary><b>preflight</b> — 190 tested, 41 passing (score > 0)</summary>
+<summary><b>preflight</b> — 192 tested, 41 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
@@ -408,7 +408,7 @@ Best performers for each agent role. Click a role to expand.
 </details>
 
 <details>
-<summary><b>postcheck</b> — 182 tested, 89 passing (score > 0)</summary>
+<summary><b>postcheck</b> — 184 tested, 89 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
@@ -426,7 +426,7 @@ Best performers for each agent role. Click a role to expand.
 </details>
 
 <details>
-<summary><b>postmortem</b> — 190 tested, 30 passing (score > 0)</summary>
+<summary><b>postmortem</b> — 192 tested, 30 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
@@ -555,12 +555,12 @@ Best performers for each agent role. Click a role to expand.
 | `Qwen3VL-4B-Instruct-Q8_0.gguf` | **+60** | +60 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — |
 | `solar-pro:22b` | **+60** | -60 | -100 | +40 | +40 | -40 | +40 | -20 | 0 | +20 | +60 | +20 | +20 | +20 | 0 | 0 | +60 | -40 |
 | `nous-hermes2:34b` | **+50** | +30 | -100 | +20 | +40 | -40 | +40 | 0 | 0 | -40 | +60 | +20 | +20 | +20 | 0 | +20 | +20 | -60 |
-| `open-orca-platypus2:13b` | **+50** | +60 | -80 | -20 | +60 | -20 | +40 | +10 | — | — | — | — | — | — | — | — | — | — |
 | `vicuna:13b` | **+40** | +80 | -100 | +60 | +40 | -40 | +60 | -40 | +20 | -40 | +20 | 0 | -20 | 0 | +40 | -20 | 0 | -20 |
 | `granite-code:34b` | **+30** | -90 | -80 | 0 | +60 | -40 | +20 | -20 | -20 | +20 | +100 | +20 | +80 | 0 | 0 | 0 | 0 | -20 |
 | `0xIbra/supergemma4-26b-uncensored-gguf-v2:Q4_K_M` | **+20** | -80 | +80 | +20 | -60 | -80 | +80 | +40 | -60 | +40 | 0 | +60 | -80 | +40 | +100 | -20 | +20 | -80 |
 | `granite3-moe:3b` | **+20** | +60 | -100 | +20 | +60 | -60 | +40 | -60 | -20 | +100 | +20 | +60 | -40 | 0 | +20 | -40 | 0 | -40 |
 | `notus:7b` | **+20** | -80 | -100 | +40 | +60 | -40 | +60 | -20 | +20 | +80 | +40 | +40 | +40 | +40 | +40 | -100 | 0 | -100 |
+| `open-orca-platypus2:13b` | **+20** | +60 | -80 | -20 | +60 | -20 | +40 | -20 | +40 | +20 | 0 | +20 | 0 | -20 | +40 | -20 | 0 | -80 |
 | `smollm2:1.7b` | **+20** | +60 | -100 | +60 | +80 | -20 | +40 | -20 | -20 | +20 | +20 | +40 | -20 | 0 | +20 | -20 | -40 | -80 |
 | `wizardlm-uncensored:13b` | **+20** | +20 | -100 | +60 | +40 | -80 | +100 | -40 | +60 | +20 | +40 | +40 | +40 | 0 | +20 | -100 | -40 | -60 |
 | `codeqwen:7b` | **0** | +20 | +20 | 0 | +60 | -60 | 0 | -40 | -40 | +20 | +60 | +20 | +40 | 0 | -40 | -20 | 0 | -40 |
@@ -600,6 +600,7 @@ Best performers for each agent role. Click a role to expand.
 | `llama2-chinese:13b` | **-380** | +20 | -100 | -20 | +40 | 0 | +40 | -60 | -40 | +20 | +20 | +40 | -60 | 0 | -40 | -80 | -60 | -100 |
 | `stable-code:3b` | **-380** | -100 | -100 | -20 | 0 | +20 | 0 | +20 | 0 | -20 | +60 | 0 | +40 | -20 | 0 | -100 | -60 | -100 |
 | `deepseek-r1:1.5b` | **-400** | -100 | -40 | -40 | -20 | -20 | 0 | -40 | -40 | +20 | -40 | +40 | -20 | -20 | +40 | -40 | — | -80 |
+| `orca-mini:13b` | **-400** | 0 | -100 | 0 | +20 | -40 | +20 | -60 | 0 | 0 | +60 | +20 | -20 | -20 | +20 | -100 | -100 | -100 |
 | `llama2:7b` | **-420** | +20 | -100 | 0 | 0 | -40 | 0 | +20 | 0 | +20 | -20 | 0 | -20 | -60 | 0 | -100 | -40 | -100 |
 | `orca2:13b` | **-440** | +20 | -100 | -80 | +40 | -60 | +20 | -100 | +20 | -80 | +20 | -80 | +20 | +40 | +60 | -100 | -20 | -60 |
 | `dolphincoder:7b` | **-480** | -100 | -100 | 0 | +20 | -40 | 0 | -20 | +20 | 0 | +20 | +20 | +20 | 0 | -40 | -100 | -80 | -100 |
@@ -608,6 +609,7 @@ Best performers for each agent role. Click a role to expand.
 | `orca-mini:7b` | **-580** | -40 | -100 | 0 | +20 | -60 | -20 | -20 | 0 | -20 | 0 | 0 | -20 | 0 | -40 | -100 | -80 | -100 |
 | `stable-beluga:7b` | **-580** | -100 | -100 | 0 | +40 | -40 | -20 | -40 | +20 | +20 | -20 | +20 | -60 | 0 | -20 | -100 | -80 | -100 |
 | `wizard-math:13b` | **-580** | -100 | -100 | 0 | 0 | -60 | +20 | -20 | +20 | -40 | 0 | -20 | 0 | -20 | +20 | -100 | -80 | -100 |
+| `yarn-llama2:13b` | **-610** | -100 | -100 | -20 | -100 | -60 | +80 | -80 | -60 | -80 | 0 | -80 | -10 | — | — | — | — | — |
 | `gemma:2b` | **-620** | +20 | -100 | -40 | -20 | -40 | 0 | -40 | -20 | -40 | -20 | -20 | +20 | -40 | -80 | -60 | -40 | -100 |
 | `llama2-chinese:7b` | **-640** | +20 | -100 | +20 | -40 | -60 | 0 | -20 | -80 | -40 | 0 | +20 | -80 | -60 | -40 | -100 | 0 | -80 |
 | `llama3.2:1b` | **-640** | -100 | -100 | -40 | +100 | -40 | +20 | -60 | -20 | -20 | 0 | +20 | 0 | -60 | -60 | -100 | -80 | -100 |
