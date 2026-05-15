@@ -51,7 +51,10 @@ function writeTestState(model, state) {
 }
 
 function testKey(test, role, index) {
-  return test.id || `${role}-${index + 1}`;
+  // Prefer the stamped __key (carries the test's ORIGINAL position before
+  // any session-time filtering — see runAll's pre-filter map). Falls back to
+  // explicit id, then to a session-index-derived key as a last resort.
+  return test.__key || test.id || `${role}-${index + 1}`;
 }
 
 function markTestComplete(model, role, test, index, result, serverName) {
@@ -283,16 +286,24 @@ if (specificTestId) {
   testsToRun = [roleTests[Math.floor(Math.random() * roleTests.length)]];
 }
 
+// Stamp every test with its ORIGINAL-position key BEFORE any filtering.
+// Without this, fixtures that have no `id` get a key derived from their post-filter
+// session-index — which collides with prior state entries and silently overwrites
+// them, so the same tests keep re-running every session. (Bug seen on roles where
+// only fixtures 0..N have no id and N+1..end are skipped because they're already
+// in state — like orchestrator with 6 anonymous fixtures.)
+testsToRun = testsToRun.map((t, i) => ({
+  ...t,
+  __key: t.id || `${role}-${i + 1}`
+}));
+
 // Filter out tests already completed in the state file (only applies to --all and single random)
 // --test=<ID> still forces that specific test to run (manual override for re-test)
 if (!specificTestId) {
   const state = readTestState(model);
   const beforeCount = testsToRun.length;
   const completedKeys = new Set(Object.keys(state.completed || {}));
-  testsToRun = testsToRun.filter((t, i) => {
-    const key = t.id || `${role}-${i + 1}`;
-    return !completedKeys.has(key);
-  });
+  testsToRun = testsToRun.filter(t => !completedKeys.has(t.__key));
   const skipped = beforeCount - testsToRun.length;
   if (skipped > 0) {
     console.log(`\n═══ ${role} ═══ ${model}`);

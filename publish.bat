@@ -11,7 +11,7 @@ echo  %date% %time%
 echo ============================================
 
 echo.
-echo [1/4] Assembling models-catalog.json...
+echo [1/5] Assembling models-catalog.json...
 call .\assemble-catalog.bat
 if errorlevel 1 (
   echo ERROR: assemble-catalog failed
@@ -19,7 +19,15 @@ if errorlevel 1 (
 )
 
 echo.
-echo [2/4] Rendering CATALOG.md...
+echo [2/5] Splitting catalog into per-VRAM-bucket files...
+node assemble-catalogs-by-vram.js
+if errorlevel 1 (
+  echo ERROR: assemble-catalogs-by-vram failed
+  exit /b 1
+)
+
+echo.
+echo [3/5] Rendering CATALOG.md...
 call .\generate-catalog-md.bat
 if errorlevel 1 (
   echo ERROR: generate-catalog-md failed
@@ -27,18 +35,18 @@ if errorlevel 1 (
 )
 
 echo.
-echo [3/4] Checking for git changes...
-git diff --quiet models-catalog.json CATALOG.md
+echo [4/5] Checking for git changes...
+git diff --quiet models-catalog.json models-catalog-*gb.json CATALOG.md
 if errorlevel 1 (
   echo Changes detected. Committing...
-  git add models-catalog.json CATALOG.md
+  git add models-catalog.json models-catalog-*gb.json CATALOG.md
   git commit -m "Update benchmark results"
   if errorlevel 1 (
     echo ERROR: git commit failed
     exit /b 1
   )
   echo.
-  echo [4/4] Pushing to origin...
+  echo [5/5] Pushing to origin...
   git push
   if errorlevel 1 (
     echo ERROR: git push failed

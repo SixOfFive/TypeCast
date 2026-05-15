@@ -10,6 +10,10 @@ test-state/
 # Rate-limit / consecutive-failure counter for --backoff mode.
 .backoff-state.json
 
+# Sequential-pull script logs (timestamped, machine-local).
+pull-log-*.txt
+pull-*-log-*.txt
+
 # Atomic-write temp files (should never be committed).
 *.tmp.*
 models-catalog.json.tmp.*

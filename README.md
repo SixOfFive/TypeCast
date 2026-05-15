@@ -86,17 +86,47 @@ For models pulled from ollama.com/library — description, pull count, registry 
 
 Test results land in per-model JSON files under `models/` as tests complete. This isolates writes so many tests can run simultaneously without collisions.
 
-Two commands to produce the outputs:
+Three commands to produce the outputs:
 
 ```bash
 # Merge all per-model files into models-catalog.json
 node assemble-catalog.js        # or: assemble-catalog.bat
 
+# Split the master catalog into per-VRAM-bucket files
+node assemble-catalogs-by-vram.js
+
 # Produce the human-readable CATALOG.md (leaderboards + full score matrix)
 node generate-catalog-md.js     # or: generate-catalog-md.bat
 ```
 
-Both are lightweight — run them whenever you want an up-to-date snapshot. `CATALOG.md` is the file you share/browse on GitHub; `models-catalog.json` is what downstream code consumes.
+All three are lightweight — run them whenever you want an up-to-date snapshot. `CATALOG.md` is the file you share/browse on GitHub; `models-catalog.json` is what downstream code consumes. `publish.bat` chains all three plus a git commit + push.
+
+### VRAM-bucketed catalogs
+
+For consumers that only want models that will fit in a specific amount of GPU memory, `assemble-catalogs-by-vram.js` slices `models-catalog.json` into ten subset files:
+
+| File | Contains models with footprint ≤ |
+|---|---|
+| `models-catalog-6gb.json`   | 6 GB  (laptop GPUs, 3060m, RTX 4050) |
+| `models-catalog-12gb.json`  | 12 GB (RTX 3060, RTX 4070, A4000) |
+| `models-catalog-16gb.json`  | 16 GB (RTX 4070 Ti SUPER, A4500) |
+| `models-catalog-24gb.json`  | 24 GB (RTX 3090, RTX 4090, A5000) |
+| `models-catalog-32gb.json`  | 32 GB (RTX 5090, V100) |
+| `models-catalog-64gb.json`  | 64 GB (dual 32GB or A6000) |
+| `models-catalog-96gb.json`  | 96 GB (RTX 6000 Ada, H100 NVL) |
+| `models-catalog-128gb.json` | 128 GB |
+| `models-catalog-160gb.json` | 160 GB (H200) |
+| `models-catalog-192gb.json` | 192 GB (MI300X) |
+
+Each bucket file mirrors the master catalog's structure (same `_meta` block plus one entry per model) but only contains models whose memory footprint fits the target.
+
+The **memory footprint** for bucketing is computed as:
+
+```
+max(perf.actualVramGb, estimatedVramGb, sizeGb)
+```
+
+Using the max is intentional — if any signal says a model is big, we trust it. This makes the buckets conservative: a model in `models-catalog-12gb.json` is guaranteed to fit a 12 GB card. Models with no footprint data (never run, no estimate, no size) are excluded from every bucket; this gap closes as those models get tested.
 
 ## Requirements
 
