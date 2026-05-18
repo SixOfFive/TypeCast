@@ -3,7 +3,7 @@
     "description": "Subset of models-catalog.json containing models with memory footprint <= 6 GB.",
     "bucketGb": 6,
     "footprintSource": "max(perf.actualVramGb, estimatedVramGb, sizeGb)",
-    "generatedAt": "2026-05-17T13:39:15.789Z",
+    "generatedAt": "2026-05-18T09:19:52.954Z",
     "modelCount": 316,
     "skippedNoFootprintData": 28,
     "parentCatalog": "models-catalog.json"
