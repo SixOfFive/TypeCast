@@ -6,8 +6,8 @@ Benchmark results for local LLMs evaluated against 17 agent roles. Each role has
 
 > *Which role is each model typecast for? The top of each section answers it.*
 
-> Last generated: 2026-05-18T09:19:54.714Z  
-> Catalog generated: 2026-05-18T09:19:52.562Z  
+> Last generated: 2026-05-20T08:59:52.380Z  
+> Catalog generated: 2026-05-20T08:59:50.496Z  
 > Total models in catalog: **497**  
 > Tested (has role scores): **276**
 
@@ -578,6 +578,7 @@ Best performers for each agent role. Click a role to expand.
 | `olmo2:7b` | **+80** | +40 | -100 | -100 | +40 | -20 | +100 | 0 | +40 | 0 | +80 | +40 | 0 | +40 | +40 | -80 | +20 | -60 |
 | `llava:13b` | **+60** | +60 | -100 | +60 | +80 | -20 | +40 | -40 | -20 | 0 | +40 | +40 | +20 | +20 | -40 | -40 | 0 | -40 |
 | `mistral-openorca:7b` | **+60** | +40 | -100 | +20 | +80 | -40 | +20 | -20 | -20 | 0 | +40 | +40 | +20 | +20 | 0 | -20 | 0 | -20 |
+| `nvidia/nemotron-mini-4b-instruct` | **+60** | +60 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — |
 | `qwen2-math:7b` | **+60** | +20 | -80 | +20 | +20 | -60 | +40 | -60 | -20 | +20 | +40 | +20 | +40 | +20 | +40 | 0 | 0 | 0 |
 | `Qwen3VL-4B-Instruct-Q8_0.gguf` | **+60** | +60 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — |
 | `solar-pro:22b` | **+60** | -60 | -100 | +40 | +40 | -40 | +40 | -20 | 0 | +20 | +60 | +20 | +20 | +20 | 0 | 0 | +60 | -40 |
@@ -592,7 +593,6 @@ Best performers for each agent role. Click a role to expand.
 | `smollm2:1.7b` | **+20** | +60 | -100 | +60 | +80 | -20 | +40 | -20 | -20 | +20 | +20 | +40 | -20 | 0 | +20 | -20 | -40 | -80 |
 | `wizardlm-uncensored:13b` | **+20** | +20 | -100 | +60 | +40 | -80 | +100 | -40 | +60 | +20 | +40 | +40 | +40 | 0 | +20 | -100 | -40 | -60 |
 | `nvidia/nemotron-3-nano-omni-30b-a3b-reasoning` | **+10** | +10 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — |
-| `nvidia/nemotron-mini-4b-instruct` | **+10** | +10 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — |
 | `codeqwen:7b` | **0** | +20 | +20 | 0 | +60 | -60 | 0 | -40 | -40 | +20 | +60 | +20 | +40 | 0 | -40 | -20 | 0 | -40 |
 | `qwen2.5:1.5b` | **0** | +40 | 0 | -20 | +20 | -20 | +20 | -80 | +40 | +20 | +60 | 0 | -20 | +20 | +40 | -60 | -20 | -40 |
 | `yi-coder:9b` | **0** | -60 | -100 | +60 | +80 | -40 | +60 | -40 | -20 | +60 | +80 | 0 | +80 | +20 | +20 | -100 | 0 | -100 |
