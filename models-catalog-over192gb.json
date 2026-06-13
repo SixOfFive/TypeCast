@@ -1,0 +1,128 @@
+{
+  "_meta": {
+    "description": "Models in the over-192 GB tier — footprint > 192 GB. Open-ended top tier; needs multi-GPU or specialty hardware.",
+    "tierLowerGbExclusive": 192,
+    "tierUpperGb": null,
+    "footprintSource": "max(perf.actualVramGb, estimatedVramGb, sizeGb)",
+    "generatedAt": "2026-06-13T00:43:08.601Z",
+    "modelCount": 3,
+    "parentCatalog": "models-catalog.json"
+  },
+  "cogito-2.1": {
+    "preferred_for": [],
+    "avoid_for": [],
+    "score": 0,
+    "runs": 0,
+    "lastBumpAt": 0,
+    "installed": false,
+    "parameterSize": null,
+    "quantizationLevel": null,
+    "estimatedVramGb": 356.1,
+    "contextLength": null,
+    "sizeGb": null,
+    "family": null,
+    "capabilities": [],
+    "servers": [],
+    "description": "The Cogito v2.1 LLMs are instruction tuned generative models. All models are released under MIT license for commercial use.",
+    "sizes": [
+      "671b"
+    ],
+    "pullsNumeric": 170000,
+    "registryUrl": "https://ollama.com/library/cogito-2.1",
+    "sizeEstimates": [
+      {
+        "tag": "671b",
+        "type": "dense",
+        "totalParamsB": 671,
+        "activeParamsB": 671,
+        "vramQ4KM": 356.1,
+        "vramQ8": 671.5,
+        "gpuTier": "48gb+",
+        "fitsIn12gb": false,
+        "fitsIn16gb": false
+      }
+    ],
+    "gpuTier": "48gb+",
+    "fitsIn12gb": false,
+    "fitsIn16gb": false
+  },
+  "deepseek-v3.1": {
+    "preferred_for": [],
+    "avoid_for": [],
+    "score": 0,
+    "runs": 0,
+    "lastBumpAt": 0,
+    "installed": false,
+    "parameterSize": null,
+    "quantizationLevel": null,
+    "estimatedVramGb": 356.1,
+    "contextLength": null,
+    "sizeGb": null,
+    "family": null,
+    "capabilities": [
+      "tools",
+      "thinking"
+    ],
+    "servers": [],
+    "description": "DeepSeek-V3.1-Terminus is a hybrid model that supports both thinking mode and non-thinking mode.",
+    "sizes": [
+      "671b"
+    ],
+    "pullsNumeric": 576200,
+    "registryUrl": "https://ollama.com/library/deepseek-v3.1",
+    "sizeEstimates": [
+      {
+        "tag": "671b",
+        "type": "dense",
+        "totalParamsB": 671,
+        "activeParamsB": 671,
+        "vramQ4KM": 356.1,
+        "vramQ8": 671.5,
+        "gpuTier": "48gb+",
+        "fitsIn12gb": false,
+        "fitsIn16gb": false
+      }
+    ],
+    "gpuTier": "48gb+",
+    "fitsIn12gb": false,
+    "fitsIn16gb": false
+  },
+  "deepseek-v3": {
+    "preferred_for": [],
+    "avoid_for": [],
+    "score": 0,
+    "runs": 0,
+    "lastBumpAt": 0,
+    "installed": false,
+    "parameterSize": null,
+    "quantizationLevel": null,
+    "estimatedVramGb": 356.1,
+    "contextLength": null,
+    "sizeGb": null,
+    "family": null,
+    "capabilities": [],
+    "servers": [],
+    "description": "A strong Mixture-of-Experts (MoE) language model with 671B total parameters with 37B activated for each token.",
+    "sizes": [
+      "671b"
+    ],
+    "pullsNumeric": 3800000,
+    "registryUrl": "https://ollama.com/library/deepseek-v3",
+    "sizeEstimates": [
+      {
+        "tag": "671b",
+        "type": "dense",
+        "totalParamsB": 671,
+        "activeParamsB": 671,
+        "vramQ4KM": 356.1,
+        "vramQ8": 671.5,
+        "gpuTier": "48gb+",
+        "fitsIn12gb": false,
+        "fitsIn16gb": false
+      }
+    ],
+    "gpuTier": "48gb+",
+    "fitsIn12gb": false,
+    "fitsIn16gb": false
+  }
+}
