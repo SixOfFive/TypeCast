@@ -4,7 +4,7 @@
     "tierUpperGb": 32,
     "tierLowerGbExclusive": 24,
     "footprintSource": "max(perf.actualVramGb, estimatedVramGb, sizeGb)",
-    "generatedAt": "2026-06-13T00:43:08.594Z",
+    "generatedAt": "2026-07-21T20:56:47.553Z",
     "modelCount": 6,
     "parentCatalog": "models-catalog.json"
   },
@@ -133,9 +133,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 39228,
         "avgTotalMs": 40641,
-        "runTotalMs": 609119,
-        "runTotalFormatted": "10m 9s",
-        "testedAt": "2026-05-16T01:27:25.887Z",
+        "runTotalMs": 148,
+        "runTotalFormatted": "148ms",
+        "testedAt": "2026-06-13T13:25:52.547Z",
         "tests": [
           {
             "id": "router-3",
@@ -272,7 +272,7 @@
         "avgTotalMs": 37197,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-16T01:27:26.064Z",
+        "testedAt": "2026-06-13T13:25:52.707Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -439,7 +439,7 @@
         "avgTotalMs": 66790,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-16T01:27:26.223Z",
+        "testedAt": "2026-06-13T13:25:52.865Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -606,7 +606,7 @@
         "avgTotalMs": 61399,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-16T01:27:26.381Z",
+        "testedAt": "2026-06-13T13:25:53.006Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -773,7 +773,7 @@
         "avgTotalMs": 69556,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-16T01:27:26.541Z",
+        "testedAt": "2026-06-13T13:25:53.164Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -940,7 +940,7 @@
         "avgTotalMs": 38467,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-16T01:27:26.704Z",
+        "testedAt": "2026-06-13T13:25:53.329Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -1107,7 +1107,7 @@
         "avgTotalMs": 165977,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-16T01:27:26.855Z",
+        "testedAt": "2026-06-13T13:25:53.485Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -1274,7 +1274,7 @@
         "avgTotalMs": 58460,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-16T01:27:27.022Z",
+        "testedAt": "2026-06-13T13:25:53.639Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -1441,7 +1441,7 @@
         "avgTotalMs": 58252,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-16T01:27:27.178Z",
+        "testedAt": "2026-06-13T13:25:53.797Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -1608,7 +1608,7 @@
         "avgTotalMs": 46523,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-16T01:27:27.336Z",
+        "testedAt": "2026-06-13T13:25:53.940Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -1775,7 +1775,7 @@
         "avgTotalMs": 78049,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-16T01:27:27.506Z",
+        "testedAt": "2026-06-13T13:25:54.101Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -1942,7 +1942,7 @@
         "avgTotalMs": 42432,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-16T01:27:27.664Z",
+        "testedAt": "2026-06-13T13:25:54.257Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -2109,7 +2109,7 @@
         "avgTotalMs": 17641,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-16T01:27:27.817Z",
+        "testedAt": "2026-06-13T13:25:54.411Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -2276,7 +2276,7 @@
         "avgTotalMs": 49906,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-16T01:27:27.978Z",
+        "testedAt": "2026-06-13T13:25:54.564Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -2443,7 +2443,7 @@
         "avgTotalMs": 18993,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-16T01:27:28.144Z",
+        "testedAt": "2026-06-13T13:25:54.715Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -2610,7 +2610,7 @@
         "avgTotalMs": 16566,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-16T01:27:28.290Z",
+        "testedAt": "2026-06-13T13:25:54.876Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -2777,7 +2777,7 @@
         "avgTotalMs": 29362,
         "runTotalMs": 0,
         "runTotalFormatted": "0ms",
-        "testedAt": "2026-05-16T01:27:28.440Z",
+        "testedAt": "2026-06-13T13:25:55.029Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
