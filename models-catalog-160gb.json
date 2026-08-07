@@ -4,65 +4,8 @@
     "tierUpperGb": 160,
     "tierLowerGbExclusive": 128,
     "footprintSource": "max(perf.actualVramGb, estimatedVramGb, sizeGb)",
-    "generatedAt": "2026-07-21T20:56:47.560Z",
-    "modelCount": 1,
+    "generatedAt": "2026-08-07T19:51:23.922Z",
+    "modelCount": 0,
     "parentCatalog": "models-catalog.json"
-  },
-  "llama4": {
-    "preferred_for": [],
-    "avoid_for": [],
-    "score": 0,
-    "runs": 0,
-    "lastBumpAt": 0,
-    "installed": false,
-    "parameterSize": null,
-    "quantizationLevel": null,
-    "estimatedVramGb": 144.7,
-    "contextLength": null,
-    "sizeGb": null,
-    "family": null,
-    "capabilities": [
-      "vision",
-      "tools"
-    ],
-    "servers": [],
-    "description": "Meta's latest collection of multimodal models.",
-    "sizes": [
-      "16x17b",
-      "128x17b"
-    ],
-    "pullsNumeric": 1600000,
-    "registryUrl": "https://ollama.com/library/llama4",
-    "sizeEstimates": [
-      {
-        "tag": "16x17b",
-        "type": "moe",
-        "totalParamsB": 272,
-        "activeParamsB": 34,
-        "vramQ4KM": 144.7,
-        "vramQ8": 272.5,
-        "gpuTier": "48gb+",
-        "fitsIn12gb": false,
-        "fitsIn16gb": false,
-        "experts": 16,
-        "perExpertB": 17
-      },
-      {
-        "tag": "128x17b",
-        "type": "moe",
-        "totalParamsB": 2176,
-        "activeParamsB": 34,
-        "vramQ4KM": 1153.8,
-        "vramQ8": 2176.5,
-        "gpuTier": "48gb+",
-        "fitsIn12gb": false,
-        "fitsIn16gb": false,
-        "experts": 128,
-        "perExpertB": 17
-      }
-    ],
-    "gpuTier": "48gb+",
-    "fitsIn12gb": false,
-    "fitsIn16gb": false
   }
 }

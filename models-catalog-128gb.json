@@ -4,46 +4,8 @@
     "tierUpperGb": 128,
     "tierLowerGbExclusive": 96,
     "footprintSource": "max(perf.actualVramGb, estimatedVramGb, sizeGb)",
-    "generatedAt": "2026-07-21T20:56:47.559Z",
-    "modelCount": 1,
+    "generatedAt": "2026-08-07T19:51:23.920Z",
+    "modelCount": 0,
     "parentCatalog": "models-catalog.json"
-  },
-  "deepseek-v2.5": {
-    "preferred_for": [],
-    "avoid_for": [],
-    "score": 0,
-    "runs": 0,
-    "lastBumpAt": 0,
-    "installed": false,
-    "parameterSize": null,
-    "quantizationLevel": null,
-    "estimatedVramGb": 125.6,
-    "contextLength": null,
-    "sizeGb": null,
-    "family": null,
-    "capabilities": [],
-    "servers": [],
-    "description": "An upgraded version of DeekSeek-V2  that integrates the general and coding abilities of both DeepSeek-V2-Chat and DeepSeek-Coder-V2-Instruct.",
-    "sizes": [
-      "236b"
-    ],
-    "pullsNumeric": 263200,
-    "registryUrl": "https://ollama.com/library/deepseek-v2.5",
-    "sizeEstimates": [
-      {
-        "tag": "236b",
-        "type": "dense",
-        "totalParamsB": 236,
-        "activeParamsB": 236,
-        "vramQ4KM": 125.6,
-        "vramQ8": 236.5,
-        "gpuTier": "48gb+",
-        "fitsIn12gb": false,
-        "fitsIn16gb": false
-      }
-    ],
-    "gpuTier": "48gb+",
-    "fitsIn12gb": false,
-    "fitsIn16gb": false
   }
 }
