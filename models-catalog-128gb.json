@@ -4,7 +4,7 @@
     "tierUpperGb": 128,
     "tierLowerGbExclusive": 96,
     "footprintSource": "max(perf.actualVramGb, estimatedVramGb, sizeGb)",
-    "generatedAt": "2026-08-07T19:51:23.920Z",
+    "generatedAt": "2026-08-09T21:04:03.949Z",
     "modelCount": 0,
     "parentCatalog": "models-catalog.json"
   }
