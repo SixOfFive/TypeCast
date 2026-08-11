@@ -6,10 +6,10 @@ Benchmark results for local LLMs evaluated against 17 agent roles. Each role has
 
 > *Which role is each model typecast for? The top of each section answers it.*
 
-> Last generated: 2026-08-11T00:44:27.350Z  
-> Catalog generated: 2026-08-11T00:44:27.183Z  
-> Total models in catalog: **14**  
-> Tested (has role scores): **14**
+> Last generated: 2026-08-11T01:33:51.730Z  
+> Catalog generated: 2026-08-11T01:33:51.559Z  
+> Total models in catalog: **15**  
+> Tested (has role scores): **15**
 
 ## Jump to
 
@@ -34,10 +34,11 @@ Top **25** tested models ranked by total score across all tested roles.
 | 8 | `qwen2.5-coder:32b` | **+160** | 53.3 | 19/22 | 7/9 | 32.8B | 18.5 GB | 6 | 3/17 |
 | 9 | `gemma-4:12b-it` | **+90** | 45.0 | 13/17 | 4/6 | 11.9B | 7 GB | 2 | 2/17 |
 | 10 | `qwen2.5-coder:1.5b-instruct` | **+20** | 1.1 | 91/180 | 27/66 | 1.5B | 1.3 GB | 36 | 18/17 |
-| 11 | `qwen2.5-vl:3b-instruct` | **-60** | -3.3 | 87/180 | 20/66 | 3.1B | 2.2 GB | 43 | 18/17 |
-| 12 | `qwen2.5:1.5b-instruct` | **-60** | -3.3 | 87/180 | 20/66 | 1.5B | 1.3 GB | 81 | 18/17 |
-| 13 | `laguna-xs-2.1` | **-100** | -100.0 | 0/10 | 0/5 | 33.4B | 18.9 GB | 6 | 1/17 |
-| 14 | `qwen2.5:0.5b-instruct` | **-740** | -41.1 | 53/180 | 15/66 | 494M | 0.8 GB | 97 | 18/17 |
+| 11 | `olmoe-1b-7b-0924-instruct` | **-30** | -5.0 | 28/59 | 11/27 | 6.9B | 4.3 GB | 14 | 6/17 |
+| 12 | `qwen2.5-vl:3b-instruct` | **-60** | -3.3 | 87/180 | 20/66 | 3.1B | 2.2 GB | 43 | 18/17 |
+| 13 | `qwen2.5:1.5b-instruct` | **-60** | -3.3 | 87/180 | 20/66 | 1.5B | 1.3 GB | 81 | 18/17 |
+| 14 | `laguna-xs-2.1` | **-100** | -100.0 | 0/10 | 0/5 | 33.4B | 18.9 GB | 6 | 1/17 |
+| 15 | `qwen2.5:0.5b-instruct` | **-740** | -41.1 | 53/180 | 15/66 | 494M | 0.8 GB | 97 | 18/17 |
 
 ## By VRAM Tier
 
@@ -57,7 +58,7 @@ Best models at each hardware size.
 
 ### Small (4–8 GB)
 
-4 models in this tier. Top 10 shown.
+5 models in this tier. Top 10 shown.
 
 | Rank | Model | Score | Passed | WOW | Params | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|------:|
@@ -65,6 +66,7 @@ Best models at each hardware size.
 | 2 | `ministral-3:14b` | **+590** | 74/89 | 28/36 | 13.5B | 13 |
 | 3 | `ornith-1.0:9b` | **+480** | 114/180 | 37/66 | 9.0B | 26 |
 | 4 | `gemma-4:12b-it` | **+90** | 13/17 | 4/6 | 11.9B | 2 |
+| 5 | `olmoe-1b-7b-0924-instruct` | **-30** | 28/59 | 11/27 | 6.9B | 14 |
 
 ### Medium (8–16 GB)
 
@@ -90,7 +92,7 @@ Best models at each hardware size.
 Best performers for each agent role. Click a role to expand.
 
 <details>
-<summary><b>router</b> — 14 tested, 10 passing (score > 0)</summary>
+<summary><b>router</b> — 15 tested, 10 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
@@ -126,7 +128,7 @@ Best performers for each agent role. Click a role to expand.
 </details>
 
 <details>
-<summary><b>planner</b> — 13 tested, 7 passing (score > 0)</summary>
+<summary><b>planner</b> — 14 tested, 7 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
@@ -137,32 +139,32 @@ Best performers for each agent role. Click a role to expand.
 | 5 | `qwen2.5:1.5b-instruct` | **+40** | 7/10 | 1/4 | 1.5B | 1.3 GB | 93 |
 | 6 | `qwen3:4b` | **+40** | 7/10 | 3/4 | 4.0B | 2.7 GB | 10 |
 | 7 | `qwen2.5-coder:32b` | **+20** | 2/2 | 0/0 | 32.8B | 18.5 GB | 6 |
-| 8 | `qwen2.5-vl:3b-instruct` | **0** | 5/10 | 1/4 | 3.1B | 2.2 GB | 58 |
-| 9 | `qwen2.5-vl:7b` | **0** | 5/10 | 1/4 | 7.6B | 4.7 GB | 47 |
-| 10 | `qwen2.5:14b-instruct` | **0** | 5/10 | 0/4 | 14.8B | 8.6 GB | 30 |
+| 8 | `olmoe-1b-7b-0924-instruct` | **0** | 5/10 | 1/4 | 6.9B | 4.3 GB | 10 |
+| 9 | `qwen2.5-vl:3b-instruct` | **0** | 5/10 | 1/4 | 3.1B | 2.2 GB | 58 |
+| 10 | `qwen2.5-vl:7b` | **0** | 5/10 | 1/4 | 7.6B | 4.7 GB | 47 |
 
 </details>
 
 <details>
-<summary><b>coder</b> — 10 tested, 9 passing (score > 0)</summary>
+<summary><b>coder</b> — 11 tested, 10 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
 | 1 | `ministral-3:14b` | **+80** | 9/10 | 4/5 | 13.5B | 7.9 GB | 11 |
 | 2 | `qwen2.5-vl:7b` | **+80** | 9/10 | 4/5 | 7.6B | 4.7 GB | 31 |
 | 3 | `kimi-linear-48b-a3b-instruct` | **+60** | 8/10 | 3/5 | 49.1B | 27.5 GB | 6 |
-| 4 | `ornith-1.0:9b` | **+60** | 8/10 | 3/5 | 9.0B | 5.5 GB | 27 |
-| 5 | `qwen2.5-vl:3b-instruct` | **+60** | 8/10 | 3/5 | 3.1B | 2.2 GB | 53 |
-| 6 | `qwen2.5:14b-instruct` | **+60** | 8/10 | 4/5 | 14.8B | 8.6 GB | 30 |
-| 7 | `qwen2.5-coder:1.5b-instruct` | **+40** | 7/10 | 3/5 | 1.5B | 1.3 GB | 49 |
-| 8 | `qwen2.5:0.5b-instruct` | **+20** | 6/10 | 1/5 | 494M | 0.8 GB | 112 |
-| 9 | `qwen2.5:1.5b-instruct` | **+20** | 6/10 | 2/5 | 1.5B | 1.3 GB | 92 |
-| 10 | `qwen3:4b` | **-20** | 4/10 | 0/5 | 4.0B | 2.7 GB | 9 |
+| 4 | `olmoe-1b-7b-0924-instruct` | **+60** | 8/10 | 3/5 | 6.9B | 4.3 GB | 14 |
+| 5 | `ornith-1.0:9b` | **+60** | 8/10 | 3/5 | 9.0B | 5.5 GB | 27 |
+| 6 | `qwen2.5-vl:3b-instruct` | **+60** | 8/10 | 3/5 | 3.1B | 2.2 GB | 53 |
+| 7 | `qwen2.5:14b-instruct` | **+60** | 8/10 | 4/5 | 14.8B | 8.6 GB | 30 |
+| 8 | `qwen2.5-coder:1.5b-instruct` | **+40** | 7/10 | 3/5 | 1.5B | 1.3 GB | 49 |
+| 9 | `qwen2.5:0.5b-instruct` | **+20** | 6/10 | 1/5 | 494M | 0.8 GB | 112 |
+| 10 | `qwen2.5:1.5b-instruct` | **+20** | 6/10 | 2/5 | 1.5B | 1.3 GB | 92 |
 
 </details>
 
 <details>
-<summary><b>reviewer</b> — 10 tested, 4 passing (score > 0)</summary>
+<summary><b>reviewer</b> — 11 tested, 4 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
@@ -175,12 +177,12 @@ Best performers for each agent role. Click a role to expand.
 | 7 | `qwen2.5-coder:1.5b-instruct` | **-40** | 3/10 | 0/4 | 1.5B | 1.3 GB | 55 |
 | 8 | `qwen2.5:1.5b-instruct` | **-40** | 3/10 | 0/4 | 1.5B | 1.3 GB | 95 |
 | 9 | `qwen2.5:0.5b-instruct` | **-60** | 2/10 | 0/4 | 494M | 0.8 GB | 117 |
-| 10 | `qwen2.5-vl:3b-instruct` | **-80** | 1/10 | 0/4 | 3.1B | 2.2 GB | 60 |
+| 10 | `olmoe-1b-7b-0924-instruct` | **-80** | 1/10 | 0/4 | 6.9B | 4.3 GB | 14 |
 
 </details>
 
 <details>
-<summary><b>summarizer</b> — 10 tested, 8 passing (score > 0)</summary>
+<summary><b>summarizer</b> — 11 tested, 9 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
@@ -190,15 +192,15 @@ Best performers for each agent role. Click a role to expand.
 | 4 | `qwen3:4b` | **+80** | 9/10 | 4/5 | 4.0B | 2.7 GB | 4 |
 | 5 | `qwen2.5-vl:7b` | **+60** | 8/10 | 3/5 | 7.6B | 4.7 GB | 32 |
 | 6 | `kimi-linear-48b-a3b-instruct` | **+40** | 7/10 | 3/5 | 49.1B | 27.5 GB | 5 |
-| 7 | `qwen2.5:1.5b-instruct` | **+40** | 7/10 | 3/5 | 1.5B | 1.3 GB | 83 |
-| 8 | `qwen2.5-vl:3b-instruct` | **+20** | 6/10 | 2/5 | 3.1B | 2.2 GB | 53 |
-| 9 | `qwen2.5-coder:1.5b-instruct` | **0** | 5/10 | 2/5 | 1.5B | 1.3 GB | 46 |
-| 10 | `qwen2.5:0.5b-instruct` | **-20** | 4/10 | 3/5 | 494M | 0.8 GB | 106 |
+| 7 | `olmoe-1b-7b-0924-instruct` | **+40** | 7/10 | 4/5 | 6.9B | 4.3 GB | 14 |
+| 8 | `qwen2.5:1.5b-instruct` | **+40** | 7/10 | 3/5 | 1.5B | 1.3 GB | 83 |
+| 9 | `qwen2.5-vl:3b-instruct` | **+20** | 6/10 | 2/5 | 3.1B | 2.2 GB | 53 |
+| 10 | `qwen2.5-coder:1.5b-instruct` | **0** | 5/10 | 2/5 | 1.5B | 1.3 GB | 46 |
 
 </details>
 
 <details>
-<summary><b>architect</b> — 10 tested, 4 passing (score > 0)</summary>
+<summary><b>architect</b> — 11 tested, 4 passing (score > 0)</summary>
 
 | Rank | Model | Score | Passed | WOW | Params | VRAM | Tok/s |
 |-----:|-------|------:|:------:|:---:|:------:|-----:|------:|
@@ -208,10 +210,10 @@ Best performers for each agent role. Click a role to expand.
 | 4 | `kimi-linear-48b-a3b-instruct` | **+20** | 6/10 | 2/5 | 49.1B | 27.5 GB | 6 |
 | 5 | `qwen2.5:14b-instruct` | **0** | 5/10 | 2/5 | 14.8B | 8.6 GB | 32 |
 | 6 | `qwen2.5-vl:7b` | **-20** | 4/10 | 2/5 | 7.6B | 4.7 GB | 46 |
-| 7 | `qwen2.5:1.5b-instruct` | **-40** | 3/10 | 2/5 | 1.5B | 1.3 GB | 95 |
-| 8 | `qwen2.5-coder:1.5b-instruct` | **-60** | 2/10 | 1/5 | 1.5B | 1.3 GB | 57 |
-| 9 | `qwen2.5-vl:3b-instruct` | **-60** | 2/10 | 1/5 | 3.1B | 2.2 GB | 60 |
-| 10 | `qwen2.5:0.5b-instruct` | **-60** | 2/10 | 1/5 | 494M | 0.8 GB | 119 |
+| 7 | `olmoe-1b-7b-0924-instruct` | **-30** | 3/9 | 2/4 | 6.9B | 4.3 GB | 14 |
+| 8 | `qwen2.5:1.5b-instruct` | **-40** | 3/10 | 2/5 | 1.5B | 1.3 GB | 95 |
+| 9 | `qwen2.5-coder:1.5b-instruct` | **-60** | 2/10 | 1/5 | 1.5B | 1.3 GB | 57 |
+| 10 | `qwen2.5-vl:3b-instruct` | **-60** | 2/10 | 1/5 | 3.1B | 2.2 GB | 60 |
 
 </details>
 
@@ -404,6 +406,7 @@ Best performers for each agent role. Click a role to expand.
 | `qwen2.5-coder:32b` | **+160** | +60 | +80 | +20 | — | — | — | — | — | — | — | — | — | — | — | — | — | — |
 | `gemma-4:12b-it` | **+90** | +40 | — | +50 | — | — | — | — | — | — | — | — | — | — | — | — | — | — |
 | `qwen2.5-coder:1.5b-instruct` | **+20** | +60 | +40 | -40 | +40 | -40 | 0 | -60 | 0 | +40 | 0 | +60 | -20 | +20 | -20 | -40 | -20 | +20 |
+| `olmoe-1b-7b-0924-instruct` | **-30** | -20 | — | 0 | +60 | -80 | +40 | -30 | — | — | — | — | — | — | — | — | — | — |
 | `qwen2.5-vl:3b-instruct` | **-60** | +60 | 0 | 0 | +60 | -80 | +20 | -60 | 0 | +20 | -40 | +40 | -60 | 0 | -20 | +20 | -20 | -20 |
 | `qwen2.5:1.5b-instruct` | **-60** | +40 | 0 | +40 | +20 | -40 | +40 | -40 | 0 | -60 | -20 | +40 | 0 | +20 | 0 | -60 | -20 | -40 |
 | `laguna-xs-2.1` | **-100** | -100 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — |

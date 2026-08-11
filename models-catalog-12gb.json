@@ -4,7 +4,7 @@
     "tierUpperGb": 12,
     "tierLowerGbExclusive": 6,
     "footprintSource": "max(perf.actualVramGb, estimatedVramGb, sizeGb)",
-    "generatedAt": "2026-08-11T00:44:27.277Z",
+    "generatedAt": "2026-08-11T01:33:51.655Z",
     "modelCount": 4,
     "parentCatalog": "models-catalog.json"
   },
@@ -1985,9 +1985,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 5136,
         "avgTotalMs": 9905,
-        "runTotalMs": 99138,
-        "runTotalFormatted": "1m 39s",
-        "testedAt": "2026-08-10T22:06:57.977Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-08-11T00:45:23.335Z",
         "tests": [
           {
             "id": "router-1",
@@ -2152,9 +2152,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 23557,
         "avgTotalMs": 30530,
-        "runTotalMs": 305410,
-        "runTotalFormatted": "5m 5s",
-        "testedAt": "2026-08-10T22:12:03.528Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-08-11T00:45:23.420Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -2319,9 +2319,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 3149,
         "avgTotalMs": 45219,
-        "runTotalMs": 453698,
-        "runTotalFormatted": "7m 33s",
-        "testedAt": "2026-08-10T22:19:37.372Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-08-11T00:45:23.502Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -2486,9 +2486,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 6152,
         "avgTotalMs": 52504,
-        "runTotalMs": 525181,
-        "runTotalFormatted": "8m 45s",
-        "testedAt": "2026-08-10T22:28:22.739Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-08-11T00:45:23.588Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -2653,9 +2653,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 6669,
         "avgTotalMs": 35714,
-        "runTotalMs": 357262,
-        "runTotalFormatted": "5m 57s",
-        "testedAt": "2026-08-10T22:34:20.140Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-08-11T00:45:23.671Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -2820,9 +2820,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 10342,
         "avgTotalMs": 23119,
-        "runTotalMs": 231296,
-        "runTotalFormatted": "3m 51s",
-        "testedAt": "2026-08-10T22:38:11.580Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-08-11T00:45:23.758Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -2987,9 +2987,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 5970,
         "avgTotalMs": 118422,
-        "runTotalMs": 1184341,
-        "runTotalFormatted": "19m 44s",
-        "testedAt": "2026-08-10T22:57:56.069Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-08-11T00:45:23.844Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -3154,9 +3154,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 978,
         "avgTotalMs": 29138,
-        "runTotalMs": 291484,
-        "runTotalFormatted": "4m 51s",
-        "testedAt": "2026-08-10T23:02:47.697Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-08-11T00:45:23.932Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -3321,9 +3321,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 2752,
         "avgTotalMs": 162036,
-        "runTotalMs": 1620494,
-        "runTotalFormatted": "27m 0s",
-        "testedAt": "2026-08-10T23:29:48.330Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-08-11T00:45:24.020Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -3488,9 +3488,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 2993,
         "avgTotalMs": 24046,
-        "runTotalMs": 240571,
-        "runTotalFormatted": "4m 0s",
-        "testedAt": "2026-08-10T23:33:49.031Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-08-11T00:45:24.110Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -3655,9 +3655,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 2609,
         "avgTotalMs": 60186,
-        "runTotalMs": 601983,
-        "runTotalFormatted": "10m 1s",
-        "testedAt": "2026-08-10T23:43:51.157Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-08-11T00:45:24.195Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -3822,9 +3822,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 1208,
         "avgTotalMs": 59029,
-        "runTotalMs": 590408,
-        "runTotalFormatted": "9m 50s",
-        "testedAt": "2026-08-10T23:53:41.695Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-08-11T00:45:24.280Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -3989,9 +3989,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 1035,
         "avgTotalMs": 21395,
-        "runTotalMs": 214074,
-        "runTotalFormatted": "3m 34s",
-        "testedAt": "2026-08-10T23:57:15.910Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-08-11T00:45:24.365Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -4156,9 +4156,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 1038,
         "avgTotalMs": 74444,
-        "runTotalMs": 744573,
-        "runTotalFormatted": "12m 24s",
-        "testedAt": "2026-08-11T00:09:40.617Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-08-11T00:45:24.451Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -4323,9 +4323,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 1405,
         "avgTotalMs": 14391,
-        "runTotalMs": 144051,
-        "runTotalFormatted": "2m 24s",
-        "testedAt": "2026-08-11T00:12:04.855Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-08-11T00:45:24.535Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -4490,9 +4490,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 1394,
         "avgTotalMs": 10740,
-        "runTotalMs": 107532,
-        "runTotalFormatted": "1m 47s",
-        "testedAt": "2026-08-11T00:13:52.576Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-08-11T00:45:24.620Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -4657,9 +4657,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 2127,
         "avgTotalMs": 24542,
-        "runTotalMs": 245566,
-        "runTotalFormatted": "4m 5s",
-        "testedAt": "2026-08-11T00:17:58.309Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-08-11T00:45:24.706Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -4824,9 +4824,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 1342,
         "avgTotalMs": 6030,
-        "runTotalMs": 60437,
-        "runTotalFormatted": "1m 0s",
-        "testedAt": "2026-08-11T00:18:58.948Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-08-11T00:45:24.791Z",
         "tests": [
           {
             "id": "tool_caller-1",
@@ -5061,9 +5061,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 2209,
         "avgTotalMs": 2685,
-        "runTotalMs": 29032,
-        "runTotalFormatted": "29s",
-        "testedAt": "2026-08-04T20:47:00.442Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-08-11T00:47:40.934Z",
         "tests": [
           {
             "id": "router-1",
@@ -5228,9 +5228,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 2779,
         "avgTotalMs": 4854,
-        "runTotalMs": 52154,
-        "runTotalFormatted": "52s",
-        "testedAt": "2026-08-04T20:47:53.173Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-08-11T00:47:41.019Z",
         "tests": [
           {
             "id": "orchestrator-1",
@@ -5395,9 +5395,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 2255,
         "avgTotalMs": 23474,
-        "runTotalMs": 237254,
-        "runTotalFormatted": "3m 57s",
-        "testedAt": "2026-08-04T20:51:50.852Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-08-11T00:47:41.102Z",
         "tests": [
           {
             "id": "planner-core-simple-script",
@@ -5562,9 +5562,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 788,
         "avgTotalMs": 10727,
-        "runTotalMs": 110920,
-        "runTotalFormatted": "1m 50s",
-        "testedAt": "2026-08-04T20:53:42.112Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-08-11T00:47:41.187Z",
         "tests": [
           {
             "id": "coder-core-palindrome",
@@ -5729,9 +5729,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 2678,
         "avgTotalMs": 16932,
-        "runTotalMs": 173339,
-        "runTotalFormatted": "2m 53s",
-        "testedAt": "2026-08-04T20:56:35.950Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-08-11T00:47:41.270Z",
         "tests": [
           {
             "id": "reviewer-core-sql-injection",
@@ -5896,9 +5896,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 3513,
         "avgTotalMs": 10395,
-        "runTotalMs": 107892,
-        "runTotalFormatted": "1m 47s",
-        "testedAt": "2026-08-04T20:58:24.389Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-08-11T00:47:41.363Z",
         "tests": [
           {
             "id": "summarizer-core-weather",
@@ -6063,9 +6063,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 1339,
         "avgTotalMs": 33051,
-        "runTotalMs": 334521,
-        "runTotalFormatted": "5m 34s",
-        "testedAt": "2026-08-04T21:03:59.476Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-08-11T00:47:41.447Z",
         "tests": [
           {
             "id": "architect-core-cli-csv-json",
@@ -6230,9 +6230,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 1280,
         "avgTotalMs": 19698,
-        "runTotalMs": 201199,
-        "runTotalFormatted": "3m 21s",
-        "testedAt": "2026-08-04T21:07:21.425Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-08-11T00:47:41.532Z",
         "tests": [
           {
             "id": "critic-core-missing-dependency",
@@ -6397,9 +6397,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 1617,
         "avgTotalMs": 45869,
-        "runTotalMs": 462700,
-        "runTotalFormatted": "7m 42s",
-        "testedAt": "2026-08-04T21:15:04.697Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-08-11T00:47:41.616Z",
         "tests": [
           {
             "id": "tester-core-simple-function",
@@ -6564,9 +6564,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 2017,
         "avgTotalMs": 9810,
-        "runTotalMs": 102795,
-        "runTotalFormatted": "1m 42s",
-        "testedAt": "2026-08-04T21:16:48.176Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-08-11T00:47:41.699Z",
         "tests": [
           {
             "id": "debugger-core-missing-import",
@@ -6731,9 +6731,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 1149,
         "avgTotalMs": 15655,
-        "runTotalMs": 161350,
-        "runTotalFormatted": "2m 41s",
-        "testedAt": "2026-08-04T21:19:29.980Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-08-11T00:47:41.785Z",
         "tests": [
           {
             "id": "researcher-core-stack-queue",
@@ -6898,9 +6898,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 1723,
         "avgTotalMs": 11143,
-        "runTotalMs": 114888,
-        "runTotalFormatted": "1m 54s",
-        "testedAt": "2026-08-04T21:21:25.519Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-08-11T00:47:41.874Z",
         "tests": [
           {
             "id": "refactorer-core-enumerate",
@@ -7065,9 +7065,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 1025,
         "avgTotalMs": 2540,
-        "runTotalMs": 28799,
-        "runTotalFormatted": "28s",
-        "testedAt": "2026-08-04T21:21:54.917Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-08-11T00:47:41.960Z",
         "tests": [
           {
             "id": "translator-core-simple",
@@ -7232,9 +7232,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 1508,
         "avgTotalMs": 18040,
-        "runTotalMs": 184389,
-        "runTotalFormatted": "3m 4s",
-        "testedAt": "2026-08-04T21:24:59.835Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-08-11T00:47:42.053Z",
         "tests": [
           {
             "id": "data_analyst-core-basic-statistics",
@@ -7399,9 +7399,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 2137,
         "avgTotalMs": 3773,
-        "runTotalMs": 41181,
-        "runTotalFormatted": "41s",
-        "testedAt": "2026-08-04T21:25:41.535Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-08-11T00:47:42.142Z",
         "tests": [
           {
             "id": "preflight-core-approve-readonly",
@@ -7566,9 +7566,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 2194,
         "avgTotalMs": 3330,
-        "runTotalMs": 36460,
-        "runTotalFormatted": "36s",
-        "testedAt": "2026-08-04T21:26:18.564Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-08-11T00:47:42.230Z",
         "tests": [
           {
             "id": "postcheck-core-pass-clean-coder",
@@ -7733,9 +7733,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 3306,
         "avgTotalMs": 9025,
-        "runTotalMs": 93872,
-        "runTotalFormatted": "1m 33s",
-        "testedAt": "2026-08-04T21:27:52.994Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-08-11T00:47:42.315Z",
         "tests": [
           {
             "id": "postmortem-core-missing-import",
@@ -7900,9 +7900,9 @@
         "avgPromptTokSec": null,
         "avgTtftMs": 2113,
         "avgTotalMs": 2881,
-        "runTotalMs": 32319,
-        "runTotalFormatted": "32s",
-        "testedAt": "2026-08-04T21:28:25.800Z",
+        "runTotalMs": 0,
+        "runTotalFormatted": "0ms",
+        "testedAt": "2026-08-11T00:47:42.400Z",
         "tests": [
           {
             "id": "tool_caller-1",
